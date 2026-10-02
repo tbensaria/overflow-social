@@ -1,0 +1,816 @@
+{
+ "postTimeLocal": "17:00",
+ "timezone": "Europe/London",
+ "days": [
+  {
+   "day": 1,
+   "date": "2026-10-03",
+   "title": "The collapse",
+   "x": {
+    "type": "video",
+    "text": "Everything was fine 40 seconds ago.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "tiktok": {
+    "text": "Everything was fine 40 seconds ago. #indiegame #strategygame #gamedev"
+   },
+   "youtube": {
+    "title": "Everything was fine 40 seconds ago #Shorts",
+    "text": "Everything was fine 40 seconds ago.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "reddit": null,
+   "media": {
+    "vertical": null,
+    "x": null
+   },
+   "scheduled": {
+    "x": null,
+    "tiktok": null,
+    "youtube": null
+   },
+   "hold": null
+  },
+  {
+   "day": 2,
+   "date": "2026-10-04",
+   "title": "Calm to chaos",
+   "x": {
+    "type": "video",
+    "text": "Cycle 1 vs Cycle 7 of the same network.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "tiktok": {
+    "text": "Cycle 1 vs Cycle 7 of the same network. #indiegame #strategygame #gamedev"
+   },
+   "youtube": {
+    "title": "Cycle 1 vs Cycle 7 of the same network #Shorts",
+    "text": "Cycle 1 vs Cycle 7 of the same network.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "reddit": null,
+   "media": {
+    "vertical": null,
+    "x": null
+   },
+   "scheduled": {
+    "x": null,
+    "tiktok": null,
+    "youtube": null
+   },
+   "hold": null
+  },
+  {
+   "day": 3,
+   "date": "2026-10-05",
+   "title": "One Trace to save it",
+   "x": {
+    "type": "gif",
+    "text": "Drawing one Trace to save a Node 2 seconds from overflow.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "tiktok": {
+    "text": "Drawing one Trace to save a Node 2 seconds from overflow. #indiegame #strategygame #gamedev"
+   },
+   "youtube": {
+    "title": "Drawing one Trace to save a Node 2 seconds from overflow #Shorts",
+    "text": "Drawing one Trace to save a Node 2 seconds from overflow.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "reddit": null,
+   "media": {
+    "vertical": null,
+    "x": null
+   },
+   "scheduled": {
+    "x": null,
+    "tiktok": null,
+    "youtube": null
+   },
+   "hold": null
+  },
+  {
+   "day": 4,
+   "date": "2026-10-06",
+   "title": "Q saved this run",
+   "x": {
+    "type": "video",
+    "text": "Priority Dispatch. The button you press when it's already too late.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "tiktok": {
+    "text": "Priority Dispatch. The button you press when it's already too late. #indiegame #strategygame #gamedev"
+   },
+   "youtube": {
+    "title": "Priority Dispatch. The button you press when it's already too late #Shorts",
+    "text": "Priority Dispatch. The button you press when it's already too late.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "reddit": "r/IndieDev: post it as a devlog clip with a line on what Priority Dispatch does.",
+   "media": {
+    "vertical": null,
+    "x": null
+   },
+   "scheduled": {
+    "x": null,
+    "tiktok": null,
+    "youtube": null
+   },
+   "hold": null
+  },
+  {
+   "day": 5,
+   "date": "2026-10-07",
+   "title": "Spot the bottleneck",
+   "x": {
+    "type": "image",
+    "text": "One Trace is strangling this whole network. Which one?\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "tiktok": {
+    "text": "One Trace is strangling this whole network. Which one? #indiegame #strategygame #gamedev"
+   },
+   "youtube": {
+    "title": "One Trace is strangling this whole network. Which one? #Shorts",
+    "text": "One Trace is strangling this whole network. Which one?\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "reddit": null,
+   "media": {
+    "vertical": null,
+    "x": null
+   },
+   "scheduled": {
+    "x": null,
+    "tiktok": null,
+    "youtube": null
+   },
+   "hold": null
+  },
+  {
+   "day": 6,
+   "date": "2026-10-08",
+   "title": "HUB STALL",
+   "x": {
+    "type": "video",
+    "text": "The game just switched off my busiest Hub.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "tiktok": {
+    "text": "The game just switched off my busiest Hub. #indiegame #strategygame #gamedev"
+   },
+   "youtube": {
+    "title": "The game just switched off my busiest Hub #Shorts",
+    "text": "The game just switched off my busiest Hub.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "reddit": null,
+   "media": {
+    "vertical": null,
+    "x": null
+   },
+   "scheduled": {
+    "x": null,
+    "tiktok": null,
+    "youtube": null
+   },
+   "hold": null
+  },
+  {
+   "day": 7,
+   "date": "2026-10-09",
+   "title": "What kind of game is this?",
+   "x": {
+    "type": "video",
+    "text": "Be honest. What kind of game do you think this is?\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "tiktok": {
+    "text": "Be honest. What kind of game do you think this is? #indiegame #strategygame #gamedev"
+   },
+   "youtube": {
+    "title": "Be honest. What kind of game do you think this is? #Shorts",
+    "text": "Be honest. What kind of game do you think this is?\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "reddit": null,
+   "media": {
+    "vertical": null,
+    "x": null
+   },
+   "scheduled": {
+    "x": null,
+    "tiktok": null,
+    "youtube": null
+   },
+   "hold": null
+  },
+  {
+   "day": 8,
+   "date": "2026-10-10",
+   "title": "Overflow in 15 seconds",
+   "x": {
+    "type": "video",
+    "text": "Nodes make Signals. Runners carry them. Hubs clear them. If any Node fills up, it's over.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "tiktok": {
+    "text": "Nodes make Signals. Runners carry them. Hubs clear them. If any Node fills up, it's over. #indiegame #strategygame #gamedev"
+   },
+   "youtube": {
+    "title": "Nodes make Signals. Runners carry them. Hubs clear them. If any Node fills up, it's over #Shorts",
+    "text": "Nodes make Signals. Runners carry them. Hubs clear them. If any Node fills up, it's over.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "reddit": null,
+   "media": {
+    "vertical": null,
+    "x": null
+   },
+   "scheduled": {
+    "x": null,
+    "tiktok": null,
+    "youtube": null
+   },
+   "hold": null
+  },
+  {
+   "day": 9,
+   "date": "2026-10-11",
+   "title": "Amber means a deadline",
+   "x": {
+    "type": "video",
+    "text": "Amber Signals have a timer. Red means you missed it.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "tiktok": {
+    "text": "Amber Signals have a timer. Red means you missed it. #indiegame #strategygame #gamedev"
+   },
+   "youtube": {
+    "title": "Amber Signals have a timer. Red means you missed it #Shorts",
+    "text": "Amber Signals have a timer. Red means you missed it.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "reddit": null,
+   "media": {
+    "vertical": null,
+    "x": null
+   },
+   "scheduled": {
+    "x": null,
+    "tiktok": null,
+    "youtube": null
+   },
+   "hold": null
+  },
+  {
+   "day": 10,
+   "date": "2026-10-12",
+   "title": "Bridges",
+   "x": {
+    "type": "gif",
+    "text": "Two Traces only connect where you tell them to.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "tiktok": {
+    "text": "Two Traces only connect where you tell them to. #indiegame #strategygame #gamedev"
+   },
+   "youtube": {
+    "title": "Two Traces only connect where you tell them to #Shorts",
+    "text": "Two Traces only connect where you tell them to.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "reddit": null,
+   "media": {
+    "vertical": null,
+    "x": null
+   },
+   "scheduled": {
+    "x": null,
+    "tiktok": null,
+    "youtube": null
+   },
+   "hold": null
+  },
+  {
+   "day": 11,
+   "date": "2026-10-13",
+   "title": "Pick one",
+   "x": {
+    "type": "image",
+    "text": "Pick one. Which would you take?\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "tiktok": {
+    "text": "Pick one. Which would you take? #indiegame #strategygame #gamedev"
+   },
+   "youtube": {
+    "title": "Pick one. Which would you take? #Shorts",
+    "text": "Pick one. Which would you take?\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "reddit": "r/indiegames: the upgrade choice screen as a still, asking which they'd pick.",
+   "media": {
+    "vertical": null,
+    "x": null
+   },
+   "scheduled": {
+    "x": null,
+    "tiktok": null,
+    "youtube": null
+   },
+   "hold": null
+  },
+  {
+   "day": 12,
+   "date": "2026-10-14",
+   "title": "RUNNER FAILURE",
+   "x": {
+    "type": "video",
+    "text": "Lost a Runner at the worst possible moment.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "tiktok": {
+    "text": "Lost a Runner at the worst possible moment. #indiegame #strategygame #gamedev"
+   },
+   "youtube": {
+    "title": "Lost a Runner at the worst possible moment #Shorts",
+    "text": "Lost a Runner at the worst possible moment.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "reddit": null,
+   "media": {
+    "vertical": null,
+    "x": null
+   },
+   "scheduled": {
+    "x": null,
+    "tiktok": null,
+    "youtube": null
+   },
+   "hold": null
+  },
+  {
+   "day": 13,
+   "date": "2026-10-15",
+   "title": "The board grows",
+   "x": {
+    "type": "gif",
+    "text": "The network outgrew the board, so the board grew.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "tiktok": {
+    "text": "The network outgrew the board, so the board grew. #indiegame #strategygame #gamedev"
+   },
+   "youtube": {
+    "title": "The network outgrew the board, so the board grew #Shorts",
+    "text": "The network outgrew the board, so the board grew.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "reddit": null,
+   "media": {
+    "vertical": null,
+    "x": null
+   },
+   "scheduled": {
+    "x": null,
+    "tiktok": null,
+    "youtube": null
+   },
+   "hold": null
+  },
+  {
+   "day": 14,
+   "date": "2026-10-16",
+   "title": "Rerun the best hook",
+   "x": {
+    "type": "video",
+    "text": "Write a new caption. This tests the caption, not the clip.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "tiktok": {
+    "text": "Write a new caption. This tests the caption, not the clip. #indiegame #strategygame #gamedev"
+   },
+   "youtube": {
+    "title": "Write a new caption. This tests the caption, not the clip #Shorts",
+    "text": "Write a new caption. This tests the caption, not the clip.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "reddit": null,
+   "media": {
+    "vertical": null,
+    "x": null
+   },
+   "scheduled": {
+    "x": null,
+    "tiktok": null,
+    "youtube": null
+   },
+   "hold": "Re-post of the best week 1 clip with a new caption: pick after week 1 numbers."
+  },
+  {
+   "day": 15,
+   "date": "2026-10-17",
+   "title": "Winner remix 1",
+   "x": {
+    "type": "video",
+    "text": "Keep what worked in the original caption.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "tiktok": {
+    "text": "Keep what worked in the original caption. #indiegame #strategygame #gamedev"
+   },
+   "youtube": {
+    "title": "Keep what worked in the original caption #Shorts",
+    "text": "Keep what worked in the original caption.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "reddit": null,
+   "media": {
+    "vertical": null,
+    "x": null
+   },
+   "scheduled": {
+    "x": null,
+    "tiktok": null,
+    "youtube": null
+   },
+   "hold": "Re-cut of the best clip: pick after weeks 1 and 2."
+  },
+  {
+   "day": 16,
+   "date": "2026-10-18",
+   "title": "My Runners were teleporting",
+   "x": {
+    "type": "video",
+    "text": "Found a bug where my Runners teleported home every time they reached a Node. Here's the fix.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "tiktok": {
+    "text": "Found a bug where my Runners teleported home every time they reached a Node. Here's the fix. #indiegame #strategygame #gamedev"
+   },
+   "youtube": {
+    "title": "My Runners were teleporting #Shorts",
+    "text": "Found a bug where my Runners teleported home every time they reached a Node. Here's the fix.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "reddit": null,
+   "media": {
+    "vertical": null,
+    "x": null
+   },
+   "scheduled": {
+    "x": null,
+    "tiktok": null,
+    "youtube": null
+   },
+   "hold": null
+  },
+  {
+   "day": 17,
+   "date": "2026-10-19",
+   "title": "Which network survives?",
+   "x": {
+    "type": "image",
+    "text": "Which one makes it to Cycle 7?\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "tiktok": {
+    "text": "Which one makes it to Cycle 7? #indiegame #strategygame #gamedev"
+   },
+   "youtube": {
+    "title": "Which one makes it to Cycle 7? #Shorts",
+    "text": "Which one makes it to Cycle 7?\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "reddit": null,
+   "media": {
+    "vertical": null,
+    "x": null
+   },
+   "scheduled": {
+    "x": null,
+    "tiktok": null,
+    "youtube": null
+   },
+   "hold": null
+  },
+  {
+   "day": 18,
+   "date": "2026-10-20",
+   "title": "Winner remix 2",
+   "x": {
+    "type": "video",
+    "text": "Lead with the tension, not the visuals.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "tiktok": {
+    "text": "Lead with the tension, not the visuals. #indiegame #strategygame #gamedev"
+   },
+   "youtube": {
+    "title": "Lead with the tension, not the visuals #Shorts",
+    "text": "Lead with the tension, not the visuals.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "reddit": "r/StrategyGames: lead with the strategy (routing under pressure), not the art.",
+   "media": {
+    "vertical": null,
+    "x": null
+   },
+   "scheduled": {
+    "x": null,
+    "tiktok": null,
+    "youtube": null
+   },
+   "hold": "Re-cut of the second-best clip family: pick after weeks 1 and 2."
+  },
+  {
+   "day": 19,
+   "date": "2026-10-21",
+   "title": "One Cycle, no cuts",
+   "x": {
+    "type": "video",
+    "text": "One full Cycle. No cuts.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "tiktok": {
+    "text": "One full Cycle. No cuts. #indiegame #strategygame #gamedev"
+   },
+   "youtube": {
+    "title": "One full Cycle. No cuts #Shorts",
+    "text": "One full Cycle. No cuts.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "reddit": null,
+   "media": {
+    "vertical": null,
+    "x": null
+   },
+   "scheduled": {
+    "x": null,
+    "tiktok": null,
+    "youtube": null
+   },
+   "hold": null
+  },
+  {
+   "day": 20,
+   "date": "2026-10-22",
+   "title": "Cache Purge",
+   "x": {
+    "type": "gif",
+    "text": "Saved by deleting everything.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "tiktok": {
+    "text": "Saved by deleting everything. #indiegame #strategygame #gamedev"
+   },
+   "youtube": {
+    "title": "Saved by deleting everything #Shorts",
+    "text": "Saved by deleting everything.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "reddit": null,
+   "media": {
+    "vertical": null,
+    "x": null
+   },
+   "scheduled": {
+    "x": null,
+    "tiktok": null,
+    "youtube": null
+   },
+   "hold": null
+  },
+  {
+   "day": 21,
+   "date": "2026-10-23",
+   "title": "Pick the focus",
+   "x": {
+    "type": "video",
+    "text": "Which clip this week was your favourite?\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "tiktok": {
+    "text": "Which clip this week was your favourite? #indiegame #strategygame #gamedev"
+   },
+   "youtube": {
+    "title": "Which clip this week was your favourite? #Shorts",
+    "text": "Which clip this week was your favourite?\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "reddit": null,
+   "media": {
+    "vertical": null,
+    "x": null
+   },
+   "scheduled": {
+    "x": null,
+    "tiktok": null,
+    "youtube": null
+   },
+   "hold": null
+  },
+  {
+   "day": 22,
+   "date": "2026-10-24",
+   "title": "Trailer day",
+   "x": {
+    "type": "video",
+    "text": "Overflow. A network under pressure.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "tiktok": {
+    "text": "Overflow. A network under pressure. #indiegame #strategygame #gamedev"
+   },
+   "youtube": {
+    "title": "Overflow. A network under pressure #Shorts",
+    "text": "Overflow. A network under pressure.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "reddit": null,
+   "media": {
+    "vertical": null,
+    "x": null
+   },
+   "scheduled": {
+    "x": null,
+    "tiktok": null,
+    "youtube": null
+   },
+   "hold": null
+  },
+  {
+   "day": 23,
+   "date": "2026-10-25",
+   "title": "Every Layout",
+   "x": {
+    "type": "gif",
+    "text": "Nine boards. Same collapse.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "tiktok": {
+    "text": "Nine boards. Same collapse. #indiegame #strategygame #gamedev"
+   },
+   "youtube": {
+    "title": "Nine boards. Same collapse #Shorts",
+    "text": "Nine boards. Same collapse.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "reddit": null,
+   "media": {
+    "vertical": null,
+    "x": null
+   },
+   "scheduled": {
+    "x": null,
+    "tiktok": null,
+    "youtube": null
+   },
+   "hold": null
+  },
+  {
+   "day": 24,
+   "date": "2026-10-26",
+   "title": "Road to Cycle 10, part 1",
+   "x": {
+    "type": "video",
+    "text": "Trying to reach Cycle 10. Part 1.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "tiktok": {
+    "text": "Trying to reach Cycle 10. Part 1. #indiegame #strategygame #gamedev"
+   },
+   "youtube": {
+    "title": "Trying to reach Cycle 10. Part 1 #Shorts",
+    "text": "Trying to reach Cycle 10. Part 1.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "reddit": null,
+   "media": {
+    "vertical": null,
+    "x": null
+   },
+   "scheduled": {
+    "x": null,
+    "tiktok": null,
+    "youtube": null
+   },
+   "hold": null
+  },
+  {
+   "day": 25,
+   "date": "2026-10-27",
+   "title": "Road to Cycle 10, part 2",
+   "x": {
+    "type": "video",
+    "text": "Part 2. It's getting tight.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "tiktok": {
+    "text": "Part 2. It's getting tight. #indiegame #strategygame #gamedev"
+   },
+   "youtube": {
+    "title": "Part 2. It's getting tight #Shorts",
+    "text": "Part 2. It's getting tight.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "reddit": "r/gamedev Screenshot Saturday thread, or r/IndieGaming if the day doesn't line up.",
+   "media": {
+    "vertical": null,
+    "x": null
+   },
+   "scheduled": {
+    "x": null,
+    "tiktok": null,
+    "youtube": null
+   },
+   "hold": null
+  },
+  {
+   "day": 26,
+   "date": "2026-10-28",
+   "title": "You pick the setup",
+   "x": {
+    "type": "video",
+    "text": "You told me to try this. It went about how you'd expect.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "tiktok": {
+    "text": "You told me to try this. It went about how you'd expect. #indiegame #strategygame #gamedev"
+   },
+   "youtube": {
+    "title": "You told me to try this. It went about how you'd expect #Shorts",
+    "text": "You told me to try this. It went about how you'd expect.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "reddit": null,
+   "media": {
+    "vertical": null,
+    "x": null
+   },
+   "scheduled": {
+    "x": null,
+    "tiktok": null,
+    "youtube": null
+   },
+   "hold": "Uses a setup suggested in the comments."
+  },
+  {
+   "day": 27,
+   "date": "2026-10-29",
+   "title": "Road to Cycle 10, finale",
+   "x": {
+    "type": "video",
+    "text": "Did it make it?\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "tiktok": {
+    "text": "Did it make it? #indiegame #strategygame #gamedev"
+   },
+   "youtube": {
+    "title": "Did it make it? #Shorts",
+    "text": "Did it make it?\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "reddit": null,
+   "media": {
+    "vertical": null,
+    "x": null
+   },
+   "scheduled": {
+    "x": null,
+    "tiktok": null,
+    "youtube": null
+   },
+   "hold": null
+  },
+  {
+   "day": 28,
+   "date": "2026-10-30",
+   "title": "Why it looks like a circuit board",
+   "x": {
+    "type": "video",
+    "text": "I wanted the clarity of a subway map on a computer's insides.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "tiktok": {
+    "text": "I wanted the clarity of a subway map on a computer's insides. #indiegame #strategygame #gamedev"
+   },
+   "youtube": {
+    "title": "I wanted the clarity of a subway map on a computer's insides #Shorts",
+    "text": "I wanted the clarity of a subway map on a computer's insides.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "reddit": null,
+   "media": {
+    "vertical": null,
+    "x": null
+   },
+   "scheduled": {
+    "x": null,
+    "tiktok": null,
+    "youtube": null
+   },
+   "hold": null
+  },
+  {
+   "day": 29,
+   "date": "2026-10-31",
+   "title": "Best of the month",
+   "x": {
+    "type": "video",
+    "text": "The clip you liked most this month.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "tiktok": {
+    "text": "The clip you liked most this month. #indiegame #strategygame #gamedev"
+   },
+   "youtube": {
+    "title": "The clip you liked most this month #Shorts",
+    "text": "The clip you liked most this month.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "reddit": null,
+   "media": {
+    "vertical": null,
+    "x": null
+   },
+   "scheduled": {
+    "x": null,
+    "tiktok": null,
+    "youtube": null
+   },
+   "hold": "Re-post of the month's best clip."
+  },
+  {
+   "day": 30,
+   "date": "2026-11-01",
+   "title": "30 days of posting",
+   "x": {
+    "type": "video",
+    "text": "I posted my game every day for 30 days. Here's what happened.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "tiktok": {
+    "text": "I posted my game every day for 30 days. Here's what happened. #indiegame #strategygame #gamedev"
+   },
+   "youtube": {
+    "title": "I posted my game every day for 30 days. Here's what happened #Shorts",
+    "text": "I posted my game every day for 30 days. Here's what happened.\n\nOverflow is a minimalist strategy roguelite about keeping a network alive under pressure."
+   },
+   "reddit": "r/IndieDev: the results post with real numbers. Results posts tend to do well there.",
+   "media": {
+    "vertical": null,
+    "x": null
+   },
+   "scheduled": {
+    "x": null,
+    "tiktok": null,
+    "youtube": null
+   },
+   "hold": "Results post: needs the month's numbers."
+  }
+ ]
+}
