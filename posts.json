@@ -19,15 +19,17 @@
    },
    "reddit": null,
    "media": {
-    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day01_v.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day01_x.mp4"
+    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day01_v2.mp4",
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day01_x2.mp4"
    },
    "scheduled": {
     "x": "6abf80c71b2a6a8e15589bc5",
     "tiktok": "6abf89d479e44b20b329294d",
     "youtube": null
    },
-   "hold": null
+   "hold": null,
+   "kind": "story",
+   "audio": "sfx"
   },
   {
    "day": 2,
@@ -35,26 +37,28 @@
    "title": "Calm to chaos",
    "x": {
     "type": "video",
-    "text": "Day 2/30.\n\nThe start of a run vs the same run six minutes later. I made this game and I still panic every single time."
+    "text": "Day 2/30.\n\nThe start of a run vs the same run six minutes later. Honest question: at what point would you have rage quit?"
    },
    "tiktok": {
-    "text": "Day 2/30.\n\nThe start of a run vs the same run six minutes later. I made this game and I still panic every single time.\n\n#indiedev #gamedev #indiegame"
+    "text": "Day 2/30.\n\nThe start of a run vs the same run six minutes later. Honest question: at what point would you have rage quit?\n\n#indiedev #gamedev #indiegame"
    },
    "youtube": {
-    "title": "The start of a run vs six minutes later #Shorts",
-    "text": "Day 2/30.\n\nThe start of a run vs the same run six minutes later. I made this game and I still panic every single time."
+    "title": "At what point would you have rage quit? #Shorts",
+    "text": "Day 2/30.\n\nThe start of a run vs the same run six minutes later. Honest question: at what point would you have rage quit?"
    },
    "reddit": null,
    "media": {
-    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day02_v.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day02_x.mp4"
+    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day02_v2.mp4",
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day02_x2.mp4"
    },
    "scheduled": {
     "x": "6abf80d6b41a266eabf400aa",
     "tiktok": "6abf89d681e421bfcd76d59d",
     "youtube": null
    },
-   "hold": null
+   "hold": null,
+   "kind": "question",
+   "audio": "pulse"
   },
   {
    "day": 3,
@@ -62,18 +66,18 @@
    "title": "One Trace to save it",
    "x": {
     "type": "gif",
-    "text": "Day 3/30.\n\nNew thing pops up on the map. Everything else is already on fire. I draw one line and pretend I had a plan all along."
+    "text": "Day 3/30.\n\nNew thing pops up on the map. Everything else is already on fire. I draw one line and pretend I had a plan all along.\n\nRate the plan out of 10. Be gentle."
    },
    "tiktok": {
-    "text": "Day 3/30.\n\nNew thing pops up on the map. Everything else is already on fire. I draw one line and pretend I had a plan all along.\n\n#indiedev #gamedev #indiegame"
+    "text": "Day 3/30.\n\nNew thing pops up on the map. Everything else is already on fire. I draw one line and pretend I had a plan all along.\n\nRate the plan out of 10. Be gentle.\n\n#indiedev #gamedev #indiegame"
    },
    "youtube": {
-    "title": "Drawing one line and pretending I had a plan #Shorts",
-    "text": "Day 3/30.\n\nNew thing pops up on the map. Everything else is already on fire. I draw one line and pretend I had a plan all along."
+    "title": "Rate my plan out of 10. Be gentle. #Shorts",
+    "text": "Day 3/30.\n\nNew thing pops up on the map. Everything else is already on fire. I draw one line and pretend I had a plan all along.\n\nRate the plan out of 10. Be gentle."
    },
    "reddit": null,
    "media": {
-    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day03_v.mp4",
+    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day03_v2.mp4",
     "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day03_x.gif"
    },
    "scheduled": {
@@ -81,7 +85,9 @@
     "tiktok": "6abf89d781e421bfcd76d5d2",
     "youtube": null
    },
-   "hold": null
+   "hold": null,
+   "kind": "engage",
+   "audio": "sfx+pad"
   },
   {
    "day": 4,
@@ -108,7 +114,9 @@
     "tiktok": null,
     "youtube": null
    },
-   "hold": null
+   "hold": null,
+   "kind": "story",
+   "audio": "tick"
   },
   {
    "day": 5,
@@ -135,7 +143,9 @@
     "tiktok": null,
     "youtube": null
    },
-   "hold": null
+   "hold": null,
+   "kind": "question",
+   "audio": "sfx"
   },
   {
    "day": 6,
@@ -162,7 +172,9 @@
     "tiktok": null,
     "youtube": null
    },
-   "hold": null
+   "hold": null,
+   "kind": "story",
+   "audio": "lofi"
   },
   {
    "day": 7,
@@ -181,15 +193,17 @@
    },
    "reddit": null,
    "media": {
-    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day07_v.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day07_x.mp4"
+    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day07_v2.mp4",
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day07_x2.mp4"
    },
    "scheduled": {
     "x": null,
     "tiktok": null,
     "youtube": null
    },
-   "hold": null
+   "hold": null,
+   "kind": "question",
+   "audio": "pad"
   },
   {
    "day": 8,
@@ -216,7 +230,9 @@
     "tiktok": null,
     "youtube": null
    },
-   "hold": null
+   "hold": null,
+   "kind": "story",
+   "audio": "pulse"
   },
   {
    "day": 9,
@@ -224,14 +240,14 @@
    "title": "Amber means a deadline",
    "x": {
     "type": "video",
-    "text": "Day 9/30.\n\nOrange ones are in a hurry. Red ones mean I was too slow. My screen is usually very red."
+    "text": "Day 9/30.\n\nOrange ones are in a hurry. Red ones mean I was too slow.\n\nCount the red ones and drop your number below. Closest guess wins absolutely nothing."
    },
    "tiktok": {
-    "text": "Day 9/30.\n\nOrange ones are in a hurry. Red ones mean I was too slow. My screen is usually very red.\n\n#indiedev #gamedev #indiegame"
+    "text": "Day 9/30.\n\nOrange ones are in a hurry. Red ones mean I was too slow.\n\nCount the red ones and drop your number below. Closest guess wins absolutely nothing.\n\n#indiedev #gamedev #indiegame"
    },
    "youtube": {
-    "title": "Orange means hurry. Red means I was too slow. #Shorts",
-    "text": "Day 9/30.\n\nOrange ones are in a hurry. Red ones mean I was too slow. My screen is usually very red."
+    "title": "Count the red ones. Closest guess wins nothing. #Shorts",
+    "text": "Day 9/30.\n\nOrange ones are in a hurry. Red ones mean I was too slow.\n\nCount the red ones and drop your number below. Closest guess wins absolutely nothing."
    },
    "reddit": null,
    "media": {
@@ -243,7 +259,9 @@
     "tiktok": null,
     "youtube": null
    },
-   "hold": null
+   "hold": null,
+   "kind": "engage",
+   "audio": "sfx"
   },
   {
    "day": 10,
@@ -270,7 +288,9 @@
     "tiktok": null,
     "youtube": null
    },
-   "hold": null
+   "hold": null,
+   "kind": "story",
+   "audio": "lofi"
   },
   {
    "day": 11,
@@ -297,7 +317,9 @@
     "tiktok": null,
     "youtube": null
    },
-   "hold": null
+   "hold": null,
+   "kind": "question",
+   "audio": "tick"
   },
   {
    "day": 12,
@@ -324,7 +346,9 @@
     "tiktok": null,
     "youtube": null
    },
-   "hold": null
+   "hold": null,
+   "kind": "story",
+   "audio": "sfx"
   },
   {
    "day": 13,
@@ -332,14 +356,14 @@
    "title": "The board grows",
    "x": {
     "type": "gif",
-    "text": "Day 13/30.\n\nThe network got too big for the map, so the map got bigger. Problem solved. (Problem not solved. It's now a bigger problem.)"
+    "text": "Day 13/30.\n\nThe network got too big for the map, so the map got bigger. Problem solved. (Problem not solved.)\n\nName this network. Wrong answers only."
    },
    "tiktok": {
-    "text": "Day 13/30.\n\nThe network got too big for the map, so the map got bigger. Problem solved. (Problem not solved. It's now a bigger problem.)\n\n#indiedev #gamedev #indiegame"
+    "text": "Day 13/30.\n\nThe network got too big for the map, so the map got bigger. Problem solved. (Problem not solved.)\n\nName this network. Wrong answers only.\n\n#indiedev #gamedev #indiegame"
    },
    "youtube": {
-    "title": "The map grew. So did my problems. #Shorts",
-    "text": "Day 13/30.\n\nThe network got too big for the map, so the map got bigger. Problem solved. (Problem not solved. It's now a bigger problem.)"
+    "title": "Name this network. Wrong answers only. #Shorts",
+    "text": "Day 13/30.\n\nThe network got too big for the map, so the map got bigger. Problem solved. (Problem not solved.)\n\nName this network. Wrong answers only."
    },
    "reddit": null,
    "media": {
@@ -351,7 +375,9 @@
     "tiktok": null,
     "youtube": null
    },
-   "hold": null
+   "hold": null,
+   "kind": "engage",
+   "audio": "pad"
   },
   {
    "day": 14,
@@ -378,7 +404,9 @@
     "tiktok": null,
     "youtube": null
    },
-   "hold": "Re-post of the best week 1 clip with a new caption: pick after week 1 numbers."
+   "hold": "Re-post of the best week 1 clip with a new caption: pick after week 1 numbers.",
+   "kind": "story",
+   "audio": "pulse"
   },
   {
    "day": 15,
@@ -386,14 +414,14 @@
    "title": "Winner remix 1",
    "x": {
     "type": "video",
-    "text": "Day 15/30.\n\nYou lot liked this one, so here it is again from a better angle."
+    "text": "Day 15/30.\n\nYou lot liked this one, so here it is again from a better angle. Tell me the one thing you'd have done differently."
    },
    "tiktok": {
-    "text": "Day 15/30.\n\nYou lot liked this one, so here it is again from a better angle.\n\n#indiedev #gamedev #indiegame"
+    "text": "Day 15/30.\n\nYou lot liked this one, so here it is again from a better angle. Tell me the one thing you'd have done differently.\n\n#indiedev #gamedev #indiegame"
    },
    "youtube": {
-    "title": "Back by popular demand #Shorts",
-    "text": "Day 15/30.\n\nYou lot liked this one, so here it is again from a better angle."
+    "title": "What would you have done differently? #Shorts",
+    "text": "Day 15/30.\n\nYou lot liked this one, so here it is again from a better angle. Tell me the one thing you'd have done differently."
    },
    "reddit": null,
    "media": {
@@ -405,7 +433,9 @@
     "tiktok": null,
     "youtube": null
    },
-   "hold": "Re-cut of the best clip: pick after weeks 1 and 2."
+   "hold": "Re-cut of the best clip: pick after weeks 1 and 2.",
+   "kind": "engage",
+   "audio": "sfx+tick"
   },
   {
    "day": 16,
@@ -432,7 +462,9 @@
     "tiktok": null,
     "youtube": null
    },
-   "hold": null
+   "hold": null,
+   "kind": "story",
+   "audio": "lofi"
   },
   {
    "day": 17,
@@ -459,7 +491,9 @@
     "tiktok": null,
     "youtube": null
    },
-   "hold": null
+   "hold": null,
+   "kind": "question",
+   "audio": "pad"
   },
   {
    "day": 18,
@@ -467,14 +501,14 @@
    "title": "Winner remix 2",
    "x": {
     "type": "video",
-    "text": "Day 18/30.\n\nAnother one from the how-did-that-survive folder."
+    "text": "Day 18/30.\n\nAnother one from the how-did-that-survive folder. Pause it anywhere and tell me what you'd fix first."
    },
    "tiktok": {
-    "text": "Day 18/30.\n\nAnother one from the how-did-that-survive folder.\n\n#indiedev #gamedev #indiegame"
+    "text": "Day 18/30.\n\nAnother one from the how-did-that-survive folder. Pause it anywhere and tell me what you'd fix first.\n\n#indiedev #gamedev #indiegame"
    },
    "youtube": {
-    "title": "How did that survive? #Shorts",
-    "text": "Day 18/30.\n\nAnother one from the how-did-that-survive folder."
+    "title": "Pause it and tell me what you'd fix first #Shorts",
+    "text": "Day 18/30.\n\nAnother one from the how-did-that-survive folder. Pause it anywhere and tell me what you'd fix first."
    },
    "reddit": "r/StrategyGames: lead with the strategy (routing under pressure), not the art.",
    "media": {
@@ -486,7 +520,9 @@
     "tiktok": null,
     "youtube": null
    },
-   "hold": "Re-cut of the second-best clip family: pick after weeks 1 and 2."
+   "hold": "Re-cut of the second-best clip family: pick after weeks 1 and 2.",
+   "kind": "engage",
+   "audio": "tick"
   },
   {
    "day": 19,
@@ -494,14 +530,14 @@
    "title": "One Cycle, no cuts",
    "x": {
     "type": "video",
-    "text": "Day 19/30.\n\nOne full Cycle. No cuts, no editing. Just me trying very hard not to lose."
+    "text": "Day 19/30.\n\nOne full Cycle. No cuts, no editing, no music. Just me trying very hard not to lose."
    },
    "tiktok": {
-    "text": "Day 19/30.\n\nOne full Cycle. No cuts, no editing. Just me trying very hard not to lose.\n\n#indiedev #gamedev #indiegame"
+    "text": "Day 19/30.\n\nOne full Cycle. No cuts, no editing, no music. Just me trying very hard not to lose.\n\n#indiedev #gamedev #indiegame"
    },
    "youtube": {
     "title": "One full Cycle, no cuts #Shorts",
-    "text": "Day 19/30.\n\nOne full Cycle. No cuts, no editing. Just me trying very hard not to lose."
+    "text": "Day 19/30.\n\nOne full Cycle. No cuts, no editing, no music. Just me trying very hard not to lose."
    },
    "reddit": null,
    "media": {
@@ -513,7 +549,9 @@
     "tiktok": null,
     "youtube": null
    },
-   "hold": null
+   "hold": null,
+   "kind": "story",
+   "audio": "sfx"
   },
   {
    "day": 20,
@@ -521,14 +559,14 @@
    "title": "Cache Purge",
    "x": {
     "type": "gif",
-    "text": "Day 20/30.\n\nWhen it's about to blow, you can just delete everything in the queue. Zero points for it. Worth it every time."
+    "text": "Day 20/30.\n\nWhen it's about to blow, you can just delete everything in the queue. Zero points for it. Worth it every time.\n\nComment PURGE if you'd press it too. No judgement. Some judgement."
    },
    "tiktok": {
-    "text": "Day 20/30.\n\nWhen it's about to blow, you can just delete everything in the queue. Zero points for it. Worth it every time.\n\n#indiedev #gamedev #indiegame"
+    "text": "Day 20/30.\n\nWhen it's about to blow, you can just delete everything in the queue. Zero points for it. Worth it every time.\n\nComment PURGE if you'd press it too. No judgement. Some judgement.\n\n#indiedev #gamedev #indiegame"
    },
    "youtube": {
     "title": "When in doubt, delete everything #Shorts",
-    "text": "Day 20/30.\n\nWhen it's about to blow, you can just delete everything in the queue. Zero points for it. Worth it every time."
+    "text": "Day 20/30.\n\nWhen it's about to blow, you can just delete everything in the queue. Zero points for it. Worth it every time.\n\nComment PURGE if you'd press it too. No judgement. Some judgement."
    },
    "reddit": null,
    "media": {
@@ -540,7 +578,9 @@
     "tiktok": null,
     "youtube": null
    },
-   "hold": null
+   "hold": null,
+   "kind": "engage",
+   "audio": "pulse"
   },
   {
    "day": 21,
@@ -567,7 +607,9 @@
     "tiktok": null,
     "youtube": null
    },
-   "hold": null
+   "hold": null,
+   "kind": "question",
+   "audio": "lofi"
   },
   {
    "day": 22,
@@ -594,7 +636,9 @@
     "tiktok": null,
     "youtube": null
    },
-   "hold": null
+   "hold": null,
+   "kind": "story",
+   "audio": "trailer"
   },
   {
    "day": 23,
@@ -602,14 +646,14 @@
    "title": "Every Layout",
    "x": {
     "type": "gif",
-    "text": "Day 23/30.\n\nNine different maps. I lose on all of them in very creative ways."
+    "text": "Day 23/30.\n\nNine different maps. I lose on all of them in very creative ways.\n\nPick your favourite of the nine and I'll tell you if it's the one that beats me most."
    },
    "tiktok": {
-    "text": "Day 23/30.\n\nNine different maps. I lose on all of them in very creative ways.\n\n#indiedev #gamedev #indiegame"
+    "text": "Day 23/30.\n\nNine different maps. I lose on all of them in very creative ways.\n\nPick your favourite of the nine and I'll tell you if it's the one that beats me most.\n\n#indiedev #gamedev #indiegame"
    },
    "youtube": {
-    "title": "Nine maps, nine ways to lose #Shorts",
-    "text": "Day 23/30.\n\nNine different maps. I lose on all of them in very creative ways."
+    "title": "Nine maps, nine ways to lose. Pick one. #Shorts",
+    "text": "Day 23/30.\n\nNine different maps. I lose on all of them in very creative ways.\n\nPick your favourite of the nine and I'll tell you if it's the one that beats me most."
    },
    "reddit": null,
    "media": {
@@ -621,7 +665,9 @@
     "tiktok": null,
     "youtube": null
    },
-   "hold": null
+   "hold": null,
+   "kind": "engage",
+   "audio": "sfx+pulse"
   },
   {
    "day": 24,
@@ -648,7 +694,9 @@
     "tiktok": null,
     "youtube": null
    },
-   "hold": null
+   "hold": null,
+   "kind": "story",
+   "audio": "tick"
   },
   {
    "day": 25,
@@ -656,14 +704,14 @@
    "title": "Road to Cycle 10, part 2",
    "x": {
     "type": "video",
-    "text": "Day 25/30. Road to Cycle 10, part 2.\n\nIt's getting tight. I'm sweating. The game does not care."
+    "text": "Day 25/30. Road to Cycle 10, part 2.\n\nIt's getting tight. I'm sweating. The game does not care.\n\nPredictions: do I make it? Yes or no below. I'll remember who doubted me."
    },
    "tiktok": {
-    "text": "Day 25/30. Road to Cycle 10, part 2.\n\nIt's getting tight. I'm sweating. The game does not care.\n\n#indiedev #gamedev #indiegame"
+    "text": "Day 25/30. Road to Cycle 10, part 2.\n\nIt's getting tight. I'm sweating. The game does not care.\n\nPredictions: do I make it? Yes or no below. I'll remember who doubted me.\n\n#indiedev #gamedev #indiegame"
    },
    "youtube": {
-    "title": "Road to Cycle 10, part 2 #Shorts",
-    "text": "Day 25/30. Road to Cycle 10, part 2.\n\nIt's getting tight. I'm sweating. The game does not care."
+    "title": "Road to Cycle 10, part 2. Will I make it? #Shorts",
+    "text": "Day 25/30. Road to Cycle 10, part 2.\n\nIt's getting tight. I'm sweating. The game does not care.\n\nPredictions: do I make it? Yes or no below. I'll remember who doubted me."
    },
    "reddit": "r/gamedev Screenshot Saturday thread, or r/IndieGaming if the day doesn't line up.",
    "media": {
@@ -675,7 +723,9 @@
     "tiktok": null,
     "youtube": null
    },
-   "hold": null
+   "hold": null,
+   "kind": "engage",
+   "audio": "sfx"
   },
   {
    "day": 26,
@@ -683,14 +733,14 @@
    "title": "You pick the setup",
    "x": {
     "type": "video",
-    "text": "Day 26/30.\n\nSomeone in the comments told me to try this. I did. You'll see how that went."
+    "text": "Day 26/30.\n\nSomeone in the comments told me to try this. I did. You'll see how that went.\n\nKeep the suggestions coming. I'm clearly not learning."
    },
    "tiktok": {
-    "text": "Day 26/30.\n\nSomeone in the comments told me to try this. I did. You'll see how that went.\n\n#indiedev #gamedev #indiegame"
+    "text": "Day 26/30.\n\nSomeone in the comments told me to try this. I did. You'll see how that went.\n\nKeep the suggestions coming. I'm clearly not learning.\n\n#indiedev #gamedev #indiegame"
    },
    "youtube": {
     "title": "You told me to try this #Shorts",
-    "text": "Day 26/30.\n\nSomeone in the comments told me to try this. I did. You'll see how that went."
+    "text": "Day 26/30.\n\nSomeone in the comments told me to try this. I did. You'll see how that went.\n\nKeep the suggestions coming. I'm clearly not learning."
    },
    "reddit": null,
    "media": {
@@ -702,7 +752,9 @@
     "tiktok": null,
     "youtube": null
    },
-   "hold": "Uses a setup suggested in the comments."
+   "hold": "Uses a setup suggested in the comments.",
+   "kind": "engage",
+   "audio": "pad"
   },
   {
    "day": 27,
@@ -729,7 +781,9 @@
     "tiktok": null,
     "youtube": null
    },
-   "hold": null
+   "hold": null,
+   "kind": "question",
+   "audio": "pulse"
   },
   {
    "day": 28,
@@ -756,7 +810,9 @@
     "tiktok": null,
     "youtube": null
    },
-   "hold": null
+   "hold": null,
+   "kind": "story",
+   "audio": "lofi"
   },
   {
    "day": 29,
@@ -764,14 +820,14 @@
    "title": "Best of the month",
    "x": {
     "type": "video",
-    "text": "Day 29/30.\n\nThe clip you liked most this month. Thanks for watching me fail daily."
+    "text": "Day 29/30.\n\nThe clip you liked most this month. Thanks for watching me fail daily.\n\nWhat should I post next month?"
    },
    "tiktok": {
-    "text": "Day 29/30.\n\nThe clip you liked most this month. Thanks for watching me fail daily.\n\n#indiedev #gamedev #indiegame"
+    "text": "Day 29/30.\n\nThe clip you liked most this month. Thanks for watching me fail daily.\n\nWhat should I post next month?\n\n#indiedev #gamedev #indiegame"
    },
    "youtube": {
-    "title": "Your favourite clip of the month #Shorts",
-    "text": "Day 29/30.\n\nThe clip you liked most this month. Thanks for watching me fail daily."
+    "title": "Your favourite clip. What should I post next? #Shorts",
+    "text": "Day 29/30.\n\nThe clip you liked most this month. Thanks for watching me fail daily.\n\nWhat should I post next month?"
    },
    "reddit": null,
    "media": {
@@ -783,7 +839,9 @@
     "tiktok": null,
     "youtube": null
    },
-   "hold": "Re-post of the month's best clip."
+   "hold": "Re-post of the month's best clip.",
+   "kind": "question",
+   "audio": "sfx"
   },
   {
    "day": 30,
@@ -791,14 +849,14 @@
    "title": "30 days of posting",
    "x": {
     "type": "video",
-    "text": "Day 30/30.\n\nI posted my game every day for a month. Here's what actually happened, numbers and all."
+    "text": "Day 30/30.\n\nI posted my game every day for a month. Here's what actually happened, numbers and all.\n\nIf you followed along, say hi. You made this a lot less lonely."
    },
    "tiktok": {
-    "text": "Day 30/30.\n\nI posted my game every day for a month. Here's what actually happened, numbers and all.\n\n#indiedev #gamedev #indiegame"
+    "text": "Day 30/30.\n\nI posted my game every day for a month. Here's what actually happened, numbers and all.\n\nIf you followed along, say hi. You made this a lot less lonely.\n\n#indiedev #gamedev #indiegame"
    },
    "youtube": {
     "title": "I posted my game every day for 30 days #Shorts",
-    "text": "Day 30/30.\n\nI posted my game every day for a month. Here's what actually happened, numbers and all."
+    "text": "Day 30/30.\n\nI posted my game every day for a month. Here's what actually happened, numbers and all.\n\nIf you followed along, say hi. You made this a lot less lonely."
    },
    "reddit": "r/IndieDev: the results post with real numbers. Results posts tend to do well there.",
    "media": {
@@ -810,8 +868,10 @@
     "tiktok": null,
     "youtube": null
    },
-   "hold": "Results post: needs the month's numbers."
+   "hold": "Results post: needs the month's numbers.",
+   "kind": "engage",
+   "audio": "pad"
   }
  ],
- "voice": "Solo-dev journey posts: first person, funny, self-deprecating, plain words. No sales line, no jargon walls, no em dashes."
+ "voice": "Solo-dev journey posts: first person, funny, self-deprecating, plain words. No sales line, no jargon walls, no em dashes. Mix the kinds: story, question, engage. Rotate audio: sfx only, or one of the beds (pulse, pad, tick, lofi, trailer), never the same two days running."
 }
