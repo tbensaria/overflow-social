@@ -181,8 +181,8 @@
    },
    "reddit": null,
    "media": {
-    "vertical": null,
-    "x": null
+    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day07_v.mp4",
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day07_x.mp4"
    },
    "scheduled": {
     "x": null,
