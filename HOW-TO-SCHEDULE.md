@@ -16,4 +16,4 @@ For each day from today to today+2 (Europe/London):
      then `+00:00`), `schedulingType: automatic`.
 3. Write the returned Buffer post id into `scheduled.<platform>`, commit and push.
 
-Reddit posts are not in Buffer; they are posted by hand on the days that list one.
+Reddit is not part of the Hell Month (dropped 2026-10-02). YouTube posts are added automatically once the channel is connected to Buffer.
