@@ -89,30 +89,30 @@
   {
    "day": 4,
    "date": "2026-10-06",
-   "title": "Q saved this run",
+   "title": "The whole game in 25 seconds",
    "x": {
     "type": "video",
-    "text": "There's a panic button. It sends every free runner to the worst spot on the map. I've started calling it the please button."
+    "text": "Realised my clips so far made zero sense unless you'd already played it. So here's the whole game in 25 seconds."
    },
    "tiktok": {
-    "text": "There's a panic button. It sends every free runner to the worst spot on the map. I've started calling it the please button.\n\n#indiedev #gamedev #indiegame"
+    "text": "Realised my clips so far made zero sense unless you'd already played it. So here's the whole game in 25 seconds.\n\n#indiedev #strategygame #indiegame"
    },
    "youtube": {
-    "title": "My game has a panic button and I lean on it a lot #Shorts",
-    "text": "There's a panic button. It sends every free runner to the worst spot on the map. I've started calling it the please button."
+    "title": "The whole game in 25 seconds #Shorts",
+    "text": "Realised my clips so far made zero sense unless you'd already played it. So here's the whole game in 25 seconds."
    },
    "media": {
-    "vertical": null,
-    "x": null
+    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day04_explainer.mp4",
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day04_explainer.mp4"
    },
    "scheduled": {
-    "x": null,
-    "tiktok": null,
-    "youtube": null
+    "x": "6ac42b1eacc08dcd5e9724b1",
+    "tiktok": "6ac42b1b4e17d6a1b25bc654",
+    "youtube": "6ac42b1c5b14a019116e6163"
    },
    "hold": null,
-   "kind": "story",
-   "audio": "tick"
+   "kind": "explainer",
+   "audio": "sfx+pad"
   },
   {
    "day": 5,
@@ -186,15 +186,15 @@
     "text": "Genuine question, no wrong answers: what kind of game does this look like to you?"
    },
    "media": {
-    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day07_v2.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day07_x2.mp4"
+    "vertical": null,
+    "x": null
    },
    "scheduled": {
     "x": null,
     "tiktok": null,
     "youtube": null
    },
-   "hold": null,
+   "hold": "Re-shoot in the explainer style (portrait, real speed, labelled) before scheduling. The old clip is the Days 1-3 style.",
    "kind": "question",
    "audio": "pad"
   },
