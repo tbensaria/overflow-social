@@ -117,58 +117,58 @@
   {
    "day": 5,
    "date": "2026-10-07",
-   "title": "Spot the bottleneck",
+   "title": "Close isn't connected",
    "x": {
-    "type": "image",
-    "text": "Quick puzzle.\n\nOne line on this map is ruining everyone's day. Which one? Answer tomorrow, assuming I work it out too."
+    "type": "video",
+    "text": "Playtesters kept asking why their Node wasn't connected when the lines were touching. Traces only join where you draw one across the other. Next to isn't connected."
    },
    "tiktok": {
-    "text": "Quick puzzle.\n\nOne line on this map is ruining everyone's day. Which one? Answer tomorrow, assuming I work it out too.\n\n#indiedev #gamedev #indiegame"
+    "text": "Playtesters kept asking why their Node wasn't connected when the lines were touching. Traces only join where you draw one across the other. Next to isn't connected.\n\n#indiedev #strategygame #indiegame"
    },
    "youtube": {
-    "title": "One line is ruining this whole network. Which? #Shorts",
-    "text": "Quick puzzle.\n\nOne line on this map is ruining everyone's day. Which one? Answer tomorrow, assuming I work it out too."
+    "title": "Close isn't connected #Shorts",
+    "text": "Playtesters kept asking why their Node wasn't connected when the lines were touching. Traces only join where you draw one across the other. Next to isn't connected."
    },
    "media": {
-    "vertical": null,
-    "x": null
+    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day05_explainer.mp4",
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day05_explainer.mp4"
    },
    "scheduled": {
-    "x": null,
-    "tiktok": null,
-    "youtube": null
+    "x": "6ac57ffd280171da8dd431db",
+    "tiktok": "6ac57ffa8a697ec911738806",
+    "youtube": "6ac57ffb8f62ac61b6eb66f9"
    },
    "hold": null,
-   "kind": "question",
-   "audio": "sfx"
+   "kind": "explainer",
+   "audio": "sfx+pad"
   },
   {
    "day": 6,
    "date": "2026-10-08",
-   "title": "HUB STALL",
+   "title": "Runners and the Hub",
    "x": {
     "type": "video",
-    "text": "I added random events to my game. The game immediately used one to switch off my busiest Hub mid-rush. I have only myself to blame."
+    "text": "Runners do the real work. They grab Signals from Nodes and drop them at the Hub. The Hub only holds so much, and when it's full they wait outside while the Nodes fill back up."
    },
    "tiktok": {
-    "text": "I added random events to my game. The game immediately used one to switch off my busiest Hub mid-rush. I have only myself to blame.\n\n#indiedev #gamedev #indiegame"
+    "text": "Runners do the real work. They grab Signals from Nodes and drop them at the Hub. The Hub only holds so much, and when it's full they wait outside while the Nodes fill back up.\n\n#indiedev #strategygame #indiegame"
    },
    "youtube": {
-    "title": "I added random events and instantly regretted it #Shorts",
-    "text": "I added random events to my game. The game immediately used one to switch off my busiest Hub mid-rush. I have only myself to blame."
+    "title": "Why my Runners queue up #Shorts",
+    "text": "Runners do the real work. They grab Signals from Nodes and drop them at the Hub. The Hub only holds so much, and when it's full they wait outside while the Nodes fill back up."
    },
    "media": {
-    "vertical": null,
-    "x": null
+    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day06_explainer.mp4",
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day06_explainer.mp4"
    },
    "scheduled": {
-    "x": null,
-    "tiktok": null,
-    "youtube": null
+    "x": "6ac5800a42e81c8a0b0cd00c",
+    "tiktok": "6ac580072b46a5da666fa1a7",
+    "youtube": "6ac580098a697ec9117389f0"
    },
    "hold": null,
-   "kind": "story",
-   "audio": "lofi"
+   "kind": "explainer",
+   "audio": "sfx+pad"
   },
   {
    "day": 7,
