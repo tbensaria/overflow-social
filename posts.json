@@ -186,13 +186,13 @@
     "text": "Genuine question: what kind of game does this look like to you? Answer before the last second."
    },
    "media": {
-    "vertical": null,
-    "x": null
+    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day07_explainer.mp4",
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day07_explainer.mp4"
    },
    "scheduled": {
-    "x": null,
-    "tiktok": null,
-    "youtube": null
+    "x": "6ac585a08a697ec91174496d",
+    "tiktok": "6ac5859d8f62ac61b6ec2ab5",
+    "youtube": "6ac5859e4852a95e8c256bfb"
    },
    "hold": null,
    "kind": "question",
