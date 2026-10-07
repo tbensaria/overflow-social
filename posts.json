@@ -662,8 +662,8 @@
     "text": "New series: can we reach Cycle 10 without everything melting? Part 1. Stakes: our pride."
    },
    "media": {
-    "vertical": null,
-    "x": null
+    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day24_explainer.mp4",
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day24_wide.mp4"
    },
    "scheduled": {
     "x": null,
@@ -680,18 +680,18 @@
    "title": "Road to Cycle 10, part 2",
    "x": {
     "type": "video",
-    "text": "Road to Cycle 10, part 2.\n\nIt's getting tight. We're sweating. The game does not care.\n\nPredictions: do we make it?"
+    "text": "Road to Cycle 10, part 2.\n\nPink rings everywhere. Every Runner is busy. The game does not care.\n\nPredictions: do we make it?"
    },
    "tiktok": {
-    "text": "Road to Cycle 10, part 2.\n\nIt's getting tight. We're sweating. The game does not care.\n\nPredictions: do we make it?\n\n#indiedev #strategygame #indiegame"
+    "text": "Road to Cycle 10, part 2.\n\nPink rings everywhere. Every Runner is busy. The game does not care.\n\nPredictions: do we make it?\n\n#indiedev #strategygame #indiegame"
    },
    "youtube": {
     "title": "Road to Cycle 10, part 2 #Shorts",
-    "text": "Road to Cycle 10, part 2.\n\nIt's getting tight. We're sweating. The game does not care.\n\nPredictions: do we make it?"
+    "text": "Road to Cycle 10, part 2.\n\nPink rings everywhere. Every Runner is busy. The game does not care.\n\nPredictions: do we make it?"
    },
    "media": {
-    "vertical": null,
-    "x": null
+    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day25_explainer.mp4",
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day25_wide.mp4"
    },
    "scheduled": {
     "x": null,
@@ -705,29 +705,29 @@
   {
    "day": 26,
    "date": "2026-10-28",
-   "title": "You pick the setup",
+   "title": "Vias",
    "x": {
     "type": "video",
-    "text": "Someone in the comments told us to try this. We did. You'll see how that went."
+    "text": "Bridges go over dead zones. Vias go straight through shielded blocks. We spent far too long naming them and we stand by it."
    },
    "tiktok": {
-    "text": "Someone in the comments told us to try this. We did. You'll see how that went.\n\n#indiedev #strategygame #indiegame"
+    "text": "Bridges go over dead zones. Vias go straight through shielded blocks. We spent far too long naming them and we stand by it.\n\n#indiedev #strategygame #indiegame"
    },
    "youtube": {
-    "title": "You pick the setup #Shorts",
-    "text": "Someone in the comments told us to try this. We did. You'll see how that went."
+    "title": "Bridges go over. Vias go through. #Shorts",
+    "text": "Bridges go over dead zones. Vias go straight through shielded blocks. We spent far too long naming them and we stand by it."
    },
    "media": {
-    "vertical": null,
-    "x": null
+    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day26_explainer.mp4",
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day26_wide.mp4"
    },
    "scheduled": {
     "x": null,
     "tiktok": null,
     "youtube": null
    },
-   "hold": "Needs a setup suggested in the comments.",
-   "kind": "engage",
+   "hold": null,
+   "kind": "story",
    "audio": "sfx+tick"
   },
   {
@@ -736,18 +736,18 @@
    "title": "Road to Cycle 10, finale",
    "x": {
     "type": "video",
-    "text": "Road to Cycle 10, the finale.\n\nDid we make it? Watch till the end."
+    "text": "Road to Cycle 10, the finale.\n\nWe made it to Cycle 3. Cycle 3. We will be back."
    },
    "tiktok": {
-    "text": "Road to Cycle 10, the finale.\n\nDid we make it? Watch till the end.\n\n#indiedev #strategygame #indiegame"
+    "text": "Road to Cycle 10, the finale.\n\nWe made it to Cycle 3. Cycle 3. We will be back.\n\n#indiedev #strategygame #indiegame"
    },
    "youtube": {
     "title": "Road to Cycle 10, finale #Shorts",
-    "text": "Road to Cycle 10, the finale.\n\nDid we make it? Watch till the end."
+    "text": "Road to Cycle 10, the finale.\n\nWe made it to Cycle 3. Cycle 3. We will be back."
    },
    "media": {
-    "vertical": null,
-    "x": null
+    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day27_explainer.mp4",
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day27_wide.mp4"
    },
    "scheduled": {
     "x": null,
