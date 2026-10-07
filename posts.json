@@ -131,7 +131,7 @@
    },
    "media": {
     "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day05_explainer.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day05_explainer.mp4"
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day05_wide.mp4"
    },
    "scheduled": {
     "x": "6ac57ffd280171da8dd431db",
@@ -154,12 +154,12 @@
     "text": "Runners do the real work. They grab Signals from Nodes and drop them at the Hub. The Hub only holds so much, and when it's full they wait outside while the Nodes fill back up.\n\n#indiedev #strategygame #indiegame"
    },
    "youtube": {
-    "title": "Why my Runners queue up #Shorts",
+    "title": "Why our Runners queue up #Shorts",
     "text": "Runners do the real work. They grab Signals from Nodes and drop them at the Hub. The Hub only holds so much, and when it's full they wait outside while the Nodes fill back up."
    },
    "media": {
     "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day06_explainer.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day06_explainer.mp4"
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day06_wide.mp4"
    },
    "scheduled": {
     "x": "6ac5800a42e81c8a0b0cd00c",
@@ -187,7 +187,7 @@
    },
    "media": {
     "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day07_explainer.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day07_explainer.mp4"
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day07_wide.mp4"
    },
    "scheduled": {
     "x": "6ac585a08a697ec91174496d",
@@ -215,7 +215,7 @@
    },
    "media": {
     "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day08_explainer.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day08_explainer.mp4"
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day08_wide.mp4"
    },
    "scheduled": {
     "x": null,
@@ -243,7 +243,7 @@
    },
    "media": {
     "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day09_explainer.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day09_explainer.mp4"
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day09_wide.mp4"
    },
    "scheduled": {
     "x": null,
@@ -260,18 +260,18 @@
    "title": "Bridges",
    "x": {
     "type": "video",
-    "text": "Some of the board is dead zone and you can't draw on it. So now there are Bridges. They go over. That's the whole idea and I'm still proud of it."
+    "text": "Some of the board is dead zone and you can't draw on it. So now there are Bridges. They go over. That's the whole idea and we're still proud of it."
    },
    "tiktok": {
-    "text": "Some of the board is dead zone and you can't draw on it. So now there are Bridges. They go over. That's the whole idea and I'm still proud of it.\n\n#indiedev #strategygame #indiegame"
+    "text": "Some of the board is dead zone and you can't draw on it. So now there are Bridges. They go over. That's the whole idea and we're still proud of it.\n\n#indiedev #strategygame #indiegame"
    },
    "youtube": {
     "title": "Bridges over the dead zone #Shorts",
-    "text": "Some of the board is dead zone and you can't draw on it. So now there are Bridges. They go over. That's the whole idea and I'm still proud of it."
+    "text": "Some of the board is dead zone and you can't draw on it. So now there are Bridges. They go over. That's the whole idea and we're still proud of it."
    },
    "media": {
     "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day10_explainer.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day10_explainer.mp4"
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day10_wide.mp4"
    },
    "scheduled": {
     "x": null,
@@ -299,7 +299,7 @@
    },
    "media": {
     "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day11_explainer.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day11_explainer.mp4"
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day11_wide.mp4"
    },
    "scheduled": {
     "x": null,
@@ -344,14 +344,14 @@
    "title": "Priority Dispatch",
    "x": {
     "type": "video",
-    "text": "Priority Dispatch sends every idle Runner to the Node that's closest to blowing. It's a panic button and I press it far too early."
+    "text": "Priority Dispatch sends every idle Runner to the Node that's closest to blowing. It's a panic button and we press it far too early."
    },
    "tiktok": {
-    "text": "Priority Dispatch sends every idle Runner to the Node that's closest to blowing. It's a panic button and I press it far too early.\n\n#indiedev #strategygame #indiegame"
+    "text": "Priority Dispatch sends every idle Runner to the Node that's closest to blowing. It's a panic button and we press it far too early.\n\n#indiedev #strategygame #indiegame"
    },
    "youtube": {
     "title": "The panic button #Shorts",
-    "text": "Priority Dispatch sends every idle Runner to the Node that's closest to blowing. It's a panic button and I press it far too early."
+    "text": "Priority Dispatch sends every idle Runner to the Node that's closest to blowing. It's a panic button and we press it far too early."
    },
    "media": {
     "vertical": null,
@@ -400,14 +400,14 @@
    "title": "Overclock Trace",
    "x": {
     "type": "video",
-    "text": "Overclock finds your busiest Trace and makes every Runner on it go faster for a bit. It is the most satisfying thing in the game and I will not be taking questions."
+    "text": "Overclock finds your busiest Trace and makes every Runner on it go faster for a bit. It's the most satisfying thing in the game and we will not be taking questions."
    },
    "tiktok": {
-    "text": "Overclock finds your busiest Trace and makes every Runner on it go faster for a bit. It is the most satisfying thing in the game and I will not be taking questions.\n\n#indiedev #strategygame #indiegame"
+    "text": "Overclock finds your busiest Trace and makes every Runner on it go faster for a bit. It's the most satisfying thing in the game and we will not be taking questions.\n\n#indiedev #strategygame #indiegame"
    },
    "youtube": {
     "title": "Overclock Trace #Shorts",
-    "text": "Overclock finds your busiest Trace and makes every Runner on it go faster for a bit. It is the most satisfying thing in the game and I will not be taking questions."
+    "text": "Overclock finds your busiest Trace and makes every Runner on it go faster for a bit. It's the most satisfying thing in the game and we will not be taking questions."
    },
    "media": {
     "vertical": null,
@@ -428,14 +428,14 @@
    "title": "RUNNER FAILURE",
    "x": {
     "type": "video",
-    "text": "Events hit mid-Cycle. Runners stop. Hubs stall. Middle of the road. During rush hour. I have never related to anything more."
+    "text": "Events hit mid-Cycle. Runners stop. Hubs stall. Middle of the road. During rush hour. We have never related to anything more."
    },
    "tiktok": {
-    "text": "Events hit mid-Cycle. Runners stop. Hubs stall. Middle of the road. During rush hour. I have never related to anything more.\n\n#indiedev #strategygame #indiegame"
+    "text": "Events hit mid-Cycle. Runners stop. Hubs stall. Middle of the road. During rush hour. We have never related to anything more.\n\n#indiedev #strategygame #indiegame"
    },
    "youtube": {
     "title": "RUNNER FAILURE #Shorts",
-    "text": "Events hit mid-Cycle. Runners stop. Hubs stall. Middle of the road. During rush hour. I have never related to anything more."
+    "text": "Events hit mid-Cycle. Runners stop. Hubs stall. Middle of the road. During rush hour. We have never related to anything more."
    },
    "media": {
     "vertical": null,
@@ -484,14 +484,14 @@
    "title": "Winner remix",
    "x": {
     "type": "video",
-    "text": "You lot liked this one, so here it is again from a better angle. Pause it anywhere and tell me what you'd fix first."
+    "text": "You lot liked this one, so here it is again from a better angle. Pause it anywhere and tell us what you'd fix first."
    },
    "tiktok": {
-    "text": "You lot liked this one, so here it is again from a better angle. Pause it anywhere and tell me what you'd fix first.\n\n#indiedev #strategygame #indiegame"
+    "text": "You lot liked this one, so here it is again from a better angle. Pause it anywhere and tell us what you'd fix first.\n\n#indiedev #strategygame #indiegame"
    },
    "youtube": {
     "title": "Winner remix #Shorts",
-    "text": "You lot liked this one, so here it is again from a better angle. Pause it anywhere and tell me what you'd fix first."
+    "text": "You lot liked this one, so here it is again from a better angle. Pause it anywhere and tell us what you'd fix first."
    },
    "media": {
     "vertical": null,
@@ -512,14 +512,14 @@
    "title": "One Cycle, no cuts",
    "x": {
     "type": "video",
-    "text": "One full Cycle. No cuts. Just me trying very hard not to lose."
+    "text": "One full Cycle. No cuts. Just us trying very hard not to lose."
    },
    "tiktok": {
-    "text": "One full Cycle. No cuts. Just me trying very hard not to lose.\n\n#indiedev #strategygame #indiegame"
+    "text": "One full Cycle. No cuts. Just us trying very hard not to lose.\n\n#indiedev #strategygame #indiegame"
    },
    "youtube": {
     "title": "One Cycle, no cuts #Shorts",
-    "text": "One full Cycle. No cuts. Just me trying very hard not to lose."
+    "text": "One full Cycle. No cuts. Just us trying very hard not to lose."
    },
    "media": {
     "vertical": null,
@@ -537,17 +537,17 @@
   {
    "day": 20,
    "date": "2026-10-22",
-   "title": "My Runners were teleporting",
+   "title": "Our Runners were teleporting",
    "x": {
     "type": "video",
-    "text": "Found a bug where my Runners would pass a Hub and teleport to the next one with all their Signals. Very efficient. Very wrong. Fixed now. Mostly."
+    "text": "We found a bug where our Runners would pass a Hub and teleport to the next one with all their Signals. Very efficient. Very wrong. Fixed now. Mostly."
    },
    "tiktok": {
-    "text": "Found a bug where my Runners would pass a Hub and teleport to the next one with all their Signals. Very efficient. Very wrong. Fixed now. Mostly.\n\n#indiedev #strategygame #indiegame"
+    "text": "We found a bug where our Runners would pass a Hub and teleport to the next one with all their Signals. Very efficient. Very wrong. Fixed now. Mostly.\n\n#indiedev #strategygame #indiegame"
    },
    "youtube": {
-    "title": "My Runners were teleporting #Shorts",
-    "text": "Found a bug where my Runners would pass a Hub and teleport to the next one with all their Signals. Very efficient. Very wrong. Fixed now. Mostly."
+    "title": "Our Runners were teleporting #Shorts",
+    "text": "We found a bug where our Runners would pass a Hub and teleport to the next one with all their Signals. Very efficient. Very wrong. Fixed now. Mostly."
    },
    "media": {
     "vertical": null,
@@ -568,14 +568,14 @@
    "title": "Pick the focus",
    "x": {
     "type": "video",
-    "text": "Which clip this month was your favourite? I'm genuinely using your answers to decide what to post next."
+    "text": "Which clip this month was your favourite? We're genuinely using your answers to decide what to post next."
    },
    "tiktok": {
-    "text": "Which clip this month was your favourite? I'm genuinely using your answers to decide what to post next.\n\n#indiedev #strategygame #indiegame"
+    "text": "Which clip this month was your favourite? We're genuinely using your answers to decide what to post next.\n\n#indiedev #strategygame #indiegame"
    },
    "youtube": {
     "title": "Pick the focus #Shorts",
-    "text": "Which clip this month was your favourite? I'm genuinely using your answers to decide what to post next."
+    "text": "Which clip this month was your favourite? We're genuinely using your answers to decide what to post next."
    },
    "media": {
     "vertical": null,
@@ -596,14 +596,14 @@
    "title": "Trailer day",
    "x": {
     "type": "video",
-    "text": "Made a trailer. I've watched it roughly 400 times."
+    "text": "We made a trailer. We've watched it roughly 400 times."
    },
    "tiktok": {
-    "text": "Made a trailer. I've watched it roughly 400 times.\n\n#indiedev #strategygame #indiegame"
+    "text": "We made a trailer. We've watched it roughly 400 times.\n\n#indiedev #strategygame #indiegame"
    },
    "youtube": {
     "title": "Trailer day #Shorts",
-    "text": "Made a trailer. I've watched it roughly 400 times."
+    "text": "We made a trailer. We've watched it roughly 400 times."
    },
    "media": {
     "vertical": null,
@@ -624,14 +624,14 @@
    "title": "Every Layout",
    "x": {
     "type": "video",
-    "text": "Nine different boards across three worlds. I lose on all of them in very creative ways.\n\nPick your favourite."
+    "text": "Nine different boards across three worlds. We lose on all of them in very creative ways.\n\nPick your favourite."
    },
    "tiktok": {
-    "text": "Nine different boards across three worlds. I lose on all of them in very creative ways.\n\nPick your favourite.\n\n#indiedev #strategygame #indiegame"
+    "text": "Nine different boards across three worlds. We lose on all of them in very creative ways.\n\nPick your favourite.\n\n#indiedev #strategygame #indiegame"
    },
    "youtube": {
     "title": "Nine boards, three worlds #Shorts",
-    "text": "Nine different boards across three worlds. I lose on all of them in very creative ways.\n\nPick your favourite."
+    "text": "Nine different boards across three worlds. We lose on all of them in very creative ways.\n\nPick your favourite."
    },
    "media": {
     "vertical": null,
@@ -652,14 +652,14 @@
    "title": "Road to Cycle 10, part 1",
    "x": {
     "type": "video",
-    "text": "New series: can I reach Cycle 10 without everything melting? Part 1. Stakes: my pride."
+    "text": "New series: can we reach Cycle 10 without everything melting? Part 1. Stakes: our pride."
    },
    "tiktok": {
-    "text": "New series: can I reach Cycle 10 without everything melting? Part 1. Stakes: my pride.\n\n#indiedev #strategygame #indiegame"
+    "text": "New series: can we reach Cycle 10 without everything melting? Part 1. Stakes: our pride.\n\n#indiedev #strategygame #indiegame"
    },
    "youtube": {
     "title": "Road to Cycle 10, part 1 #Shorts",
-    "text": "New series: can I reach Cycle 10 without everything melting? Part 1. Stakes: my pride."
+    "text": "New series: can we reach Cycle 10 without everything melting? Part 1. Stakes: our pride."
    },
    "media": {
     "vertical": null,
@@ -680,14 +680,14 @@
    "title": "Road to Cycle 10, part 2",
    "x": {
     "type": "video",
-    "text": "Road to Cycle 10, part 2.\n\nIt's getting tight. I'm sweating. The game does not care.\n\nPredictions: do I make it?"
+    "text": "Road to Cycle 10, part 2.\n\nIt's getting tight. We're sweating. The game does not care.\n\nPredictions: do we make it?"
    },
    "tiktok": {
-    "text": "Road to Cycle 10, part 2.\n\nIt's getting tight. I'm sweating. The game does not care.\n\nPredictions: do I make it?\n\n#indiedev #strategygame #indiegame"
+    "text": "Road to Cycle 10, part 2.\n\nIt's getting tight. We're sweating. The game does not care.\n\nPredictions: do we make it?\n\n#indiedev #strategygame #indiegame"
    },
    "youtube": {
     "title": "Road to Cycle 10, part 2 #Shorts",
-    "text": "Road to Cycle 10, part 2.\n\nIt's getting tight. I'm sweating. The game does not care.\n\nPredictions: do I make it?"
+    "text": "Road to Cycle 10, part 2.\n\nIt's getting tight. We're sweating. The game does not care.\n\nPredictions: do we make it?"
    },
    "media": {
     "vertical": null,
@@ -708,14 +708,14 @@
    "title": "You pick the setup",
    "x": {
     "type": "video",
-    "text": "Someone in the comments told me to try this. I did. You'll see how that went."
+    "text": "Someone in the comments told us to try this. We did. You'll see how that went."
    },
    "tiktok": {
-    "text": "Someone in the comments told me to try this. I did. You'll see how that went.\n\n#indiedev #strategygame #indiegame"
+    "text": "Someone in the comments told us to try this. We did. You'll see how that went.\n\n#indiedev #strategygame #indiegame"
    },
    "youtube": {
     "title": "You pick the setup #Shorts",
-    "text": "Someone in the comments told me to try this. I did. You'll see how that went."
+    "text": "Someone in the comments told us to try this. We did. You'll see how that went."
    },
    "media": {
     "vertical": null,
@@ -736,14 +736,14 @@
    "title": "Road to Cycle 10, finale",
    "x": {
     "type": "video",
-    "text": "Road to Cycle 10, the finale.\n\nDid I make it? Watch till the end."
+    "text": "Road to Cycle 10, the finale.\n\nDid we make it? Watch till the end."
    },
    "tiktok": {
-    "text": "Road to Cycle 10, the finale.\n\nDid I make it? Watch till the end.\n\n#indiedev #strategygame #indiegame"
+    "text": "Road to Cycle 10, the finale.\n\nDid we make it? Watch till the end.\n\n#indiedev #strategygame #indiegame"
    },
    "youtube": {
     "title": "Road to Cycle 10, finale #Shorts",
-    "text": "Road to Cycle 10, the finale.\n\nDid I make it? Watch till the end."
+    "text": "Road to Cycle 10, the finale.\n\nDid we make it? Watch till the end."
    },
    "media": {
     "vertical": null,
@@ -764,14 +764,14 @@
    "title": "Why it looks like a circuit board",
    "x": {
     "type": "video",
-    "text": "I wanted it to look like a subway map, but for the inside of a computer. Three worlds of it now."
+    "text": "We wanted it to look like a subway map, but for the inside of a computer. Three worlds of it now."
    },
    "tiktok": {
-    "text": "I wanted it to look like a subway map, but for the inside of a computer. Three worlds of it now.\n\n#indiedev #strategygame #indiegame"
+    "text": "We wanted it to look like a subway map, but for the inside of a computer. Three worlds of it now.\n\n#indiedev #strategygame #indiegame"
    },
    "youtube": {
     "title": "Why it looks like a circuit board #Shorts",
-    "text": "I wanted it to look like a subway map, but for the inside of a computer. Three worlds of it now."
+    "text": "We wanted it to look like a subway map, but for the inside of a computer. Three worlds of it now."
    },
    "media": {
     "vertical": null,
@@ -792,14 +792,14 @@
    "title": "Best of the month",
    "x": {
     "type": "video",
-    "text": "The clip you liked most so far. Thanks for watching me fail on repeat.\n\nWhat should I post next?"
+    "text": "The clip you liked most so far. Thanks for watching us fail on repeat.\n\nWhat should we post next?"
    },
    "tiktok": {
-    "text": "The clip you liked most so far. Thanks for watching me fail on repeat.\n\nWhat should I post next?\n\n#indiedev #strategygame #indiegame"
+    "text": "The clip you liked most so far. Thanks for watching us fail on repeat.\n\nWhat should we post next?\n\n#indiedev #strategygame #indiegame"
    },
    "youtube": {
     "title": "Best of the month #Shorts",
-    "text": "The clip you liked most so far. Thanks for watching me fail on repeat.\n\nWhat should I post next?"
+    "text": "The clip you liked most so far. Thanks for watching us fail on repeat.\n\nWhat should we post next?"
    },
    "media": {
     "vertical": null,
@@ -843,5 +843,5 @@
    "audio": "sfx+pad"
   }
  ],
- "voice": "Solo-dev journey posts: first person, funny, self-deprecating, plain words. No sales line, no jargon walls, no em dashes. Mix the kinds: story, question, engage. Rotate audio: sfx only, or one of the beds (pulse, pad, tick, lofi, trailer), never the same two days running."
+ "voice": "Dev journey posts from a two-person team: always we/our/us, never I/my, funny, self-deprecating, plain words. No sales line, no jargon walls, no em dashes. Mix the kinds: story, question, engage. Rotate audio: sfx only, or one of the beds (pulse, pad, tick, lofi, trailer), never the same two days running. X never gets portrait video: media.x is the widescreen 1920x1080 cut."
 }
