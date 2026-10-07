@@ -201,21 +201,21 @@
   {
    "day": 8,
    "date": "2026-10-10",
-   "title": "Amber means a deadline",
+   "title": "The pink ring",
    "x": {
     "type": "video",
-    "text": "Amber Signals are in a hurry. Get them to the Hub before the ring runs out or they're gone, and so are your points.\n\nWould you have saved it? Yes or no below."
+    "text": "Pink ring means a Priority Signal, and it is in a hurry. Get it to the Hub before the ring runs out or it is gone, and so are 3 points.\n\nWould you have saved it? Yes or no below."
    },
    "tiktok": {
-    "text": "Amber Signals are in a hurry. Get them to the Hub before the ring runs out or they're gone, and so are your points.\n\nWould you have saved it? Yes or no below.\n\n#indiedev #strategygame #indiegame"
+    "text": "Pink ring means a Priority Signal, and it is in a hurry. Get it to the Hub before the ring runs out or it is gone, and so are 3 points.\n\nWould you have saved it? Yes or no below.\n\n#indiedev #strategygame #indiegame"
    },
    "youtube": {
-    "title": "Amber means a deadline #Shorts",
-    "text": "Amber Signals are in a hurry. Get them to the Hub before the ring runs out or they're gone, and so are your points.\n\nWould you have saved it? Yes or no below."
+    "title": "The pink ring means hurry #Shorts",
+    "text": "Pink ring means a Priority Signal, and it is in a hurry. Get it to the Hub before the ring runs out or it is gone, and so are 3 points.\n\nWould you have saved it? Yes or no below."
    },
    "media": {
-    "vertical": null,
-    "x": null
+    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day08_explainer.mp4",
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day08_explainer.mp4"
    },
    "scheduled": {
     "x": null,
@@ -242,8 +242,8 @@
     "text": "Every so often a new Node switches on, somewhere you didn't plan for. The network got too big for the map, so the map got bigger. Problem solved. (Problem not solved.)"
    },
    "media": {
-    "vertical": null,
-    "x": null
+    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day09_explainer.mp4",
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day09_explainer.mp4"
    },
    "scheduled": {
     "x": null,
@@ -270,8 +270,8 @@
     "text": "Some of the board is dead zone and you can't draw on it. So now there are Bridges. They go over. That's the whole idea and I'm still proud of it."
    },
    "media": {
-    "vertical": null,
-    "x": null
+    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day10_explainer.mp4",
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day10_explainer.mp4"
    },
    "scheduled": {
     "x": null,
@@ -298,8 +298,8 @@
     "text": "You can tell a Hub what matters: Balanced, Priority first, or raw Throughput. The Runners read it and change where they go.\n\nWhich one are you picking?"
    },
    "media": {
-    "vertical": null,
-    "x": null
+    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day11_explainer.mp4",
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day11_explainer.mp4"
    },
    "scheduled": {
     "x": null,
