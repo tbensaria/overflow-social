@@ -481,29 +481,29 @@
   {
    "day": 18,
    "date": "2026-10-20",
-   "title": "Winner remix",
+   "title": "Pause and plan",
    "x": {
     "type": "video",
-    "text": "You lot liked this one, so here it is again from a better angle. Pause it anywhere and tell us what you'd fix first."
+    "text": "You can pause any time. The board goes grey, nothing moves, and you draw the fix in peace. We pause constantly. No shame."
    },
    "tiktok": {
-    "text": "You lot liked this one, so here it is again from a better angle. Pause it anywhere and tell us what you'd fix first.\n\n#indiedev #strategygame #indiegame"
+    "text": "You can pause any time. The board goes grey, nothing moves, and you draw the fix in peace. We pause constantly. No shame.\n\n#indiedev #strategygame #indiegame"
    },
    "youtube": {
-    "title": "Winner remix #Shorts",
-    "text": "You lot liked this one, so here it is again from a better angle. Pause it anywhere and tell us what you'd fix first."
+    "title": "Pause. Plan. Breathe. #Shorts",
+    "text": "You can pause any time. The board goes grey, nothing moves, and you draw the fix in peace. We pause constantly. No shame."
    },
    "media": {
-    "vertical": null,
-    "x": null
+    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day18_explainer.mp4",
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day18_wide.mp4"
    },
    "scheduled": {
     "x": null,
     "tiktok": null,
     "youtube": null
    },
-   "hold": "Remix whichever clip from days 4-16 has the best watch time; decide from the tracker metrics.",
-   "kind": "engage",
+   "hold": null,
+   "kind": "story",
    "audio": "sfx+pad"
   },
   {
@@ -522,8 +522,8 @@
     "text": "One full Cycle. No cuts. Just us trying very hard not to lose."
    },
    "media": {
-    "vertical": null,
-    "x": null
+    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day19_explainer.mp4",
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day19_wide.mp4"
    },
    "scheduled": {
     "x": null,
@@ -550,8 +550,8 @@
     "text": "We found a bug where our Runners would pass a Hub and teleport to the next one with all their Signals. Very efficient. Very wrong. Fixed now. Mostly."
    },
    "media": {
-    "vertical": null,
-    "x": null
+    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day20_explainer.mp4",
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day20_wide.mp4"
    },
    "scheduled": {
     "x": null,
@@ -568,18 +568,18 @@
    "title": "Pick the focus",
    "x": {
     "type": "video",
-    "text": "Which clip this month was your favourite? We're genuinely using your answers to decide what to post next."
+    "text": "Which one should we show next? A: Bridges, B: Hub policies, C: Overclock Trace, D: the crash. Comment a letter. We are genuinely using your answers."
    },
    "tiktok": {
-    "text": "Which clip this month was your favourite? We're genuinely using your answers to decide what to post next.\n\n#indiedev #strategygame #indiegame"
+    "text": "Which one should we show next? A: Bridges, B: Hub policies, C: Overclock Trace, D: the crash. Comment a letter. We are genuinely using your answers.\n\n#indiedev #strategygame #indiegame"
    },
    "youtube": {
-    "title": "Pick the focus #Shorts",
-    "text": "Which clip this month was your favourite? We're genuinely using your answers to decide what to post next."
+    "title": "Which one should we show next? #Shorts",
+    "text": "Which one should we show next? A: Bridges, B: Hub policies, C: Overclock Trace, D: the crash. Comment a letter. We are genuinely using your answers."
    },
    "media": {
-    "vertical": null,
-    "x": null
+    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day21_explainer.mp4",
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day21_wide.mp4"
    },
    "scheduled": {
     "x": null,
@@ -593,28 +593,28 @@
   {
    "day": 22,
    "date": "2026-10-24",
-   "title": "Trailer day",
+   "title": "30 seconds of chaos",
    "x": {
     "type": "video",
-    "text": "We made a trailer. We've watched it roughly 400 times."
+    "text": "No trailer yet, so here are our favourite 30 seconds of the game falling apart."
    },
    "tiktok": {
-    "text": "We made a trailer. We've watched it roughly 400 times.\n\n#indiedev #strategygame #indiegame"
+    "text": "No trailer yet, so here are our favourite 30 seconds of the game falling apart.\n\n#indiedev #strategygame #indiegame"
    },
    "youtube": {
-    "title": "Trailer day #Shorts",
-    "text": "We made a trailer. We've watched it roughly 400 times."
+    "title": "30 seconds of chaos #Shorts",
+    "text": "No trailer yet, so here are our favourite 30 seconds of the game falling apart."
    },
    "media": {
-    "vertical": null,
-    "x": null
+    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day22_explainer.mp4",
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day22_wide.mp4"
    },
    "scheduled": {
     "x": null,
     "tiktok": null,
     "youtube": null
    },
-   "hold": "Needs the finished trailer cut to portrait.",
+   "hold": null,
    "kind": "story",
    "audio": "trailer"
   },
@@ -634,8 +634,8 @@
     "text": "Nine different boards across three worlds. We lose on all of them in very creative ways.\n\nPick your favourite."
    },
    "media": {
-    "vertical": null,
-    "x": null
+    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day23_explainer.mp4",
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day23_wide.mp4"
    },
    "scheduled": {
     "x": null,
@@ -774,8 +774,8 @@
     "text": "We wanted it to look like a subway map, but for the inside of a computer. Three worlds of it now."
    },
    "media": {
-    "vertical": null,
-    "x": null
+    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day28_explainer.mp4",
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day28_wide.mp4"
    },
    "scheduled": {
     "x": null,
@@ -789,30 +789,30 @@
   {
    "day": 29,
    "date": "2026-10-31",
-   "title": "Best of the month",
+   "title": "Everything we showed you",
    "x": {
     "type": "video",
-    "text": "The clip you liked most so far. Thanks for watching us fail on repeat.\n\nWhat should we post next?"
+    "text": "Everything we showed you this month, in 25 seconds. Thanks for watching us fail on repeat.\n\nWhat should we post next?"
    },
    "tiktok": {
-    "text": "The clip you liked most so far. Thanks for watching us fail on repeat.\n\nWhat should we post next?\n\n#indiedev #strategygame #indiegame"
+    "text": "Everything we showed you this month, in 25 seconds. Thanks for watching us fail on repeat.\n\nWhat should we post next?\n\n#indiedev #strategygame #indiegame"
    },
    "youtube": {
-    "title": "Best of the month #Shorts",
-    "text": "The clip you liked most so far. Thanks for watching us fail on repeat.\n\nWhat should we post next?"
+    "title": "The whole month in 25 seconds #Shorts",
+    "text": "Everything we showed you this month, in 25 seconds. Thanks for watching us fail on repeat.\n\nWhat should we post next?"
    },
    "media": {
-    "vertical": null,
-    "x": null
+    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day29_explainer.mp4",
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day29_wide.mp4"
    },
    "scheduled": {
     "x": null,
     "tiktok": null,
     "youtube": null
    },
-   "hold": "Pick from the month's metrics.",
-   "kind": "question",
-   "audio": "sfx+pulse"
+   "hold": null,
+   "kind": "engage",
+   "audio": "sfx+pad"
   },
   {
    "day": 30,
@@ -820,25 +820,25 @@
    "title": "30 days of posting",
    "x": {
     "type": "video",
-    "text": "That's a month of posting every day. If you've been following along, say hi. Thank you."
+    "text": "That is 30 days of posting every day. Thank you for watching our network grow, and for watching it fall apart. If you have been following along, say hi. It means a lot to both of us."
    },
    "tiktok": {
-    "text": "That's a month of posting every day. If you've been following along, say hi. Thank you.\n\n#indiedev #strategygame #indiegame"
+    "text": "That is 30 days of posting every day. Thank you for watching our network grow, and for watching it fall apart. If you have been following along, say hi. It means a lot to both of us.\n\n#indiedev #strategygame #indiegame"
    },
    "youtube": {
     "title": "30 days of posting #Shorts",
-    "text": "That's a month of posting every day. If you've been following along, say hi. Thank you."
+    "text": "That is 30 days of posting every day. Thank you for watching our network grow, and for watching it fall apart. If you have been following along, say hi. It means a lot to both of us."
    },
    "media": {
-    "vertical": null,
-    "x": null
+    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day30_explainer.mp4",
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day30_wide.mp4"
    },
    "scheduled": {
     "x": null,
     "tiktok": null,
     "youtube": null
    },
-   "hold": "Thank-you post; cut from the month's best moments.",
+   "hold": null,
    "kind": "engage",
    "audio": "sfx+pad"
   }
