@@ -316,18 +316,18 @@
    "title": "Pick one",
    "x": {
     "type": "video",
-    "text": "End of a Cycle, pick one: Runners load faster, a whole new Hub, or everyone moves faster. What are you taking?"
+    "text": "End of a Cycle, pick one: Bridge Kit, Direct Cache or Rapid Transit. We took the Bridges. What are you taking?"
    },
    "tiktok": {
-    "text": "End of a Cycle, pick one: Runners load faster, a whole new Hub, or everyone moves faster. What are you taking?\n\n#indiedev #strategygame #indiegame"
+    "text": "End of a Cycle, pick one: Bridge Kit, Direct Cache or Rapid Transit. We took the Bridges. What are you taking?\n\n#indiedev #strategygame #indiegame"
    },
    "youtube": {
     "title": "Pick one #Shorts",
-    "text": "End of a Cycle, pick one: Runners load faster, a whole new Hub, or everyone moves faster. What are you taking?"
+    "text": "End of a Cycle, pick one: Bridge Kit, Direct Cache or Rapid Transit. We took the Bridges. What are you taking?"
    },
    "media": {
-    "vertical": null,
-    "x": null
+    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day12_explainer.mp4",
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day12_wide.mp4"
    },
    "scheduled": {
     "x": null,
@@ -354,8 +354,8 @@
     "text": "Priority Dispatch sends every idle Runner to the Node that's closest to blowing. It's a panic button and we press it far too early."
    },
    "media": {
-    "vertical": null,
-    "x": null
+    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day13_explainer.mp4",
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day13_wide.mp4"
    },
    "scheduled": {
     "x": null,
@@ -382,8 +382,8 @@
     "text": "When the Hub is about to choke, you can just delete everything in the queue. Zero points for it. Worth it every time.\n\nComment PURGE if you'd press it."
    },
    "media": {
-    "vertical": null,
-    "x": null
+    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day14_explainer.mp4",
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day14_wide.mp4"
    },
    "scheduled": {
     "x": null,
@@ -410,8 +410,8 @@
     "text": "Overclock finds your busiest Trace and makes every Runner on it go faster for a bit. It's the most satisfying thing in the game and we will not be taking questions."
    },
    "media": {
-    "vertical": null,
-    "x": null
+    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day15_explainer.mp4",
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day15_wide.mp4"
    },
    "scheduled": {
     "x": null,
@@ -425,21 +425,21 @@
   {
    "day": 16,
    "date": "2026-10-18",
-   "title": "RUNNER FAILURE",
+   "title": "Priority Wave",
    "x": {
     "type": "video",
-    "text": "Events hit mid-Cycle. Runners stop. Hubs stall. Middle of the road. During rush hour. We have never related to anything more."
+    "text": "Events hit mid-Cycle. Hubs stall, Runners break down, and sometimes every Signal turns urgent at once. We have never related to anything more."
    },
    "tiktok": {
-    "text": "Events hit mid-Cycle. Runners stop. Hubs stall. Middle of the road. During rush hour. We have never related to anything more.\n\n#indiedev #strategygame #indiegame"
+    "text": "Events hit mid-Cycle. Hubs stall, Runners break down, and sometimes every Signal turns urgent at once. We have never related to anything more.\n\n#indiedev #strategygame #indiegame"
    },
    "youtube": {
-    "title": "RUNNER FAILURE #Shorts",
-    "text": "Events hit mid-Cycle. Runners stop. Hubs stall. Middle of the road. During rush hour. We have never related to anything more."
+    "title": "Everything is urgent now #Shorts",
+    "text": "Events hit mid-Cycle. Hubs stall, Runners break down, and sometimes every Signal turns urgent at once. We have never related to anything more."
    },
    "media": {
-    "vertical": null,
-    "x": null
+    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day16_explainer.mp4",
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day16_wide.mp4"
    },
    "scheduled": {
     "x": null,
@@ -456,18 +456,18 @@
    "title": "Which network survives?",
    "x": {
     "type": "video",
-    "text": "Two networks. One tidy, one held together with hope. Which survives longer? Guess, then watch."
+    "text": "Two networks. One tidy, one held together with hope and missing a Node. Which one goes first? Guess, then watch."
    },
    "tiktok": {
-    "text": "Two networks. One tidy, one held together with hope. Which survives longer? Guess, then watch.\n\n#indiedev #strategygame #indiegame"
+    "text": "Two networks. One tidy, one held together with hope and missing a Node. Which one goes first? Guess, then watch.\n\n#indiedev #strategygame #indiegame"
    },
    "youtube": {
     "title": "Which network survives? #Shorts",
-    "text": "Two networks. One tidy, one held together with hope. Which survives longer? Guess, then watch."
+    "text": "Two networks. One tidy, one held together with hope and missing a Node. Which one goes first? Guess, then watch."
    },
    "media": {
-    "vertical": null,
-    "x": null
+    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day17_explainer.mp4",
+    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day17_wide.mp4"
    },
    "scheduled": {
     "x": null,
