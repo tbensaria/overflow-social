@@ -1,847 +1,849 @@
 {
- "postTimeLocal": "17:00",
- "timezone": "Europe/London",
- "days": [
-  {
-   "day": 1,
-   "date": "2026-10-03",
-   "title": "The collapse",
-   "x": {
-    "type": "video",
-    "text": "Spent six minutes building this network and felt like a genius. It fell apart in about five seconds. Honestly? Same."
-   },
-   "tiktok": {
-    "text": "Spent six minutes building this network and felt like a genius. It fell apart in about five seconds. Honestly? Same.\n\n#indiedev #gamedev #indiegame"
-   },
-   "youtube": {
-    "title": "Six minutes to build. Five seconds to break. #Shorts",
-    "text": "Spent six minutes building this network and felt like a genius. It fell apart in about five seconds. Honestly? Same."
-   },
-   "media": {
-    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day01_v2.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day01_x2.mp4"
-   },
-   "scheduled": {
-    "x": "6abf80c71b2a6a8e15589bc5",
-    "tiktok": "6abf89d479e44b20b329294d",
-    "youtube": "6abffd9f9df0308ea07b2cd1"
-   },
-   "hold": null,
-   "kind": "story",
-   "audio": "sfx"
-  },
-  {
-   "day": 2,
-   "date": "2026-10-04",
-   "title": "Calm to chaos",
-   "x": {
-    "type": "video",
-    "text": "The start of a run vs the same run six minutes later. Honest question: at what point would you have rage quit?"
-   },
-   "tiktok": {
-    "text": "The start of a run vs the same run six minutes later. Honest question: at what point would you have rage quit?\n\n#indiedev #gamedev #indiegame"
-   },
-   "youtube": {
-    "title": "At what point would you have rage quit? #Shorts",
-    "text": "The start of a run vs the same run six minutes later. Honest question: at what point would you have rage quit?"
-   },
-   "media": {
-    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day02_v2.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day02_x2.mp4"
-   },
-   "scheduled": {
-    "x": "6abf80d6b41a266eabf400aa",
-    "tiktok": "6abf89d681e421bfcd76d59d",
-    "youtube": "6abffda1e25183641e53c0c9"
-   },
-   "hold": null,
-   "kind": "question",
-   "audio": "pulse"
-  },
-  {
-   "day": 3,
-   "date": "2026-10-05",
-   "title": "One Trace to save it",
-   "x": {
-    "type": "gif",
-    "text": "New thing pops up on the map. Everything else is already on fire. I draw one line and pretend I had a plan all along.\n\nRate the plan out of 10. Be gentle."
-   },
-   "tiktok": {
-    "text": "New thing pops up on the map. Everything else is already on fire. I draw one line and pretend I had a plan all along.\n\nRate the plan out of 10. Be gentle.\n\n#indiedev #gamedev #indiegame"
-   },
-   "youtube": {
-    "title": "Rate my plan out of 10. Be gentle. #Shorts",
-    "text": "New thing pops up on the map. Everything else is already on fire. I draw one line and pretend I had a plan all along.\n\nRate the plan out of 10. Be gentle."
-   },
-   "media": {
-    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day03_v2.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day03_x.gif"
-   },
-   "scheduled": {
-    "x": "6abf80d8d2e71b2f339f2418",
-    "tiktok": "6abf89d781e421bfcd76d5d2",
-    "youtube": "6abffda3e25183641e53c172"
-   },
-   "hold": null,
-   "kind": "engage",
-   "audio": "sfx+pad"
-  },
-  {
-   "day": 4,
-   "date": "2026-10-06",
-   "title": "The whole game in 25 seconds",
-   "x": {
-    "type": "video",
-    "text": "Realised my clips so far made zero sense unless you'd already played it. So here's the whole game in 25 seconds."
-   },
-   "tiktok": {
-    "text": "Realised my clips so far made zero sense unless you'd already played it. So here's the whole game in 25 seconds.\n\n#indiedev #strategygame #indiegame"
-   },
-   "youtube": {
-    "title": "The whole game in 25 seconds #Shorts",
-    "text": "Realised my clips so far made zero sense unless you'd already played it. So here's the whole game in 25 seconds."
-   },
-   "media": {
-    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day04_explainer.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day04_explainer.mp4"
-   },
-   "scheduled": {
-    "x": "6ac42b1eacc08dcd5e9724b1",
-    "tiktok": "6ac42b1b4e17d6a1b25bc654",
-    "youtube": "6ac42b1c5b14a019116e6163"
-   },
-   "hold": null,
-   "kind": "explainer",
-   "audio": "sfx+pad"
-  },
-  {
-   "day": 5,
-   "date": "2026-10-07",
-   "title": "Close isn't connected",
-   "x": {
-    "type": "video",
-    "text": "Playtesters kept asking why their Node wasn't connected when the lines were touching. Traces only join where you draw one across the other. Next to isn't connected."
-   },
-   "tiktok": {
-    "text": "Playtesters kept asking why their Node wasn't connected when the lines were touching. Traces only join where you draw one across the other. Next to isn't connected.\n\n#indiedev #strategygame #indiegame"
-   },
-   "youtube": {
-    "title": "Close isn't connected #Shorts",
-    "text": "Playtesters kept asking why their Node wasn't connected when the lines were touching. Traces only join where you draw one across the other. Next to isn't connected."
-   },
-   "media": {
-    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day05_explainer.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day05_wide.mp4"
-   },
-   "scheduled": {
-    "x": "6ac57ffd280171da8dd431db",
-    "tiktok": "6ac57ffa8a697ec911738806",
-    "youtube": "6ac57ffb8f62ac61b6eb66f9"
-   },
-   "hold": null,
-   "kind": "explainer",
-   "audio": "sfx+pad"
-  },
-  {
-   "day": 6,
-   "date": "2026-10-08",
-   "title": "Runners and the Hub",
-   "x": {
-    "type": "video",
-    "text": "Runners do the real work. They grab Signals from Nodes and drop them at the Hub. The Hub only holds so much, and when it's full they wait outside while the Nodes fill back up."
-   },
-   "tiktok": {
-    "text": "Runners do the real work. They grab Signals from Nodes and drop them at the Hub. The Hub only holds so much, and when it's full they wait outside while the Nodes fill back up.\n\n#indiedev #strategygame #indiegame"
-   },
-   "youtube": {
-    "title": "Why our Runners queue up #Shorts",
-    "text": "Runners do the real work. They grab Signals from Nodes and drop them at the Hub. The Hub only holds so much, and when it's full they wait outside while the Nodes fill back up."
-   },
-   "media": {
-    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day06_explainer.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day06_wide.mp4"
-   },
-   "scheduled": {
-    "x": "6ac5800a42e81c8a0b0cd00c",
-    "tiktok": "6ac580072b46a5da666fa1a7",
-    "youtube": "6ac580098a697ec9117389f0"
-   },
-   "hold": null,
-   "kind": "explainer",
-   "audio": "sfx+pad"
-  },
-  {
-   "day": 7,
-   "date": "2026-10-09",
-   "title": "What kind of game is this?",
-   "x": {
-    "type": "video",
-    "text": "Genuine question: what kind of game does this look like to you? Answer before the last second."
-   },
-   "tiktok": {
-    "text": "Genuine question: what kind of game does this look like to you? Answer before the last second.\n\n#indiedev #strategygame #indiegame"
-   },
-   "youtube": {
-    "title": "What kind of game is this? #Shorts",
-    "text": "Genuine question: what kind of game does this look like to you? Answer before the last second."
-   },
-   "media": {
-    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day07_explainer.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day07_wide.mp4"
-   },
-   "scheduled": {
-    "x": "6ac585a08a697ec91174496d",
-    "tiktok": "6ac5859d8f62ac61b6ec2ab5",
-    "youtube": "6ac5859e4852a95e8c256bfb"
-   },
-   "hold": null,
-   "kind": "question",
-   "audio": "sfx+pulse"
-  },
-  {
-   "day": 8,
-   "date": "2026-10-10",
-   "title": "The pink ring",
-   "x": {
-    "type": "video",
-    "text": "Pink ring means a Priority Signal, and it is in a hurry. Get it to the Hub before the ring runs out or it is gone, and so are 3 points.\n\nWould you have saved it? Yes or no below."
-   },
-   "tiktok": {
-    "text": "Pink ring means a Priority Signal, and it is in a hurry. Get it to the Hub before the ring runs out or it is gone, and so are 3 points.\n\nWould you have saved it? Yes or no below.\n\n#indiedev #strategygame #indiegame"
-   },
-   "youtube": {
-    "title": "The pink ring means hurry #Shorts",
-    "text": "Pink ring means a Priority Signal, and it is in a hurry. Get it to the Hub before the ring runs out or it is gone, and so are 3 points.\n\nWould you have saved it? Yes or no below."
-   },
-   "media": {
-    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day08_explainer.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day08_wide.mp4"
-   },
-   "scheduled": {
-    "x": "6ac6d9202977c961bdbc47cf",
-    "tiktok": "6ac6d92201166a3e1c0b3196",
-    "youtube": "6ac6d923365feab0d733c75d"
-   },
-   "hold": null,
-   "kind": "engage",
-   "audio": "sfx+tick"
-  },
-  {
-   "day": 9,
-   "date": "2026-10-11",
-   "title": "The board grows",
-   "x": {
-    "type": "video",
-    "text": "Every so often a new Node switches on, somewhere you didn't plan for. The network got too big for the map, so the map got bigger. Problem solved. (Problem not solved.)"
-   },
-   "tiktok": {
-    "text": "Every so often a new Node switches on, somewhere you didn't plan for. The network got too big for the map, so the map got bigger. Problem solved. (Problem not solved.)\n\n#indiedev #strategygame #indiegame"
-   },
-   "youtube": {
-    "title": "The board grows #Shorts",
-    "text": "Every so often a new Node switches on, somewhere you didn't plan for. The network got too big for the map, so the map got bigger. Problem solved. (Problem not solved.)"
-   },
-   "media": {
-    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day09_explainer.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day09_wide.mp4"
-   },
-   "scheduled": {
-    "x": "6ac8d04940bf9d602915eddf",
-    "tiktok": "6ac8d04b40bf9d602915eea6",
-    "youtube": "6ac8d04d40bf9d602915ef8e"
-   },
-   "hold": null,
-   "kind": "engage",
-   "audio": "sfx+lofi"
-  },
-  {
-   "day": 10,
-   "date": "2026-10-12",
-   "title": "Bridges",
-   "x": {
-    "type": "video",
-    "text": "Some of the board is dead zone and you can't draw on it. So now there are Bridges. They go over. That's the whole idea and we're still proud of it."
-   },
-   "tiktok": {
-    "text": "Some of the board is dead zone and you can't draw on it. So now there are Bridges. They go over. That's the whole idea and we're still proud of it.\n\n#indiedev #strategygame #indiegame"
-   },
-   "youtube": {
-    "title": "Bridges over the dead zone #Shorts",
-    "text": "Some of the board is dead zone and you can't draw on it. So now there are Bridges. They go over. That's the whole idea and we're still proud of it."
-   },
-   "media": {
-    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day10_explainer.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day10_wide.mp4"
-   },
-   "scheduled": {
-    "x": "6acad113c4de2d2b12437dd1",
-    "tiktok": "6acad115bba9419ccb1b7c84",
-    "youtube": "6acad117c4de2d2b12437e09"
-   },
-   "hold": null,
-   "kind": "story",
-   "audio": "sfx+pad"
-  },
-  {
-   "day": 11,
-   "date": "2026-10-13",
-   "title": "Hub policies",
-   "x": {
-    "type": "video",
-    "text": "You can tell a Hub what matters: Balanced, Priority first, or raw Throughput. The Runners read it and change where they go.\n\nWhich one are you picking?"
-   },
-   "tiktok": {
-    "text": "You can tell a Hub what matters: Balanced, Priority first, or raw Throughput. The Runners read it and change where they go.\n\nWhich one are you picking?\n\n#indiedev #strategygame #indiegame"
-   },
-   "youtube": {
-    "title": "Tell the Hub what matters #Shorts",
-    "text": "You can tell a Hub what matters: Balanced, Priority first, or raw Throughput. The Runners read it and change where they go.\n\nWhich one are you picking?"
-   },
-   "media": {
-    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day11_explainer.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day11_wide.mp4"
-   },
-   "scheduled": {
-    "x": "6acad125b07d37ac978cf9a4",
-    "tiktok": "6acad127c4de2d2b12437e8c",
-    "youtube": "6acad12aed92ed8fa5e65066"
-   },
-   "hold": null,
-   "kind": "question",
-   "audio": "sfx+pulse"
-  },
-  {
-   "day": 12,
-   "date": "2026-10-14",
-   "title": "Pick one",
-   "x": {
-    "type": "video",
-    "text": "End of a Cycle, pick one: Bridge Kit, Direct Cache or Rapid Transit. We took the Bridges. What are you taking?"
-   },
-   "tiktok": {
-    "text": "End of a Cycle, pick one: Bridge Kit, Direct Cache or Rapid Transit. We took the Bridges. What are you taking?\n\n#indiedev #strategygame #indiegame"
-   },
-   "youtube": {
-    "title": "Pick one #Shorts",
-    "text": "End of a Cycle, pick one: Bridge Kit, Direct Cache or Rapid Transit. We took the Bridges. What are you taking?"
-   },
-   "media": {
-    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day12_explainer.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day12_wide.mp4"
-   },
-   "scheduled": {
-    "x": "6acd35e2c5e6eb637a1a2c07",
-    "tiktok": "6acd35e4ae14ce433eb46600",
-    "youtube": "6acd35e6fc09a06c325008d1"
-   },
-   "hold": null,
-   "kind": "question",
-   "audio": "sfx+tick"
-  },
-  {
-   "day": 13,
-   "date": "2026-10-15",
-   "title": "Priority Dispatch",
-   "x": {
-    "type": "video",
-    "text": "Priority Dispatch sends every idle Runner to the Node that's closest to blowing. It's a panic button and we press it far too early."
-   },
-   "tiktok": {
-    "text": "Priority Dispatch sends every idle Runner to the Node that's closest to blowing. It's a panic button and we press it far too early.\n\n#indiedev #strategygame #indiegame"
-   },
-   "youtube": {
-    "title": "The panic button #Shorts",
-    "text": "Priority Dispatch sends every idle Runner to the Node that's closest to blowing. It's a panic button and we press it far too early."
-   },
-   "media": {
-    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day13_explainer.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day13_wide.mp4"
-   },
-   "scheduled": {
-    "x": "6ace7beadab57c5041961b9d",
-    "tiktok": "6ace7bec68f77d4857985b22",
-    "youtube": "6ace7bee240832a43132b713"
-   },
-   "hold": null,
-   "kind": "story",
-   "audio": "sfx+lofi"
-  },
-  {
-   "day": 14,
-   "date": "2026-10-16",
-   "title": "Cache Purge",
-   "x": {
-    "type": "video",
-    "text": "When the Hub is about to choke, you can just delete everything in the queue. Zero points for it. Worth it every time.\n\nComment PURGE if you'd press it."
-   },
-   "tiktok": {
-    "text": "When the Hub is about to choke, you can just delete everything in the queue. Zero points for it. Worth it every time.\n\nComment PURGE if you'd press it.\n\n#indiedev #strategygame #indiegame"
-   },
-   "youtube": {
-    "title": "Cache Purge #Shorts",
-    "text": "When the Hub is about to choke, you can just delete everything in the queue. Zero points for it. Worth it every time.\n\nComment PURGE if you'd press it."
-   },
-   "media": {
-    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day14_explainer.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day14_wide.mp4"
-   },
-   "scheduled": {
-    "x": "6ad153fda82f34dbe1356870",
-    "tiktok": "6ad153ff9597cd1662566005",
-    "youtube": "6ad15402a82f34dbe1356a05"
-   },
-   "hold": null,
-   "kind": "engage",
-   "audio": "sfx+pad"
-  },
-  {
-   "day": 15,
-   "date": "2026-10-17",
-   "title": "Overclock Trace",
-   "x": {
-    "type": "video",
-    "text": "Overclock finds your busiest Trace and makes every Runner on it go faster for a bit. It's the most satisfying thing in the game and we will not be taking questions."
-   },
-   "tiktok": {
-    "text": "Overclock finds your busiest Trace and makes every Runner on it go faster for a bit. It's the most satisfying thing in the game and we will not be taking questions.\n\n#indiedev #strategygame #indiegame"
-   },
-   "youtube": {
-    "title": "Overclock Trace #Shorts",
-    "text": "Overclock finds your busiest Trace and makes every Runner on it go faster for a bit. It's the most satisfying thing in the game and we will not be taking questions."
-   },
-   "media": {
-    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day15_explainer.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day15_wide.mp4"
-   },
-   "scheduled": {
-    "x": "6ad154044ed7d375a4343b3f",
-    "tiktok": "6ad15406fb64fffcf1a2a81a",
-    "youtube": "6ad154094ed7d375a4343c0a"
-   },
-   "hold": null,
-   "kind": "story",
-   "audio": "sfx+pulse"
-  },
-  {
-   "day": 16,
-   "date": "2026-10-18",
-   "title": "Priority Wave",
-   "x": {
-    "type": "video",
-    "text": "Events hit mid-Cycle. Hubs stall, Runners break down, and sometimes every Signal turns urgent at once. We have never related to anything more."
-   },
-   "tiktok": {
-    "text": "Events hit mid-Cycle. Hubs stall, Runners break down, and sometimes every Signal turns urgent at once. We have never related to anything more.\n\n#indiedev #strategygame #indiegame"
-   },
-   "youtube": {
-    "title": "Everything is urgent now #Shorts",
-    "text": "Events hit mid-Cycle. Hubs stall, Runners break down, and sometimes every Signal turns urgent at once. We have never related to anything more."
-   },
-   "media": {
-    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day16_explainer.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day16_wide.mp4"
-   },
-   "scheduled": {
-    "x": null,
-    "tiktok": null,
-    "youtube": null
-   },
-   "hold": null,
-   "kind": "story",
-   "audio": "sfx+tick"
-  },
-  {
-   "day": 17,
-   "date": "2026-10-19",
-   "title": "Which network survives?",
-   "x": {
-    "type": "video",
-    "text": "Two networks. One tidy, one held together with hope and missing a Node. Which one goes first? Guess, then watch."
-   },
-   "tiktok": {
-    "text": "Two networks. One tidy, one held together with hope and missing a Node. Which one goes first? Guess, then watch.\n\n#indiedev #strategygame #indiegame"
-   },
-   "youtube": {
-    "title": "Which network survives? #Shorts",
-    "text": "Two networks. One tidy, one held together with hope and missing a Node. Which one goes first? Guess, then watch."
-   },
-   "media": {
-    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day17_explainer.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day17_wide.mp4"
-   },
-   "scheduled": {
-    "x": null,
-    "tiktok": null,
-    "youtube": null
-   },
-   "hold": null,
-   "kind": "question",
-   "audio": "sfx+lofi"
-  },
-  {
-   "day": 18,
-   "date": "2026-10-20",
-   "title": "Pause and plan",
-   "x": {
-    "type": "video",
-    "text": "You can pause any time. The board goes grey, nothing moves, and you draw the fix in peace. We pause constantly. No shame."
-   },
-   "tiktok": {
-    "text": "You can pause any time. The board goes grey, nothing moves, and you draw the fix in peace. We pause constantly. No shame.\n\n#indiedev #strategygame #indiegame"
-   },
-   "youtube": {
-    "title": "Pause. Plan. Breathe. #Shorts",
-    "text": "You can pause any time. The board goes grey, nothing moves, and you draw the fix in peace. We pause constantly. No shame."
-   },
-   "media": {
-    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day18_explainer.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day18_wide.mp4"
-   },
-   "scheduled": {
-    "x": "6ad67432cded3e5c06c4e00f",
-    "tiktok": "6ad67434ff33544eb0911eb3",
-    "youtube": "6ad67437ff33544eb0911f39"
-   },
-   "hold": null,
-   "kind": "story",
-   "audio": "sfx+pad"
-  },
-  {
-   "day": 19,
-   "date": "2026-10-21",
-   "title": "One Cycle, no cuts",
-   "x": {
-    "type": "video",
-    "text": "One full Cycle. No cuts. Just us trying very hard not to lose."
-   },
-   "tiktok": {
-    "text": "One full Cycle. No cuts. Just us trying very hard not to lose.\n\n#indiedev #strategygame #indiegame"
-   },
-   "youtube": {
-    "title": "One Cycle, no cuts #Shorts",
-    "text": "One full Cycle. No cuts. Just us trying very hard not to lose."
-   },
-   "media": {
-    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day19_explainer.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day19_wide.mp4"
-   },
-   "scheduled": {
-    "x": "6ad6743aa569186c79cf309a",
-    "tiktok": "6ad6743ccded3e5c06c4e23d",
-    "youtube": "6ad6743ee19a00fc46f19693"
-   },
-   "hold": null,
-   "kind": "story",
-   "audio": "sfx"
-  },
-  {
-   "day": 20,
-   "date": "2026-10-22",
-   "title": "Our Runners were teleporting",
-   "x": {
-    "type": "video",
-    "text": "We found a bug where our Runners would pass a Hub and teleport to the next one with all their Signals. Very efficient. Very wrong. Fixed now. Mostly."
-   },
-   "tiktok": {
-    "text": "We found a bug where our Runners would pass a Hub and teleport to the next one with all their Signals. Very efficient. Very wrong. Fixed now. Mostly.\n\n#indiedev #strategygame #indiegame"
-   },
-   "youtube": {
-    "title": "Our Runners were teleporting #Shorts",
-    "text": "We found a bug where our Runners would pass a Hub and teleport to the next one with all their Signals. Very efficient. Very wrong. Fixed now. Mostly."
-   },
-   "media": {
-    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day20_explainer.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day20_wide.mp4"
-   },
-   "scheduled": {
-    "x": "6ad890137bfd13c0fd921e21",
-    "tiktok": "6ad89016d803b33b753782c1",
-    "youtube": "6ad89018611a87957c8e422b"
-   },
-   "hold": null,
-   "kind": "story",
-   "audio": "sfx+pulse"
-  },
-  {
-   "day": 21,
-   "date": "2026-10-23",
-   "title": "Pick the focus",
-   "x": {
-    "type": "video",
-    "text": "Which one should we show next? A: Bridges, B: Hub policies, C: Overclock Trace, D: the crash. Comment a letter. We are genuinely using your answers."
-   },
-   "tiktok": {
-    "text": "Which one should we show next? A: Bridges, B: Hub policies, C: Overclock Trace, D: the crash. Comment a letter. We are genuinely using your answers.\n\n#indiedev #strategygame #indiegame"
-   },
-   "youtube": {
-    "title": "Which one should we show next? #Shorts",
-    "text": "Which one should we show next? A: Bridges, B: Hub policies, C: Overclock Trace, D: the crash. Comment a letter. We are genuinely using your answers."
-   },
-   "media": {
-    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day21_explainer.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day21_wide.mp4"
-   },
-   "scheduled": {
-    "x": "6ad890c17bfd13c0fd9255a3",
-    "tiktok": "6ad890c3611a87957c8e727e",
-    "youtube": "6ad890c4611a87957c8e73d8"
-   },
-   "hold": null,
-   "kind": "question",
-   "audio": "sfx+tick"
-  },
-  {
-   "day": 22,
-   "date": "2026-10-24",
-   "title": "30 seconds of chaos",
-   "x": {
-    "type": "video",
-    "text": "No trailer yet, so here are our favourite 30 seconds of the game falling apart."
-   },
-   "tiktok": {
-    "text": "No trailer yet, so here are our favourite 30 seconds of the game falling apart.\n\n#indiedev #strategygame #indiegame"
-   },
-   "youtube": {
-    "title": "30 seconds of chaos #Shorts",
-    "text": "No trailer yet, so here are our favourite 30 seconds of the game falling apart."
-   },
-   "media": {
-    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day22_explainer.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day22_wide.mp4"
-   },
-   "scheduled": {
-    "x": null,
-    "tiktok": null,
-    "youtube": null
-   },
-   "hold": null,
-   "kind": "story",
-   "audio": "trailer"
-  },
-  {
-   "day": 23,
-   "date": "2026-10-25",
-   "title": "Every Layout",
-   "x": {
-    "type": "video",
-    "text": "Nine different boards across three worlds. We lose on all of them in very creative ways.\n\nPick your favourite."
-   },
-   "tiktok": {
-    "text": "Nine different boards across three worlds. We lose on all of them in very creative ways.\n\nPick your favourite.\n\n#indiedev #strategygame #indiegame"
-   },
-   "youtube": {
-    "title": "Nine boards, three worlds #Shorts",
-    "text": "Nine different boards across three worlds. We lose on all of them in very creative ways.\n\nPick your favourite."
-   },
-   "media": {
-    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day23_explainer.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day23_wide.mp4"
-   },
-   "scheduled": {
-    "x": null,
-    "tiktok": null,
-    "youtube": null
-   },
-   "hold": null,
-   "kind": "engage",
-   "audio": "sfx+lofi"
-  },
-  {
-   "day": 24,
-   "date": "2026-10-26",
-   "title": "Road to Cycle 10, part 1",
-   "x": {
-    "type": "video",
-    "text": "New series: can we reach Cycle 10 without everything melting? Part 1. Stakes: our pride."
-   },
-   "tiktok": {
-    "text": "New series: can we reach Cycle 10 without everything melting? Part 1. Stakes: our pride.\n\n#indiedev #strategygame #indiegame"
-   },
-   "youtube": {
-    "title": "Road to Cycle 10, part 1 #Shorts",
-    "text": "New series: can we reach Cycle 10 without everything melting? Part 1. Stakes: our pride."
-   },
-   "media": {
-    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day24_explainer.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day24_wide.mp4"
-   },
-   "scheduled": {
-    "x": null,
-    "tiktok": null,
-    "youtube": null
-   },
-   "hold": null,
-   "kind": "story",
-   "audio": "sfx+pad"
-  },
-  {
-   "day": 25,
-   "date": "2026-10-27",
-   "title": "Road to Cycle 10, part 2",
-   "x": {
-    "type": "video",
-    "text": "Road to Cycle 10, part 2.\n\nPink rings everywhere. Every Runner is busy. The game does not care.\n\nPredictions: do we make it?"
-   },
-   "tiktok": {
-    "text": "Road to Cycle 10, part 2.\n\nPink rings everywhere. Every Runner is busy. The game does not care.\n\nPredictions: do we make it?\n\n#indiedev #strategygame #indiegame"
-   },
-   "youtube": {
-    "title": "Road to Cycle 10, part 2 #Shorts",
-    "text": "Road to Cycle 10, part 2.\n\nPink rings everywhere. Every Runner is busy. The game does not care.\n\nPredictions: do we make it?"
-   },
-   "media": {
-    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day25_explainer.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day25_wide.mp4"
-   },
-   "scheduled": {
-    "x": null,
-    "tiktok": null,
-    "youtube": null
-   },
-   "hold": null,
-   "kind": "engage",
-   "audio": "sfx+pulse"
-  },
-  {
-   "day": 26,
-   "date": "2026-10-28",
-   "title": "Vias",
-   "x": {
-    "type": "video",
-    "text": "Bridges go over dead zones. Vias go straight through shielded blocks. We spent far too long naming them and we stand by it."
-   },
-   "tiktok": {
-    "text": "Bridges go over dead zones. Vias go straight through shielded blocks. We spent far too long naming them and we stand by it.\n\n#indiedev #strategygame #indiegame"
-   },
-   "youtube": {
-    "title": "Bridges go over. Vias go through. #Shorts",
-    "text": "Bridges go over dead zones. Vias go straight through shielded blocks. We spent far too long naming them and we stand by it."
-   },
-   "media": {
-    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day26_explainer.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day26_wide.mp4"
-   },
-   "scheduled": {
-    "x": null,
-    "tiktok": null,
-    "youtube": null
-   },
-   "hold": null,
-   "kind": "story",
-   "audio": "sfx+tick"
-  },
-  {
-   "day": 27,
-   "date": "2026-10-29",
-   "title": "Road to Cycle 10, finale",
-   "x": {
-    "type": "video",
-    "text": "Road to Cycle 10, the finale.\n\nWe made it to Cycle 3. Cycle 3. We will be back."
-   },
-   "tiktok": {
-    "text": "Road to Cycle 10, the finale.\n\nWe made it to Cycle 3. Cycle 3. We will be back.\n\n#indiedev #strategygame #indiegame"
-   },
-   "youtube": {
-    "title": "Road to Cycle 10, finale #Shorts",
-    "text": "Road to Cycle 10, the finale.\n\nWe made it to Cycle 3. Cycle 3. We will be back."
-   },
-   "media": {
-    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day27_explainer.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day27_wide.mp4"
-   },
-   "scheduled": {
-    "x": null,
-    "tiktok": null,
-    "youtube": null
-   },
-   "hold": null,
-   "kind": "question",
-   "audio": "sfx+lofi"
-  },
-  {
-   "day": 28,
-   "date": "2026-10-30",
-   "title": "Why it looks like a circuit board",
-   "x": {
-    "type": "video",
-    "text": "We wanted it to look like a subway map, but for the inside of a computer. Three worlds of it now."
-   },
-   "tiktok": {
-    "text": "We wanted it to look like a subway map, but for the inside of a computer. Three worlds of it now.\n\n#indiedev #strategygame #indiegame"
-   },
-   "youtube": {
-    "title": "Why it looks like a circuit board #Shorts",
-    "text": "We wanted it to look like a subway map, but for the inside of a computer. Three worlds of it now."
-   },
-   "media": {
-    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day28_explainer.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day28_wide.mp4"
-   },
-   "scheduled": {
-    "x": null,
-    "tiktok": null,
-    "youtube": null
-   },
-   "hold": null,
-   "kind": "story",
-   "audio": "sfx+pad"
-  },
-  {
-   "day": 29,
-   "date": "2026-10-31",
-   "title": "Everything we showed you",
-   "x": {
-    "type": "video",
-    "text": "Everything we showed you this month, in 25 seconds. Thanks for watching us fail on repeat.\n\nWhat should we post next?"
-   },
-   "tiktok": {
-    "text": "Everything we showed you this month, in 25 seconds. Thanks for watching us fail on repeat.\n\nWhat should we post next?\n\n#indiedev #strategygame #indiegame"
-   },
-   "youtube": {
-    "title": "The whole month in 25 seconds #Shorts",
-    "text": "Everything we showed you this month, in 25 seconds. Thanks for watching us fail on repeat.\n\nWhat should we post next?"
-   },
-   "media": {
-    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day29_explainer.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day29_wide.mp4"
-   },
-   "scheduled": {
-    "x": null,
-    "tiktok": null,
-    "youtube": null
-   },
-   "hold": null,
-   "kind": "engage",
-   "audio": "sfx+pad"
-  },
-  {
-   "day": 30,
-   "date": "2026-11-01",
-   "title": "30 days of posting",
-   "x": {
-    "type": "video",
-    "text": "That is 30 days of posting every day. Thank you for watching our network grow, and for watching it fall apart. If you have been following along, say hi. It means a lot to both of us."
-   },
-   "tiktok": {
-    "text": "That is 30 days of posting every day. Thank you for watching our network grow, and for watching it fall apart. If you have been following along, say hi. It means a lot to both of us.\n\n#indiedev #strategygame #indiegame"
-   },
-   "youtube": {
-    "title": "30 days of posting #Shorts",
-    "text": "That is 30 days of posting every day. Thank you for watching our network grow, and for watching it fall apart. If you have been following along, say hi. It means a lot to both of us."
-   },
-   "media": {
-    "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day30_explainer.mp4",
-    "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day30_wide.mp4"
-   },
-   "scheduled": {
-    "x": null,
-    "tiktok": null,
-    "youtube": null
-   },
-   "hold": null,
-   "kind": "engage",
-   "audio": "sfx+pad"
-  }
- ],
- "voice": "Dev journey posts from a two-person team: always we/our/us, never I/my, funny, self-deprecating, plain words. No sales line, no jargon walls, no em dashes. Mix the kinds: story, question, engage. Rotate audio: sfx only, or one of the beds (pulse, pad, tick, lofi, trailer), never the same two days running. X never gets portrait video: media.x is the widescreen 1920x1080 cut."
+  "postTimeLocal": "17:00",
+  "timezone": "Europe/London",
+  "days": [
+    {
+      "day": 1,
+      "date": "2026-10-03",
+      "title": "The collapse",
+      "x": {
+        "type": "video",
+        "text": "Spent six minutes building this network and felt like a genius. It fell apart in about five seconds. Honestly? Same."
+      },
+      "tiktok": {
+        "text": "Spent six minutes building this network and felt like a genius. It fell apart in about five seconds. Honestly? Same.\n\n#indiedev #gamedev #indiegame"
+      },
+      "youtube": {
+        "title": "Six minutes to build. Five seconds to break. #Shorts",
+        "text": "Spent six minutes building this network and felt like a genius. It fell apart in about five seconds. Honestly? Same."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day01_v2.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day01_x2.mp4"
+      },
+      "scheduled": {
+        "x": "6abf80c71b2a6a8e15589bc5",
+        "tiktok": "6abf89d479e44b20b329294d",
+        "youtube": "6abffd9f9df0308ea07b2cd1"
+      },
+      "hold": null,
+      "kind": "story",
+      "audio": "sfx"
+    },
+    {
+      "day": 2,
+      "date": "2026-10-04",
+      "title": "Calm to chaos",
+      "x": {
+        "type": "video",
+        "text": "The start of a run vs the same run six minutes later. Honest question: at what point would you have rage quit?"
+      },
+      "tiktok": {
+        "text": "The start of a run vs the same run six minutes later. Honest question: at what point would you have rage quit?\n\n#indiedev #gamedev #indiegame"
+      },
+      "youtube": {
+        "title": "At what point would you have rage quit? #Shorts",
+        "text": "The start of a run vs the same run six minutes later. Honest question: at what point would you have rage quit?"
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day02_v2.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day02_x2.mp4"
+      },
+      "scheduled": {
+        "x": "6abf80d6b41a266eabf400aa",
+        "tiktok": "6abf89d681e421bfcd76d59d",
+        "youtube": "6abffda1e25183641e53c0c9"
+      },
+      "hold": null,
+      "kind": "question",
+      "audio": "pulse"
+    },
+    {
+      "day": 3,
+      "date": "2026-10-05",
+      "title": "One Trace to save it",
+      "x": {
+        "type": "gif",
+        "text": "New thing pops up on the map. Everything else is already on fire. I draw one line and pretend I had a plan all along.\n\nRate the plan out of 10. Be gentle."
+      },
+      "tiktok": {
+        "text": "New thing pops up on the map. Everything else is already on fire. I draw one line and pretend I had a plan all along.\n\nRate the plan out of 10. Be gentle.\n\n#indiedev #gamedev #indiegame"
+      },
+      "youtube": {
+        "title": "Rate my plan out of 10. Be gentle. #Shorts",
+        "text": "New thing pops up on the map. Everything else is already on fire. I draw one line and pretend I had a plan all along.\n\nRate the plan out of 10. Be gentle."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day03_v2.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day03_x.gif"
+      },
+      "scheduled": {
+        "x": "6abf80d8d2e71b2f339f2418",
+        "tiktok": "6abf89d781e421bfcd76d5d2",
+        "youtube": "6abffda3e25183641e53c172"
+      },
+      "hold": null,
+      "kind": "engage",
+      "audio": "sfx+pad"
+    },
+    {
+      "day": 4,
+      "date": "2026-10-06",
+      "title": "The whole game in 25 seconds",
+      "x": {
+        "type": "video",
+        "text": "Realised my clips so far made zero sense unless you'd already played it. So here's the whole game in 25 seconds."
+      },
+      "tiktok": {
+        "text": "Realised my clips so far made zero sense unless you'd already played it. So here's the whole game in 25 seconds.\n\n#indiedev #strategygame #indiegame"
+      },
+      "youtube": {
+        "title": "The whole game in 25 seconds #Shorts",
+        "text": "Realised my clips so far made zero sense unless you'd already played it. So here's the whole game in 25 seconds."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day04_explainer.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day04_explainer.mp4"
+      },
+      "scheduled": {
+        "x": "6ac42b1eacc08dcd5e9724b1",
+        "tiktok": "6ac42b1b4e17d6a1b25bc654",
+        "youtube": "6ac42b1c5b14a019116e6163"
+      },
+      "hold": null,
+      "kind": "explainer",
+      "audio": "sfx+pad"
+    },
+    {
+      "day": 5,
+      "date": "2026-10-07",
+      "title": "Close isn't connected",
+      "x": {
+        "type": "video",
+        "text": "Playtesters kept asking why their Node wasn't connected when the lines were touching. Traces only join where you draw one across the other. Next to isn't connected."
+      },
+      "tiktok": {
+        "text": "Playtesters kept asking why their Node wasn't connected when the lines were touching. Traces only join where you draw one across the other. Next to isn't connected.\n\n#indiedev #strategygame #indiegame"
+      },
+      "youtube": {
+        "title": "Close isn't connected #Shorts",
+        "text": "Playtesters kept asking why their Node wasn't connected when the lines were touching. Traces only join where you draw one across the other. Next to isn't connected."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day05_explainer.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day05_wide.mp4"
+      },
+      "scheduled": {
+        "x": "6ac57ffd280171da8dd431db",
+        "tiktok": "6ac57ffa8a697ec911738806",
+        "youtube": "6ac57ffb8f62ac61b6eb66f9"
+      },
+      "hold": null,
+      "kind": "explainer",
+      "audio": "sfx+pad"
+    },
+    {
+      "day": 6,
+      "date": "2026-10-08",
+      "title": "Runners and the Hub",
+      "x": {
+        "type": "video",
+        "text": "Runners do the real work. They grab Signals from Nodes and drop them at the Hub. The Hub only holds so much, and when it's full they wait outside while the Nodes fill back up."
+      },
+      "tiktok": {
+        "text": "Runners do the real work. They grab Signals from Nodes and drop them at the Hub. The Hub only holds so much, and when it's full they wait outside while the Nodes fill back up.\n\n#indiedev #strategygame #indiegame"
+      },
+      "youtube": {
+        "title": "Why our Runners queue up #Shorts",
+        "text": "Runners do the real work. They grab Signals from Nodes and drop them at the Hub. The Hub only holds so much, and when it's full they wait outside while the Nodes fill back up."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day06_explainer.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day06_wide.mp4"
+      },
+      "scheduled": {
+        "x": "6ac5800a42e81c8a0b0cd00c",
+        "tiktok": "6ac580072b46a5da666fa1a7",
+        "youtube": "6ac580098a697ec9117389f0"
+      },
+      "hold": null,
+      "kind": "explainer",
+      "audio": "sfx+pad"
+    },
+    {
+      "day": 7,
+      "date": "2026-10-09",
+      "title": "What kind of game is this?",
+      "x": {
+        "type": "video",
+        "text": "Genuine question: what kind of game does this look like to you? Answer before the last second."
+      },
+      "tiktok": {
+        "text": "Genuine question: what kind of game does this look like to you? Answer before the last second.\n\n#indiedev #strategygame #indiegame"
+      },
+      "youtube": {
+        "title": "What kind of game is this? #Shorts",
+        "text": "Genuine question: what kind of game does this look like to you? Answer before the last second."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day07_explainer.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day07_wide.mp4"
+      },
+      "scheduled": {
+        "x": "6ac585a08a697ec91174496d",
+        "tiktok": "6ac5859d8f62ac61b6ec2ab5",
+        "youtube": "6ac5859e4852a95e8c256bfb"
+      },
+      "hold": null,
+      "kind": "question",
+      "audio": "sfx+pulse"
+    },
+    {
+      "day": 8,
+      "date": "2026-10-10",
+      "title": "The pink ring",
+      "x": {
+        "type": "video",
+        "text": "Pink ring means a Priority Signal, and it is in a hurry. Get it to the Hub before the ring runs out or it is gone, and so are 3 points.\n\nWould you have saved it? Yes or no below."
+      },
+      "tiktok": {
+        "text": "Pink ring means a Priority Signal, and it is in a hurry. Get it to the Hub before the ring runs out or it is gone, and so are 3 points.\n\nWould you have saved it? Yes or no below.\n\n#indiedev #strategygame #indiegame"
+      },
+      "youtube": {
+        "title": "The pink ring means hurry #Shorts",
+        "text": "Pink ring means a Priority Signal, and it is in a hurry. Get it to the Hub before the ring runs out or it is gone, and so are 3 points.\n\nWould you have saved it? Yes or no below."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day08_explainer.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day08_wide.mp4"
+      },
+      "scheduled": {
+        "x": "6ac6d9202977c961bdbc47cf",
+        "tiktok": "6ac6d92201166a3e1c0b3196",
+        "youtube": "6ac6d923365feab0d733c75d"
+      },
+      "hold": null,
+      "kind": "engage",
+      "audio": "sfx+tick"
+    },
+    {
+      "day": 9,
+      "date": "2026-10-11",
+      "title": "The board grows",
+      "x": {
+        "type": "video",
+        "text": "Every so often a new Node switches on, somewhere you didn't plan for. The network got too big for the map, so the map got bigger. Problem solved. (Problem not solved.)"
+      },
+      "tiktok": {
+        "text": "Every so often a new Node switches on, somewhere you didn't plan for. The network got too big for the map, so the map got bigger. Problem solved. (Problem not solved.)\n\n#indiedev #strategygame #indiegame"
+      },
+      "youtube": {
+        "title": "The board grows #Shorts",
+        "text": "Every so often a new Node switches on, somewhere you didn't plan for. The network got too big for the map, so the map got bigger. Problem solved. (Problem not solved.)"
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day09_explainer.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day09_wide.mp4"
+      },
+      "scheduled": {
+        "x": "6ac8d04940bf9d602915eddf",
+        "tiktok": "6ac8d04b40bf9d602915eea6",
+        "youtube": "6ac8d04d40bf9d602915ef8e"
+      },
+      "hold": null,
+      "kind": "engage",
+      "audio": "sfx+lofi"
+    },
+    {
+      "day": 10,
+      "date": "2026-10-12",
+      "title": "Bridges",
+      "x": {
+        "type": "video",
+        "text": "Some of the board is dead zone and you can't draw on it. So now there are Bridges. They go over. That's the whole idea and we're still proud of it."
+      },
+      "tiktok": {
+        "text": "Some of the board is dead zone and you can't draw on it. So now there are Bridges. They go over. That's the whole idea and we're still proud of it.\n\n#indiedev #strategygame #indiegame"
+      },
+      "youtube": {
+        "title": "Bridges over the dead zone #Shorts",
+        "text": "Some of the board is dead zone and you can't draw on it. So now there are Bridges. They go over. That's the whole idea and we're still proud of it."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day10_explainer.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day10_wide.mp4"
+      },
+      "scheduled": {
+        "x": "6acad113c4de2d2b12437dd1",
+        "tiktok": "6acad115bba9419ccb1b7c84",
+        "youtube": "6acad117c4de2d2b12437e09"
+      },
+      "hold": null,
+      "kind": "story",
+      "audio": "sfx+pad"
+    },
+    {
+      "day": 11,
+      "date": "2026-10-13",
+      "title": "Hub policies",
+      "x": {
+        "type": "video",
+        "text": "You can tell a Hub what matters: Balanced, Priority first, or raw Throughput. The Runners read it and change where they go.\n\nWhich one are you picking?"
+      },
+      "tiktok": {
+        "text": "You can tell a Hub what matters: Balanced, Priority first, or raw Throughput. The Runners read it and change where they go.\n\nWhich one are you picking?\n\n#indiedev #strategygame #indiegame"
+      },
+      "youtube": {
+        "title": "Tell the Hub what matters #Shorts",
+        "text": "You can tell a Hub what matters: Balanced, Priority first, or raw Throughput. The Runners read it and change where they go.\n\nWhich one are you picking?"
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day11_explainer.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day11_wide.mp4"
+      },
+      "scheduled": {
+        "x": "6acad125b07d37ac978cf9a4",
+        "tiktok": "6acad127c4de2d2b12437e8c",
+        "youtube": "6acad12aed92ed8fa5e65066"
+      },
+      "hold": null,
+      "kind": "question",
+      "audio": "sfx+pulse"
+    },
+    {
+      "day": 12,
+      "date": "2026-10-14",
+      "title": "Pick one",
+      "x": {
+        "type": "video",
+        "text": "End of a Cycle, pick one: Bridge Kit, Direct Cache or Rapid Transit. We took the Bridges. What are you taking?"
+      },
+      "tiktok": {
+        "text": "End of a Cycle, pick one: Bridge Kit, Direct Cache or Rapid Transit. We took the Bridges. What are you taking?\n\n#indiedev #strategygame #indiegame"
+      },
+      "youtube": {
+        "title": "Pick one #Shorts",
+        "text": "End of a Cycle, pick one: Bridge Kit, Direct Cache or Rapid Transit. We took the Bridges. What are you taking?"
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day12_explainer.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day12_wide.mp4"
+      },
+      "scheduled": {
+        "x": "6acd35e2c5e6eb637a1a2c07",
+        "tiktok": "6acd35e4ae14ce433eb46600",
+        "youtube": "6acd35e6fc09a06c325008d1"
+      },
+      "hold": null,
+      "kind": "question",
+      "audio": "sfx+tick"
+    },
+    {
+      "day": 13,
+      "date": "2026-10-15",
+      "title": "Priority Dispatch",
+      "x": {
+        "type": "video",
+        "text": "Priority Dispatch sends every idle Runner to the Node that's closest to blowing. It's a panic button and we press it far too early."
+      },
+      "tiktok": {
+        "text": "Priority Dispatch sends every idle Runner to the Node that's closest to blowing. It's a panic button and we press it far too early.\n\n#indiedev #strategygame #indiegame"
+      },
+      "youtube": {
+        "title": "The panic button #Shorts",
+        "text": "Priority Dispatch sends every idle Runner to the Node that's closest to blowing. It's a panic button and we press it far too early."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day13_explainer.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day13_wide.mp4"
+      },
+      "scheduled": {
+        "x": "6ace7beadab57c5041961b9d",
+        "tiktok": "6ace7bec68f77d4857985b22",
+        "youtube": "6ace7bee240832a43132b713"
+      },
+      "hold": null,
+      "kind": "story",
+      "audio": "sfx+lofi"
+    },
+    {
+      "day": 14,
+      "date": "2026-10-16",
+      "title": "Cache Purge",
+      "x": {
+        "type": "video",
+        "text": "When the Hub is about to choke, you can just delete everything in the queue. Zero points for it. Worth it every time.\n\nComment PURGE if you'd press it."
+      },
+      "tiktok": {
+        "text": "When the Hub is about to choke, you can just delete everything in the queue. Zero points for it. Worth it every time.\n\nComment PURGE if you'd press it.\n\n#indiedev #strategygame #indiegame"
+      },
+      "youtube": {
+        "title": "Cache Purge #Shorts",
+        "text": "When the Hub is about to choke, you can just delete everything in the queue. Zero points for it. Worth it every time.\n\nComment PURGE if you'd press it."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day14_explainer.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day14_wide.mp4"
+      },
+      "scheduled": {
+        "x": "6ad153fda82f34dbe1356870",
+        "tiktok": "6ad153ff9597cd1662566005",
+        "youtube": "6ad15402a82f34dbe1356a05"
+      },
+      "hold": null,
+      "kind": "engage",
+      "audio": "sfx+pad"
+    },
+    {
+      "day": 15,
+      "date": "2026-10-17",
+      "title": "Overclock Trace",
+      "x": {
+        "type": "video",
+        "text": "Overclock finds your busiest Trace and makes every Runner on it go faster for a bit. It's the most satisfying thing in the game and we will not be taking questions."
+      },
+      "tiktok": {
+        "text": "Overclock finds your busiest Trace and makes every Runner on it go faster for a bit. It's the most satisfying thing in the game and we will not be taking questions.\n\n#indiedev #strategygame #indiegame"
+      },
+      "youtube": {
+        "title": "Overclock Trace #Shorts",
+        "text": "Overclock finds your busiest Trace and makes every Runner on it go faster for a bit. It's the most satisfying thing in the game and we will not be taking questions."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day15_explainer.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day15_wide.mp4"
+      },
+      "scheduled": {
+        "x": "6ad154044ed7d375a4343b3f",
+        "tiktok": "6ad15406fb64fffcf1a2a81a",
+        "youtube": "6ad154094ed7d375a4343c0a"
+      },
+      "hold": null,
+      "kind": "story",
+      "audio": "sfx+pulse"
+    },
+    {
+      "day": 18,
+      "date": "2026-10-20",
+      "title": "Pause and plan",
+      "x": {
+        "type": "video",
+        "text": "You can pause any time. The board goes grey, nothing moves, and you draw the fix in peace. We pause constantly. No shame."
+      },
+      "tiktok": {
+        "text": "You can pause any time. The board goes grey, nothing moves, and you draw the fix in peace. We pause constantly. No shame.\n\n#indiedev #strategygame #indiegame"
+      },
+      "youtube": {
+        "title": "Pause. Plan. Breathe. #Shorts",
+        "text": "You can pause any time. The board goes grey, nothing moves, and you draw the fix in peace. We pause constantly. No shame."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day18_explainer.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day18_wide.mp4"
+      },
+      "scheduled": {
+        "x": "6ad67432cded3e5c06c4e00f",
+        "tiktok": "6ad67434ff33544eb0911eb3",
+        "youtube": "6ad67437ff33544eb0911f39"
+      },
+      "hold": null,
+      "kind": "story",
+      "audio": "sfx+pad"
+    },
+    {
+      "day": 19,
+      "date": "2026-10-21",
+      "title": "One Cycle, no cuts",
+      "x": {
+        "type": "video",
+        "text": "One full Cycle. No cuts. Just us trying very hard not to lose."
+      },
+      "tiktok": {
+        "text": "One full Cycle. No cuts. Just us trying very hard not to lose.\n\n#indiedev #strategygame #indiegame"
+      },
+      "youtube": {
+        "title": "One Cycle, no cuts #Shorts",
+        "text": "One full Cycle. No cuts. Just us trying very hard not to lose."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day19_explainer.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day19_wide.mp4"
+      },
+      "scheduled": {
+        "x": "6ad6743aa569186c79cf309a",
+        "tiktok": "6ad6743ccded3e5c06c4e23d",
+        "youtube": "6ad6743ee19a00fc46f19693"
+      },
+      "hold": null,
+      "kind": "story",
+      "audio": "sfx"
+    },
+    {
+      "day": 20,
+      "date": "2026-10-22",
+      "title": "Our Runners were teleporting",
+      "x": {
+        "type": "video",
+        "text": "We found a bug where our Runners would pass a Hub and teleport to the next one with all their Signals. Very efficient. Very wrong. Fixed now. Mostly."
+      },
+      "tiktok": {
+        "text": "We found a bug where our Runners would pass a Hub and teleport to the next one with all their Signals. Very efficient. Very wrong. Fixed now. Mostly.\n\n#indiedev #strategygame #indiegame"
+      },
+      "youtube": {
+        "title": "Our Runners were teleporting #Shorts",
+        "text": "We found a bug where our Runners would pass a Hub and teleport to the next one with all their Signals. Very efficient. Very wrong. Fixed now. Mostly."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day20_explainer.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day20_wide.mp4"
+      },
+      "scheduled": {
+        "x": "6ad890137bfd13c0fd921e21",
+        "tiktok": "6ad89016d803b33b753782c1",
+        "youtube": "6ad89018611a87957c8e422b"
+      },
+      "hold": null,
+      "kind": "story",
+      "audio": "sfx+pulse"
+    },
+    {
+      "day": 21,
+      "date": "2026-10-23",
+      "title": "Pick the focus",
+      "x": {
+        "type": "video",
+        "text": "Which one should we show next? A: Bridges, B: Hub policies, C: Overclock Trace, D: the crash. Comment a letter. We are genuinely using your answers."
+      },
+      "tiktok": {
+        "text": "Which one should we show next? A: Bridges, B: Hub policies, C: Overclock Trace, D: the crash. Comment a letter. We are genuinely using your answers.\n\n#indiedev #strategygame #indiegame"
+      },
+      "youtube": {
+        "title": "Which one should we show next? #Shorts",
+        "text": "Which one should we show next? A: Bridges, B: Hub policies, C: Overclock Trace, D: the crash. Comment a letter. We are genuinely using your answers."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day21_explainer.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day21_wide.mp4"
+      },
+      "scheduled": {
+        "x": "6ad890c17bfd13c0fd9255a3",
+        "tiktok": "6ad890c3611a87957c8e727e",
+        "youtube": "6ad890c4611a87957c8e73d8"
+      },
+      "hold": null,
+      "kind": "question",
+      "audio": "sfx+tick"
+    },
+    {
+      "day": 22,
+      "date": "2026-10-24",
+      "title": "30 seconds of chaos",
+      "x": {
+        "type": "video",
+        "text": "No trailer yet, so here are our favourite 30 seconds of the game falling apart."
+      },
+      "tiktok": {
+        "text": "No trailer yet, so here are our favourite 30 seconds of the game falling apart.\n\n#indiedev #strategygame #indiegame"
+      },
+      "youtube": {
+        "title": "30 seconds of chaos #Shorts",
+        "text": "No trailer yet, so here are our favourite 30 seconds of the game falling apart."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day22_explainer.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day22_wide.mp4"
+      },
+      "scheduled": {
+        "x": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "hold": null,
+      "kind": "story",
+      "audio": "trailer"
+    },
+    {
+      "day": 23,
+      "date": "2026-10-25",
+      "title": "Every Layout",
+      "x": {
+        "type": "video",
+        "text": "Nine different boards across three worlds. We lose on all of them in very creative ways.\n\nPick your favourite."
+      },
+      "tiktok": {
+        "text": "Nine different boards across three worlds. We lose on all of them in very creative ways.\n\nPick your favourite.\n\n#indiedev #strategygame #indiegame"
+      },
+      "youtube": {
+        "title": "Nine boards, three worlds #Shorts",
+        "text": "Nine different boards across three worlds. We lose on all of them in very creative ways.\n\nPick your favourite."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day23_explainer.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day23_wide.mp4"
+      },
+      "scheduled": {
+        "x": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "hold": null,
+      "kind": "engage",
+      "audio": "sfx+lofi"
+    },
+    {
+      "day": 24,
+      "date": "2026-10-26",
+      "title": "Road to Cycle 10, part 1",
+      "x": {
+        "type": "video",
+        "text": "New series: can we reach Cycle 10 without everything melting? Part 1. Stakes: our pride."
+      },
+      "tiktok": {
+        "text": "New series: can we reach Cycle 10 without everything melting? Part 1. Stakes: our pride.\n\n#indiedev #strategygame #indiegame"
+      },
+      "youtube": {
+        "title": "Road to Cycle 10, part 1 #Shorts",
+        "text": "New series: can we reach Cycle 10 without everything melting? Part 1. Stakes: our pride."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day24_explainer.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day24_wide.mp4"
+      },
+      "scheduled": {
+        "x": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "hold": null,
+      "kind": "story",
+      "audio": "sfx+pad"
+    },
+    {
+      "day": 25,
+      "date": "2026-10-27",
+      "title": "Road to Cycle 10, part 2",
+      "x": {
+        "type": "video",
+        "text": "Road to Cycle 10, part 2.\n\nPink rings everywhere. Every Runner is busy. The game does not care.\n\nPredictions: do we make it?"
+      },
+      "tiktok": {
+        "text": "Road to Cycle 10, part 2.\n\nPink rings everywhere. Every Runner is busy. The game does not care.\n\nPredictions: do we make it?\n\n#indiedev #strategygame #indiegame"
+      },
+      "youtube": {
+        "title": "Road to Cycle 10, part 2 #Shorts",
+        "text": "Road to Cycle 10, part 2.\n\nPink rings everywhere. Every Runner is busy. The game does not care.\n\nPredictions: do we make it?"
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day25_explainer.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day25_wide.mp4"
+      },
+      "scheduled": {
+        "x": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "hold": null,
+      "kind": "engage",
+      "audio": "sfx+pulse"
+    },
+    {
+      "day": 26,
+      "date": "2026-10-28",
+      "title": "Vias",
+      "x": {
+        "type": "video",
+        "text": "Bridges go over dead zones. Vias go straight through shielded blocks. We spent far too long naming them and we stand by it."
+      },
+      "tiktok": {
+        "text": "Bridges go over dead zones. Vias go straight through shielded blocks. We spent far too long naming them and we stand by it.\n\n#indiedev #strategygame #indiegame"
+      },
+      "youtube": {
+        "title": "Bridges go over. Vias go through. #Shorts",
+        "text": "Bridges go over dead zones. Vias go straight through shielded blocks. We spent far too long naming them and we stand by it."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day26_explainer.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day26_wide.mp4"
+      },
+      "scheduled": {
+        "x": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "hold": null,
+      "kind": "story",
+      "audio": "sfx+tick"
+    },
+    {
+      "day": 27,
+      "date": "2026-10-29",
+      "title": "Road to Cycle 10, finale",
+      "x": {
+        "type": "video",
+        "text": "Road to Cycle 10, the finale.\n\nWe made it to Cycle 3. Cycle 3. We will be back."
+      },
+      "tiktok": {
+        "text": "Road to Cycle 10, the finale.\n\nWe made it to Cycle 3. Cycle 3. We will be back.\n\n#indiedev #strategygame #indiegame"
+      },
+      "youtube": {
+        "title": "Road to Cycle 10, finale #Shorts",
+        "text": "Road to Cycle 10, the finale.\n\nWe made it to Cycle 3. Cycle 3. We will be back."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day27_explainer.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day27_wide.mp4"
+      },
+      "scheduled": {
+        "x": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "hold": null,
+      "kind": "question",
+      "audio": "sfx+lofi"
+    },
+    {
+      "day": 28,
+      "date": "2026-10-30",
+      "title": "Why it looks like a circuit board",
+      "x": {
+        "type": "video",
+        "text": "We wanted it to look like a subway map, but for the inside of a computer. Three worlds of it now."
+      },
+      "tiktok": {
+        "text": "We wanted it to look like a subway map, but for the inside of a computer. Three worlds of it now.\n\n#indiedev #strategygame #indiegame"
+      },
+      "youtube": {
+        "title": "Why it looks like a circuit board #Shorts",
+        "text": "We wanted it to look like a subway map, but for the inside of a computer. Three worlds of it now."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day28_explainer.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day28_wide.mp4"
+      },
+      "scheduled": {
+        "x": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "hold": null,
+      "kind": "story",
+      "audio": "sfx+pad"
+    },
+    {
+      "day": 29,
+      "date": "2026-10-31",
+      "title": "Everything we showed you",
+      "x": {
+        "type": "video",
+        "text": "Everything we showed you this month, in 25 seconds. Thanks for watching us fail on repeat.\n\nWhat should we post next?"
+      },
+      "tiktok": {
+        "text": "Everything we showed you this month, in 25 seconds. Thanks for watching us fail on repeat.\n\nWhat should we post next?\n\n#indiedev #strategygame #indiegame"
+      },
+      "youtube": {
+        "title": "The whole month in 25 seconds #Shorts",
+        "text": "Everything we showed you this month, in 25 seconds. Thanks for watching us fail on repeat.\n\nWhat should we post next?"
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day29_explainer.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day29_wide.mp4"
+      },
+      "scheduled": {
+        "x": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "hold": null,
+      "kind": "engage",
+      "audio": "sfx+pad"
+    },
+    {
+      "day": 30,
+      "date": "2026-11-01",
+      "title": "30 days of posting",
+      "x": {
+        "type": "video",
+        "text": "That is 30 days of posting every day. Thank you for watching our network grow, and for watching it fall apart. If you have been following along, say hi. It means a lot to both of us."
+      },
+      "tiktok": {
+        "text": "That is 30 days of posting every day. Thank you for watching our network grow, and for watching it fall apart. If you have been following along, say hi. It means a lot to both of us.\n\n#indiedev #strategygame #indiegame"
+      },
+      "youtube": {
+        "title": "30 days of posting #Shorts",
+        "text": "That is 30 days of posting every day. Thank you for watching our network grow, and for watching it fall apart. If you have been following along, say hi. It means a lot to both of us."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day30_explainer.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day30_wide.mp4"
+      },
+      "scheduled": {
+        "x": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "hold": null,
+      "kind": "engage",
+      "audio": "sfx+pad"
+    },
+    {
+      "day": 16,
+      "date": "2026-11-02",
+      "title": "Priority Wave",
+      "x": {
+        "type": "video",
+        "text": "Events hit mid-Cycle. Hubs stall, Runners break down, and sometimes every Signal turns urgent at once. We have never related to anything more."
+      },
+      "tiktok": {
+        "text": "Events hit mid-Cycle. Hubs stall, Runners break down, and sometimes every Signal turns urgent at once. We have never related to anything more.\n\n#indiedev #strategygame #indiegame"
+      },
+      "youtube": {
+        "title": "Everything is urgent now #Shorts",
+        "text": "Events hit mid-Cycle. Hubs stall, Runners break down, and sometimes every Signal turns urgent at once. We have never related to anything more."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day16_explainer.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day16_wide.mp4"
+      },
+      "scheduled": {
+        "x": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "hold": null,
+      "kind": "story",
+      "audio": "sfx+tick",
+      "movedFrom": "2026-10-18"
+    },
+    {
+      "day": 17,
+      "date": "2026-11-03",
+      "title": "Which network survives?",
+      "x": {
+        "type": "video",
+        "text": "Two networks. One tidy, one held together with hope and missing a Node. Which one goes first? Guess, then watch."
+      },
+      "tiktok": {
+        "text": "Two networks. One tidy, one held together with hope and missing a Node. Which one goes first? Guess, then watch.\n\n#indiedev #strategygame #indiegame"
+      },
+      "youtube": {
+        "title": "Which network survives? #Shorts",
+        "text": "Two networks. One tidy, one held together with hope and missing a Node. Which one goes first? Guess, then watch."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day17_explainer.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day17_wide.mp4"
+      },
+      "scheduled": {
+        "x": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "hold": null,
+      "kind": "question",
+      "audio": "sfx+lofi",
+      "movedFrom": "2026-10-19"
+    }
+  ],
+  "voice": "Dev journey posts from a two-person team: always we/our/us, never I/my, funny, self-deprecating, plain words. No sales line, no jargon walls, no em dashes. Mix the kinds: story, question, engage. Rotate audio: sfx only, or one of the beds (pulse, pad, tick, lofi, trailer), never the same two days running. X never gets portrait video: media.x is the widescreen 1920x1080 cut."
 }
