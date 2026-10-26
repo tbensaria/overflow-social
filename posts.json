@@ -535,90 +535,6 @@
       "audio": "sfx+tick"
     },
     {
-      "day": 22,
-      "date": "2026-10-24",
-      "title": "30 seconds of chaos",
-      "x": {
-        "type": "video",
-        "text": "No trailer yet, so here are our favourite 30 seconds of the game falling apart."
-      },
-      "tiktok": {
-        "text": "No trailer yet, so here are our favourite 30 seconds of the game falling apart.\n\n#indiedev #strategygame #indiegame"
-      },
-      "youtube": {
-        "title": "30 seconds of chaos #Shorts",
-        "text": "No trailer yet, so here are our favourite 30 seconds of the game falling apart."
-      },
-      "media": {
-        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day22_explainer.mp4",
-        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day22_wide.mp4"
-      },
-      "scheduled": {
-        "x": null,
-        "tiktok": null,
-        "youtube": null
-      },
-      "hold": null,
-      "kind": "story",
-      "audio": "trailer"
-    },
-    {
-      "day": 23,
-      "date": "2026-10-25",
-      "title": "Every Layout",
-      "x": {
-        "type": "video",
-        "text": "Nine different boards across three worlds. We lose on all of them in very creative ways.\n\nPick your favourite."
-      },
-      "tiktok": {
-        "text": "Nine different boards across three worlds. We lose on all of them in very creative ways.\n\nPick your favourite.\n\n#indiedev #strategygame #indiegame"
-      },
-      "youtube": {
-        "title": "Nine boards, three worlds #Shorts",
-        "text": "Nine different boards across three worlds. We lose on all of them in very creative ways.\n\nPick your favourite."
-      },
-      "media": {
-        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day23_explainer.mp4",
-        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day23_wide.mp4"
-      },
-      "scheduled": {
-        "x": null,
-        "tiktok": null,
-        "youtube": null
-      },
-      "hold": null,
-      "kind": "engage",
-      "audio": "sfx+lofi"
-    },
-    {
-      "day": 24,
-      "date": "2026-10-26",
-      "title": "Road to Cycle 10, part 1",
-      "x": {
-        "type": "video",
-        "text": "New series: can we reach Cycle 10 without everything melting? Part 1. Stakes: our pride."
-      },
-      "tiktok": {
-        "text": "New series: can we reach Cycle 10 without everything melting? Part 1. Stakes: our pride.\n\n#indiedev #strategygame #indiegame"
-      },
-      "youtube": {
-        "title": "Road to Cycle 10, part 1 #Shorts",
-        "text": "New series: can we reach Cycle 10 without everything melting? Part 1. Stakes: our pride."
-      },
-      "media": {
-        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day24_explainer.mp4",
-        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day24_wide.mp4"
-      },
-      "scheduled": {
-        "x": null,
-        "tiktok": null,
-        "youtube": null
-      },
-      "hold": null,
-      "kind": "story",
-      "audio": "sfx+pad"
-    },
-    {
       "day": 25,
       "date": "2026-10-27",
       "title": "Road to Cycle 10, part 2",
@@ -642,7 +558,7 @@
         "tiktok": null,
         "youtube": null
       },
-      "hold": null,
+      "hold": "Road to Cycle 10 part 1 (day 24) was missed and moved to 2026-11-06, so this part would post before it. Pick the series order, then clear hold.",
       "kind": "engage",
       "audio": "sfx+pulse"
     },
@@ -698,7 +614,7 @@
         "tiktok": null,
         "youtube": null
       },
-      "hold": null,
+      "hold": "Road to Cycle 10 part 1 (day 24) was missed and moved to 2026-11-06, so this part would post before it. Pick the series order, then clear hold.",
       "kind": "question",
       "audio": "sfx+lofi"
     },
@@ -843,6 +759,93 @@
       "kind": "question",
       "audio": "sfx+lofi",
       "movedFrom": "2026-10-19"
+    },
+    {
+      "day": 22,
+      "date": "2026-11-04",
+      "title": "30 seconds of chaos",
+      "x": {
+        "type": "video",
+        "text": "No trailer yet, so here are our favourite 30 seconds of the game falling apart."
+      },
+      "tiktok": {
+        "text": "No trailer yet, so here are our favourite 30 seconds of the game falling apart.\n\n#indiedev #strategygame #indiegame"
+      },
+      "youtube": {
+        "title": "30 seconds of chaos #Shorts",
+        "text": "No trailer yet, so here are our favourite 30 seconds of the game falling apart."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day22_explainer.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day22_wide.mp4"
+      },
+      "scheduled": {
+        "x": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "hold": null,
+      "kind": "story",
+      "audio": "trailer",
+      "movedFrom": "2026-10-24"
+    },
+    {
+      "day": 23,
+      "date": "2026-11-05",
+      "title": "Every Layout",
+      "x": {
+        "type": "video",
+        "text": "Nine different boards across three worlds. We lose on all of them in very creative ways.\n\nPick your favourite."
+      },
+      "tiktok": {
+        "text": "Nine different boards across three worlds. We lose on all of them in very creative ways.\n\nPick your favourite.\n\n#indiedev #strategygame #indiegame"
+      },
+      "youtube": {
+        "title": "Nine boards, three worlds #Shorts",
+        "text": "Nine different boards across three worlds. We lose on all of them in very creative ways.\n\nPick your favourite."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day23_explainer.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day23_wide.mp4"
+      },
+      "scheduled": {
+        "x": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "hold": null,
+      "kind": "engage",
+      "audio": "sfx+lofi",
+      "movedFrom": "2026-10-25"
+    },
+    {
+      "day": 24,
+      "date": "2026-11-06",
+      "title": "Road to Cycle 10, part 1",
+      "x": {
+        "type": "video",
+        "text": "New series: can we reach Cycle 10 without everything melting? Part 1. Stakes: our pride."
+      },
+      "tiktok": {
+        "text": "New series: can we reach Cycle 10 without everything melting? Part 1. Stakes: our pride.\n\n#indiedev #strategygame #indiegame"
+      },
+      "youtube": {
+        "title": "Road to Cycle 10, part 1 #Shorts",
+        "text": "New series: can we reach Cycle 10 without everything melting? Part 1. Stakes: our pride."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day24_explainer.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day24_wide.mp4"
+      },
+      "scheduled": {
+        "x": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "hold": null,
+      "kind": "story",
+      "audio": "sfx+pad",
+      "movedFrom": "2026-10-26"
     }
   ],
   "voice": "Dev journey posts from a two-person team: always we/our/us, never I/my, funny, self-deprecating, plain words. No sales line, no jargon walls, no em dashes. Mix the kinds: story, question, engage. Rotate audio: sfx only, or one of the beds (pulse, pad, tick, lofi, trailer), never the same two days running. X never gets portrait video: media.x is the widescreen 1920x1080 cut."
