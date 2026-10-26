@@ -563,6 +563,35 @@
       "audio": "sfx+tick"
     },
     {
+      "day": 16,
+      "date": "2026-10-29",
+      "title": "Priority Wave",
+      "x": {
+        "type": "video",
+        "text": "Events hit mid-Cycle. Hubs stall, Runners break down, and sometimes every Signal turns urgent at once. We have never related to anything more."
+      },
+      "tiktok": {
+        "text": "Events hit mid-Cycle. Hubs stall, Runners break down, and sometimes every Signal turns urgent at once. We have never related to anything more.\n\n#indiedev #strategygame #indiegame"
+      },
+      "youtube": {
+        "title": "Everything is urgent now #Shorts",
+        "text": "Events hit mid-Cycle. Hubs stall, Runners break down, and sometimes every Signal turns urgent at once. We have never related to anything more."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day16_explainer.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day16_wide.mp4"
+      },
+      "scheduled": {
+        "x": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "hold": null,
+      "kind": "story",
+      "audio": "sfx+tick",
+      "movedFrom": "2026-10-18"
+    },
+    {
       "day": 28,
       "date": "2026-10-30",
       "title": "Why it looks like a circuit board",
@@ -647,37 +676,8 @@
       "audio": "sfx+pad"
     },
     {
-      "day": 16,
-      "date": "2026-11-02",
-      "title": "Priority Wave",
-      "x": {
-        "type": "video",
-        "text": "Events hit mid-Cycle. Hubs stall, Runners break down, and sometimes every Signal turns urgent at once. We have never related to anything more."
-      },
-      "tiktok": {
-        "text": "Events hit mid-Cycle. Hubs stall, Runners break down, and sometimes every Signal turns urgent at once. We have never related to anything more.\n\n#indiedev #strategygame #indiegame"
-      },
-      "youtube": {
-        "title": "Everything is urgent now #Shorts",
-        "text": "Events hit mid-Cycle. Hubs stall, Runners break down, and sometimes every Signal turns urgent at once. We have never related to anything more."
-      },
-      "media": {
-        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day16_explainer.mp4",
-        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day16_wide.mp4"
-      },
-      "scheduled": {
-        "x": null,
-        "tiktok": null,
-        "youtube": null
-      },
-      "hold": null,
-      "kind": "story",
-      "audio": "sfx+tick",
-      "movedFrom": "2026-10-18"
-    },
-    {
       "day": 17,
-      "date": "2026-11-03",
+      "date": "2026-11-02",
       "title": "Which network survives?",
       "x": {
         "type": "video",
@@ -706,7 +706,7 @@
     },
     {
       "day": 22,
-      "date": "2026-11-04",
+      "date": "2026-11-03",
       "title": "30 seconds of chaos",
       "x": {
         "type": "video",
@@ -735,7 +735,7 @@
     },
     {
       "day": 23,
-      "date": "2026-11-05",
+      "date": "2026-11-04",
       "title": "Every Layout",
       "x": {
         "type": "video",
@@ -764,7 +764,7 @@
     },
     {
       "day": 24,
-      "date": "2026-11-06",
+      "date": "2026-11-05",
       "title": "Road to Cycle 10, part 1",
       "x": {
         "type": "video",
@@ -793,7 +793,7 @@
     },
     {
       "day": 25,
-      "date": "2026-11-07",
+      "date": "2026-11-06",
       "title": "Road to Cycle 10, part 2",
       "x": {
         "type": "video",
@@ -822,7 +822,7 @@
     },
     {
       "day": 27,
-      "date": "2026-11-08",
+      "date": "2026-11-07",
       "title": "Road to Cycle 10, finale",
       "x": {
         "type": "video",
