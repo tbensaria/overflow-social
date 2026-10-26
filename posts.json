@@ -535,34 +535,6 @@
       "audio": "sfx+tick"
     },
     {
-      "day": 25,
-      "date": "2026-10-27",
-      "title": "Road to Cycle 10, part 2",
-      "x": {
-        "type": "video",
-        "text": "Road to Cycle 10, part 2.\n\nPink rings everywhere. Every Runner is busy. The game does not care.\n\nPredictions: do we make it?"
-      },
-      "tiktok": {
-        "text": "Road to Cycle 10, part 2.\n\nPink rings everywhere. Every Runner is busy. The game does not care.\n\nPredictions: do we make it?\n\n#indiedev #strategygame #indiegame"
-      },
-      "youtube": {
-        "title": "Road to Cycle 10, part 2 #Shorts",
-        "text": "Road to Cycle 10, part 2.\n\nPink rings everywhere. Every Runner is busy. The game does not care.\n\nPredictions: do we make it?"
-      },
-      "media": {
-        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day25_explainer.mp4",
-        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day25_wide.mp4"
-      },
-      "scheduled": {
-        "x": null,
-        "tiktok": null,
-        "youtube": null
-      },
-      "hold": "Road to Cycle 10 part 1 (day 24) was missed and moved to 2026-11-06, so this part would post before it. Pick the series order, then clear hold.",
-      "kind": "engage",
-      "audio": "sfx+pulse"
-    },
-    {
       "day": 26,
       "date": "2026-10-28",
       "title": "Vias",
@@ -589,34 +561,6 @@
       "hold": null,
       "kind": "story",
       "audio": "sfx+tick"
-    },
-    {
-      "day": 27,
-      "date": "2026-10-29",
-      "title": "Road to Cycle 10, finale",
-      "x": {
-        "type": "video",
-        "text": "Road to Cycle 10, the finale.\n\nWe made it to Cycle 3. Cycle 3. We will be back."
-      },
-      "tiktok": {
-        "text": "Road to Cycle 10, the finale.\n\nWe made it to Cycle 3. Cycle 3. We will be back.\n\n#indiedev #strategygame #indiegame"
-      },
-      "youtube": {
-        "title": "Road to Cycle 10, finale #Shorts",
-        "text": "Road to Cycle 10, the finale.\n\nWe made it to Cycle 3. Cycle 3. We will be back."
-      },
-      "media": {
-        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day27_explainer.mp4",
-        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day27_wide.mp4"
-      },
-      "scheduled": {
-        "x": null,
-        "tiktok": null,
-        "youtube": null
-      },
-      "hold": "Road to Cycle 10 part 1 (day 24) was missed and moved to 2026-11-06, so this part would post before it. Pick the series order, then clear hold.",
-      "kind": "question",
-      "audio": "sfx+lofi"
     },
     {
       "day": 28,
@@ -846,6 +790,64 @@
       "kind": "story",
       "audio": "sfx+pad",
       "movedFrom": "2026-10-26"
+    },
+    {
+      "day": 25,
+      "date": "2026-11-07",
+      "title": "Road to Cycle 10, part 2",
+      "x": {
+        "type": "video",
+        "text": "Road to Cycle 10, part 2.\n\nPink rings everywhere. Every Runner is busy. The game does not care.\n\nPredictions: do we make it?"
+      },
+      "tiktok": {
+        "text": "Road to Cycle 10, part 2.\n\nPink rings everywhere. Every Runner is busy. The game does not care.\n\nPredictions: do we make it?\n\n#indiedev #strategygame #indiegame"
+      },
+      "youtube": {
+        "title": "Road to Cycle 10, part 2 #Shorts",
+        "text": "Road to Cycle 10, part 2.\n\nPink rings everywhere. Every Runner is busy. The game does not care.\n\nPredictions: do we make it?"
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day25_explainer.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day25_wide.mp4"
+      },
+      "scheduled": {
+        "x": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "hold": null,
+      "kind": "engage",
+      "audio": "sfx+pulse",
+      "movedFrom": "2026-10-27"
+    },
+    {
+      "day": 27,
+      "date": "2026-11-08",
+      "title": "Road to Cycle 10, finale",
+      "x": {
+        "type": "video",
+        "text": "Road to Cycle 10, the finale.\n\nWe made it to Cycle 3. Cycle 3. We will be back."
+      },
+      "tiktok": {
+        "text": "Road to Cycle 10, the finale.\n\nWe made it to Cycle 3. Cycle 3. We will be back.\n\n#indiedev #strategygame #indiegame"
+      },
+      "youtube": {
+        "title": "Road to Cycle 10, finale #Shorts",
+        "text": "Road to Cycle 10, the finale.\n\nWe made it to Cycle 3. Cycle 3. We will be back."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day27_explainer.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day27_wide.mp4"
+      },
+      "scheduled": {
+        "x": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "hold": null,
+      "kind": "question",
+      "audio": "sfx+lofi",
+      "movedFrom": "2026-10-29"
     }
   ],
   "voice": "Dev journey posts from a two-person team: always we/our/us, never I/my, funny, self-deprecating, plain words. No sales line, no jargon walls, no em dashes. Mix the kinds: story, question, engage. Rotate audio: sfx only, or one of the beds (pulse, pad, tick, lofi, trailer), never the same two days running. X never gets portrait video: media.x is the widescreen 1920x1080 cut."
