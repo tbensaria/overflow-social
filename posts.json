@@ -563,35 +563,6 @@
       "audio": "sfx+tick"
     },
     {
-      "day": 16,
-      "date": "2026-10-29",
-      "title": "Priority Wave",
-      "x": {
-        "type": "video",
-        "text": "Events hit mid-Cycle. Hubs stall, Runners break down, and sometimes every Signal turns urgent at once. We have never related to anything more."
-      },
-      "tiktok": {
-        "text": "Events hit mid-Cycle. Hubs stall, Runners break down, and sometimes every Signal turns urgent at once. We have never related to anything more.\n\n#indiedev #strategygame #indiegame"
-      },
-      "youtube": {
-        "title": "Everything is urgent now #Shorts",
-        "text": "Events hit mid-Cycle. Hubs stall, Runners break down, and sometimes every Signal turns urgent at once. We have never related to anything more."
-      },
-      "media": {
-        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day16_explainer.mp4",
-        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day16_wide.mp4"
-      },
-      "scheduled": {
-        "x": null,
-        "tiktok": null,
-        "youtube": null
-      },
-      "hold": null,
-      "kind": "story",
-      "audio": "sfx+tick",
-      "movedFrom": "2026-10-18"
-    },
-    {
       "day": 28,
       "date": "2026-10-30",
       "title": "Why it looks like a circuit board",
@@ -847,6 +818,35 @@
       "hold": null,
       "kind": "question",
       "audio": "sfx+lofi",
+      "movedFrom": "2026-10-29"
+    },
+    {
+      "day": 16,
+      "date": "2026-11-08",
+      "title": "Priority Wave",
+      "x": {
+        "type": "video",
+        "text": "Events hit mid-Cycle. Hubs stall, Runners break down, and sometimes every Signal turns urgent at once. We have never related to anything more."
+      },
+      "tiktok": {
+        "text": "Events hit mid-Cycle. Hubs stall, Runners break down, and sometimes every Signal turns urgent at once. We have never related to anything more.\n\n#indiedev #strategygame #indiegame"
+      },
+      "youtube": {
+        "title": "Everything is urgent now #Shorts",
+        "text": "Events hit mid-Cycle. Hubs stall, Runners break down, and sometimes every Signal turns urgent at once. We have never related to anything more."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day16_explainer.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day16_wide.mp4"
+      },
+      "scheduled": {
+        "x": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "hold": null,
+      "kind": "story",
+      "audio": "sfx+tick",
       "movedFrom": "2026-10-29"
     }
   ],
