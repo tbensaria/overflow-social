@@ -647,64 +647,6 @@
       "audio": "sfx+pad"
     },
     {
-      "day": 17,
-      "date": "2026-11-02",
-      "title": "Which network survives?",
-      "x": {
-        "type": "video",
-        "text": "Two networks. One tidy, one held together with hope and missing a Node. Which one goes first? Guess, then watch."
-      },
-      "tiktok": {
-        "text": "Two networks. One tidy, one held together with hope and missing a Node. Which one goes first? Guess, then watch.\n\n#indiedev #strategygame #indiegame"
-      },
-      "youtube": {
-        "title": "Which network survives? #Shorts",
-        "text": "Two networks. One tidy, one held together with hope and missing a Node. Which one goes first? Guess, then watch."
-      },
-      "media": {
-        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day17_explainer.mp4",
-        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day17_wide.mp4"
-      },
-      "scheduled": {
-        "x": null,
-        "tiktok": null,
-        "youtube": null
-      },
-      "hold": null,
-      "kind": "question",
-      "audio": "sfx+lofi",
-      "movedFrom": "2026-10-19"
-    },
-    {
-      "day": 22,
-      "date": "2026-11-03",
-      "title": "30 seconds of chaos",
-      "x": {
-        "type": "video",
-        "text": "No trailer yet, so here are our favourite 30 seconds of the game falling apart."
-      },
-      "tiktok": {
-        "text": "No trailer yet, so here are our favourite 30 seconds of the game falling apart.\n\n#indiedev #strategygame #indiegame"
-      },
-      "youtube": {
-        "title": "30 seconds of chaos #Shorts",
-        "text": "No trailer yet, so here are our favourite 30 seconds of the game falling apart."
-      },
-      "media": {
-        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day22_explainer.mp4",
-        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day22_wide.mp4"
-      },
-      "scheduled": {
-        "x": null,
-        "tiktok": null,
-        "youtube": null
-      },
-      "hold": null,
-      "kind": "story",
-      "audio": "trailer",
-      "movedFrom": "2026-10-24"
-    },
-    {
       "day": 23,
       "date": "2026-11-04",
       "title": "Every Layout",
@@ -848,6 +790,64 @@
       "kind": "story",
       "audio": "sfx+tick",
       "movedFrom": "2026-10-29"
+    },
+    {
+      "day": 17,
+      "date": "2026-11-09",
+      "title": "Which network survives?",
+      "x": {
+        "type": "video",
+        "text": "Two networks. One tidy, one held together with hope and missing a Node. Which one goes first? Guess, then watch."
+      },
+      "tiktok": {
+        "text": "Two networks. One tidy, one held together with hope and missing a Node. Which one goes first? Guess, then watch.\n\n#indiedev #strategygame #indiegame"
+      },
+      "youtube": {
+        "title": "Which network survives? #Shorts",
+        "text": "Two networks. One tidy, one held together with hope and missing a Node. Which one goes first? Guess, then watch."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day17_explainer.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day17_wide.mp4"
+      },
+      "scheduled": {
+        "x": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "hold": null,
+      "kind": "question",
+      "audio": "sfx+lofi",
+      "movedFrom": "2026-11-02"
+    },
+    {
+      "day": 22,
+      "date": "2026-11-10",
+      "title": "30 seconds of chaos",
+      "x": {
+        "type": "video",
+        "text": "No trailer yet, so here are our favourite 30 seconds of the game falling apart."
+      },
+      "tiktok": {
+        "text": "No trailer yet, so here are our favourite 30 seconds of the game falling apart.\n\n#indiedev #strategygame #indiegame"
+      },
+      "youtube": {
+        "title": "30 seconds of chaos #Shorts",
+        "text": "No trailer yet, so here are our favourite 30 seconds of the game falling apart."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/week1/day22_explainer.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/week1/day22_wide.mp4"
+      },
+      "scheduled": {
+        "x": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "hold": null,
+      "kind": "story",
+      "audio": "trailer",
+      "movedFrom": "2026-11-03"
     }
   ],
   "voice": "Dev journey posts from a two-person team: always we/our/us, never I/my, funny, self-deprecating, plain words. No sales line, no jargon walls, no em dashes. Mix the kinds: story, question, engage. Rotate audio: sfx only, or one of the beds (pulse, pad, tick, lofi, trailer), never the same two days running. X never gets portrait video: media.x is the widescreen 1920x1080 cut."
