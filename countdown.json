@@ -316,19 +316,19 @@
       "time": "17:00",
       "title": "Dev story: new Nodes got a 25 s wake-up ring",
       "x": {
-        "text": ""
+        "text": "New Nodes used to fill up before you even saw them. So we gave them 25 seconds to wake up.\n\nFree demo in 13 days\n\n#madewithunity #WeLoveIndies"
       },
       "xHashtags": "#madewithunity #WeLoveIndies",
       "tiktok": {
-        "text": ""
+        "text": "New Nodes used to fill up before you even saw them, so we gave them 25 seconds to wake up. Would you have reached it in time? Free demo on Steam, 3 Dec.\n\n#indiedev #strategygame #indiegame #gamedev"
       },
       "youtube": {
-        "title": "",
-        "text": ""
+        "title": "Our new Nodes kept ambushing players #Shorts",
+        "text": "New Nodes used to fill up before you even saw them, so we gave them a 25 second wake-up ring. Overflow, free demo on Steam from 3 Dec.\n\n#indiegame #madewithunity"
       },
       "media": {
-        "vertical": null,
-        "x": null
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/countdown/dm13_newnode_vertical.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/countdown/dm13_newnode_wide.mp4"
       },
       "scheduled": {
         "x": null,
