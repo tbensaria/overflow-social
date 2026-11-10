@@ -372,19 +372,19 @@
       "time": "17:00",
       "title": "Dev story: the camera shows which Node ended your run",
       "x": {
-        "text": ""
+        "text": "Players kept asking which Node ended their run. So now the camera shows you.\n\nFree demo in 11 days\n\n#madewithunity #WeLoveIndies"
       },
       "xHashtags": "#madewithunity #WeLoveIndies",
       "tiktok": {
-        "text": ""
+        "text": "Players kept asking which Node ended their run, so now the camera shows you. Would you have spotted it? Free demo on Steam, 3 Dec.\n\n#indiedev #strategygame #indiegame #gamedev"
       },
       "youtube": {
-        "title": "",
-        "text": ""
+        "title": "Players kept asking what killed their run #Shorts",
+        "text": "Players kept asking which Node ended their run, so now the crash camera zooms straight to it. Overflow, free demo on Steam from 3 Dec.\n\n#indiegame #madewithunity"
       },
       "media": {
-        "vertical": null,
-        "x": null
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/countdown/dm11_crashcam_vertical.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/countdown/dm11_crashcam_wide.mp4"
       },
       "scheduled": {
         "x": null,
