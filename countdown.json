@@ -112,7 +112,7 @@
       "time": "17:00",
       "title": "Bridges and Vias",
       "x": {
-        "text": "6 days until our Steam page goes live.\n\nA Dead Zone in the way? Build a Bridge over it. A Shielded Block? Run a Via under it. Which would you save your charges for?"
+        "text": "6 days until our Steam page goes live.\n\nA Dead Zone in the way? Build a Bridge over it. A Shielded Block? Run a Via under it. Which would you save your charges for?\n\n#madewithunity #WeLoveIndies"
       },
       "tiktok": {
         "text": "6 days until our Steam page goes live. Bridge over the Dead Zone or Via under the Shielded Block. Which would you save your charges for?\n\n#indiedev #strategygame #indiegame #gamedev"
@@ -130,7 +130,8 @@
         "tiktok": null,
         "youtube": null
       },
-      "hold": null
+      "hold": null,
+      "xHashtags": "#madewithunity #WeLoveIndies"
     },
     {
       "daysLeft": 5,
@@ -138,7 +139,7 @@
       "time": "17:00",
       "title": "The Data Bus: Runners wait at the crossing",
       "x": {
-        "text": "5 days until our Steam page goes live.\n\nOn some boards a Data Bus pulses across the map. Runners see it coming and wait at the crossing. How often would you make them cross it?"
+        "text": "5 days until our Steam page goes live.\n\nOn some boards a Data Bus pulses across the map. Runners see it coming and wait at the crossing. How often would you make them cross it?\n\n#screenshotsaturday #madewithunity"
       },
       "tiktok": {
         "text": "5 days until our Steam page goes live. Our Runners see the Data Bus coming and wait for it to pass. How often would you make them cross it?\n\n#indiedev #strategygame #indiegame #gamedev"
@@ -156,7 +157,8 @@
         "tiktok": null,
         "youtube": null
       },
-      "hold": null
+      "hold": null,
+      "xHashtags": "#screenshotsaturday #madewithunity"
     },
     {
       "daysLeft": 4,
@@ -164,7 +166,7 @@
       "time": "17:00",
       "title": "Priority Signals and Hub policies",
       "x": {
-        "text": "4 days until our Steam page goes live.\n\nPink Signals are urgent, and your Runners rush them in. Or switch a Hub to Priority. Balanced, Priority or Throughput: which would you run?"
+        "text": "4 days until our Steam page goes live.\n\nPink Signals are urgent, and your Runners rush them in. Or switch a Hub to Priority. Balanced, Priority or Throughput: which would you run?\n\n#madewithunity #WeLoveIndies"
       },
       "tiktok": {
         "text": "4 days until our Steam page goes live. Pink Signals are urgent. Balanced, Priority or Throughput: which Hub mode would you run?\n\n#indiedev #strategygame #indiegame #gamedev"
@@ -182,7 +184,8 @@
         "tiktok": null,
         "youtube": null
       },
-      "hold": null
+      "hold": null,
+      "xHashtags": "#madewithunity #WeLoveIndies"
     },
     {
       "daysLeft": 3,
@@ -190,7 +193,7 @@
       "time": "17:00",
       "title": "Emergency abilities save the run",
       "x": {
-        "text": "3 days until our Steam page goes live.\n\nEvery Node about to overflow. Priority Dispatch, Cache Purge, Overclock: three emergency abilities to pull it back. Which one would you use first?"
+        "text": "3 days until our Steam page goes live.\n\nEvery Node about to overflow. Priority Dispatch, Cache Purge, Overclock: three emergency abilities to pull it back. Which one would you use first?\n\n#madewithunity #WeLoveIndies"
       },
       "tiktok": {
         "text": "3 days until our Steam page goes live. Every Node was about to overflow, so we pulled out the emergency abilities. Which one would you use first?\n\n#indiedev #strategygame #indiegame #gamedev"
@@ -208,7 +211,8 @@
         "tiktok": null,
         "youtube": null
       },
-      "hold": null
+      "hold": null,
+      "xHashtags": "#madewithunity #WeLoveIndies"
     },
     {
       "daysLeft": 2,
@@ -234,7 +238,8 @@
         "tiktok": null,
         "youtube": null
       },
-      "hold": null
+      "hold": null,
+      "xHashtags": "#madewithunity #WeLoveIndies"
     },
     {
       "daysLeft": 1,
@@ -260,7 +265,8 @@
         "tiktok": null,
         "youtube": null
       },
-      "hold": null
+      "hold": null,
+      "xHashtags": "#wishlistwednesday #madewithunity"
     },
     {
       "daysLeft": 0,
@@ -288,5 +294,8 @@
       },
       "hold": "Announce day: posted by hand with the Steam link at 18:00 UK, not by the routine"
     }
-  ]
+  ],
+  "rules": {
+    "xHashtags": "At most 2 hashtags per X post: #madewithunity on every post, plus #screenshotsaturday on Saturdays, #wishlistwednesday on Wednesdays once the page is live or the day before, otherwise #WeLoveIndies."
+  }
 }
