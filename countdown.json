@@ -136,20 +136,20 @@
       "daysLeft": 5,
       "date": "2026-11-14",
       "time": "17:00",
-      "title": "The Data Bus: wait at the crossing",
+      "title": "The Data Bus: Runners wait at the crossing",
       "x": {
-        "text": ""
+        "text": "5 days until our Steam page goes live.\n\nOn some boards a Data Bus pulses across the map. Runners see it coming and wait at the crossing. How often would you make them cross it?"
       },
       "tiktok": {
-        "text": "\n\n#indiedev #strategygame #indiegame #gamedev"
+        "text": "5 days until our Steam page goes live. Our Runners see the Data Bus coming and wait for it to pass. How often would you make them cross it?\n\n#indiedev #strategygame #indiegame #gamedev"
       },
       "youtube": {
-        "title": "",
-        "text": ""
+        "title": "Our Runners learned to wait for the Data Bus #Shorts",
+        "text": "5 days until our Steam page goes live. In Overflow a Data Bus pulses across some boards, and Runners wait at the crossing until it passes. Wishlist from 19 Nov."
       },
       "media": {
-        "vertical": null,
-        "x": null
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/countdown/cd05_databus_vertical.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/countdown/cd05_databus_wide.mp4"
       },
       "scheduled": {
         "x": null,
