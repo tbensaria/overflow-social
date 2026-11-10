@@ -1,0 +1,292 @@
+{
+  "campaign": "Steam page and demo countdown",
+  "timezone": "Europe/London",
+  "days": [
+    {
+      "daysLeft": 10,
+      "date": "2026-11-09",
+      "time": "21:30",
+      "title": "The new look, three worlds",
+      "x": {
+        "text": "10 days until our Steam page goes live.\n\nWe gave Overflow a whole new look: three worlds, each a network to keep alive. Which one would you run?"
+      },
+      "tiktok": {
+        "text": "10 days until our Steam page goes live. We gave our network game a whole new look. Which world would you run?\n\n#indiedev #strategygame #indiegame #gamedev"
+      },
+      "youtube": {
+        "title": "Our network game's whole new look #Shorts",
+        "text": "10 days until our Steam page goes live. We gave Overflow a whole new look: three worlds, each a network to keep alive. Wishlist from 19 Nov."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/countdown/cd10_newlook_vertical.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/countdown/cd10_newlook_wide.mp4"
+      },
+      "scheduled": {
+        "x": "6af22e26f931818db2de7760",
+        "tiktok": "6af22e296e772a59941db40d",
+        "youtube": "6af22e2bfa912548ccd9a0d7"
+      },
+      "hold": null
+    },
+    {
+      "daysLeft": 9,
+      "date": "2026-11-10",
+      "time": "17:00",
+      "title": "The crash",
+      "x": {
+        "text": "9 days until our Steam page goes live.\n\nIn Overflow, one full Node crashes the whole network. Can you keep it alive?\n\nWishlist from 19 Nov."
+      },
+      "tiktok": {
+        "text": "9 days until our Steam page goes live. One full Node crashes the whole network. Could you keep it alive?\n\n#indiedev #strategygame #indiegame #gamedev"
+      },
+      "youtube": {
+        "title": "One full Node ends the whole run #Shorts",
+        "text": "9 days until our Steam page goes live. In Overflow, one full Node crashes the whole network. Wishlist from 19 Nov."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/countdown/cd09_crash_vertical.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/countdown/cd09_crash_wide.mp4"
+      },
+      "scheduled": {
+        "x": "6af22b136e772a59941cad76",
+        "tiktok": "6af22b178e5b33e529a1c8ff",
+        "youtube": "6af22b19398ae91929ad4b2b"
+      },
+      "hold": null
+    },
+    {
+      "daysLeft": 8,
+      "date": "2026-11-11",
+      "time": "17:00",
+      "title": "You draw the Traces",
+      "x": {
+        "text": "8 days until our Steam page goes live.\n\nYou draw the Traces. Your Runners do the driving. Where would you draw the next one?"
+      },
+      "tiktok": {
+        "text": "8 days until our Steam page goes live. You draw the Traces, your Runners do the rest. Where would you draw the next one?\n\n#indiedev #strategygame #indiegame #gamedev"
+      },
+      "youtube": {
+        "title": "We draw three lines and the network comes alive #Shorts",
+        "text": "8 days until our Steam page goes live. In Overflow you draw the Traces and your Runners do the driving. Wishlist from 19 Nov."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/countdown/cd08_draw_vertical.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/countdown/cd08_draw_wide.mp4"
+      },
+      "scheduled": {
+        "x": "6af2333f21c8282e5bf111df",
+        "tiktok": "6af233416e772a59941f1764",
+        "youtube": "6af233446e772a59941f17b0"
+      },
+      "hold": null
+    },
+    {
+      "daysLeft": 7,
+      "date": "2026-11-12",
+      "time": "17:00",
+      "title": "The Hub under pressure",
+      "x": {
+        "text": "7 days until our Steam page goes live.\n\nEvery Signal passes through your Hub. When it fills, every Node backs up. How fast could you clear it?"
+      },
+      "tiktok": {
+        "text": "7 days until our Steam page goes live. Our Hub filled up and every Node backed up. How fast could you clear it?\n\n#indiedev #strategygame #indiegame #gamedev"
+      },
+      "youtube": {
+        "title": "Our Hub filled up and everything backed up #Shorts",
+        "text": "7 days until our Steam page goes live. In Overflow every Signal passes through your Hub, and when it fills, every Node backs up. Wishlist from 19 Nov."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/countdown/cd07_hub_vertical.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/countdown/cd07_hub_wide.mp4"
+      },
+      "scheduled": {
+        "x": "6af23c2f33a8b9c5b797d78b",
+        "tiktok": "6af23c32929ce6235490fd10",
+        "youtube": "6af23c35cfa2cb42cef4c451"
+      },
+      "hold": null
+    },
+    {
+      "daysLeft": 6,
+      "date": "2026-11-13",
+      "time": "17:00",
+      "title": "Bridges and Vias",
+      "x": {
+        "text": "6 days until our Steam page goes live.\n\nA Dead Zone in the way? Build a Bridge over it. A Shielded Block? Run a Via under it. Which would you save your charges for?"
+      },
+      "tiktok": {
+        "text": "6 days until our Steam page goes live. Bridge over the Dead Zone or Via under the Shielded Block. Which would you save your charges for?\n\n#indiedev #strategygame #indiegame #gamedev"
+      },
+      "youtube": {
+        "title": "Bridge over it or Via under it? #Shorts",
+        "text": "6 days until our Steam page goes live. In Overflow you Bridge over Dead Zones and run Vias under Shielded Blocks. Wishlist from 19 Nov."
+      },
+      "media": {
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/countdown/cd06_bridgevia_vertical.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/countdown/cd06_bridgevia_wide.mp4"
+      },
+      "scheduled": {
+        "x": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "hold": null
+    },
+    {
+      "daysLeft": 5,
+      "date": "2026-11-14",
+      "time": "17:00",
+      "title": "The Data Bus: wait at the crossing",
+      "x": {
+        "text": ""
+      },
+      "tiktok": {
+        "text": "\n\n#indiedev #strategygame #indiegame #gamedev"
+      },
+      "youtube": {
+        "title": "",
+        "text": ""
+      },
+      "media": {
+        "vertical": null,
+        "x": null
+      },
+      "scheduled": {
+        "x": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "hold": null
+    },
+    {
+      "daysLeft": 4,
+      "date": "2026-11-15",
+      "time": "17:00",
+      "title": "Priority Signals and Hub policies",
+      "x": {
+        "text": ""
+      },
+      "tiktok": {
+        "text": "\n\n#indiedev #strategygame #indiegame #gamedev"
+      },
+      "youtube": {
+        "title": "",
+        "text": ""
+      },
+      "media": {
+        "vertical": null,
+        "x": null
+      },
+      "scheduled": {
+        "x": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "hold": null
+    },
+    {
+      "daysLeft": 3,
+      "date": "2026-11-16",
+      "time": "17:00",
+      "title": "Emergency abilities save the run",
+      "x": {
+        "text": ""
+      },
+      "tiktok": {
+        "text": "\n\n#indiedev #strategygame #indiegame #gamedev"
+      },
+      "youtube": {
+        "title": "",
+        "text": ""
+      },
+      "media": {
+        "vertical": null,
+        "x": null
+      },
+      "scheduled": {
+        "x": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "hold": null
+    },
+    {
+      "daysLeft": 2,
+      "date": "2026-11-17",
+      "time": "17:00",
+      "title": "Behind the scenes: our Runners anticipate the bus",
+      "x": {
+        "text": ""
+      },
+      "tiktok": {
+        "text": "\n\n#indiedev #strategygame #indiegame #gamedev"
+      },
+      "youtube": {
+        "title": "",
+        "text": ""
+      },
+      "media": {
+        "vertical": null,
+        "x": null
+      },
+      "scheduled": {
+        "x": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "hold": null
+    },
+    {
+      "daysLeft": 1,
+      "date": "2026-11-18",
+      "time": "17:00",
+      "title": "One full Cycle, uncut: tomorrow",
+      "x": {
+        "text": ""
+      },
+      "tiktok": {
+        "text": "\n\n#indiedev #strategygame #indiegame #gamedev"
+      },
+      "youtube": {
+        "title": "",
+        "text": ""
+      },
+      "media": {
+        "vertical": null,
+        "x": null
+      },
+      "scheduled": {
+        "x": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "hold": null
+    },
+    {
+      "daysLeft": 0,
+      "date": "2026-11-19",
+      "time": "18:00",
+      "title": "Steam page live: the announce trailer",
+      "x": {
+        "text": ""
+      },
+      "tiktok": {
+        "text": "\n\n#indiedev #strategygame #indiegame #gamedev"
+      },
+      "youtube": {
+        "title": "",
+        "text": ""
+      },
+      "media": {
+        "vertical": null,
+        "x": null
+      },
+      "scheduled": {
+        "x": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "hold": "Announce day: posted by hand with the Steam link at 18:00 UK, not by the routine"
+    }
+  ]
+}
