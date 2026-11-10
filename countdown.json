@@ -15,7 +15,7 @@
       },
       "youtube": {
         "title": "Our network game's whole new look #Shorts",
-        "text": "10 days until our Steam page goes live. We gave Overflow a whole new look: three worlds, each a network to keep alive. Wishlist from 19 Nov."
+        "text": "10 days until our Steam page goes live. We gave Overflow a whole new look: three worlds, each a network to keep alive. Wishlist from 19 Nov.\n\n#indiegame #madewithunity"
       },
       "media": {
         "vertical": "https://github.com/tbensaria/overflow-social/releases/download/countdown/cd10_newlook_vertical.mp4",
@@ -42,7 +42,7 @@
       },
       "youtube": {
         "title": "One full Node ends the whole run #Shorts",
-        "text": "9 days until our Steam page goes live. In Overflow, one full Node crashes the whole network. Wishlist from 19 Nov."
+        "text": "9 days until our Steam page goes live. In Overflow, one full Node crashes the whole network. Wishlist from 19 Nov.\n\n#indiegame #madewithunity"
       },
       "media": {
         "vertical": "https://github.com/tbensaria/overflow-social/releases/download/countdown/cd09_crash_vertical.mp4",
@@ -69,7 +69,7 @@
       },
       "youtube": {
         "title": "We draw three lines and the network comes alive #Shorts",
-        "text": "8 days until our Steam page goes live. In Overflow you draw the Traces and your Runners do the driving. Wishlist from 19 Nov."
+        "text": "8 days until our Steam page goes live. In Overflow you draw the Traces and your Runners do the driving. Wishlist from 19 Nov.\n\n#indiegame #madewithunity"
       },
       "media": {
         "vertical": "https://github.com/tbensaria/overflow-social/releases/download/countdown/cd08_draw_vertical.mp4",
@@ -96,7 +96,7 @@
       },
       "youtube": {
         "title": "Our Hub filled up and everything backed up #Shorts",
-        "text": "7 days until our Steam page goes live. In Overflow every Signal passes through your Hub, and when it fills, every Node backs up. Wishlist from 19 Nov."
+        "text": "7 days until our Steam page goes live. In Overflow every Signal passes through your Hub, and when it fills, every Node backs up. Wishlist from 19 Nov.\n\n#indiegame #madewithunity"
       },
       "media": {
         "vertical": "https://github.com/tbensaria/overflow-social/releases/download/countdown/cd07_hub_vertical.mp4",
@@ -123,7 +123,7 @@
       },
       "youtube": {
         "title": "Bridge over it or Via under it? #Shorts",
-        "text": "6 days until our Steam page goes live. In Overflow you Bridge over Dead Zones and run Vias under Shielded Blocks. Wishlist from 19 Nov."
+        "text": "6 days until our Steam page goes live. In Overflow you Bridge over Dead Zones and run Vias under Shielded Blocks. Wishlist from 19 Nov.\n\n#indiegame #madewithunity"
       },
       "media": {
         "vertical": "https://github.com/tbensaria/overflow-social/releases/download/countdown/cd06_bridgevia_vertical.mp4",
@@ -150,7 +150,7 @@
       },
       "youtube": {
         "title": "Our Runners learned to wait for the Data Bus #Shorts",
-        "text": "5 days until our Steam page goes live. In Overflow a Data Bus pulses across some boards, and Runners wait at the crossing until it passes. Wishlist from 19 Nov."
+        "text": "5 days until our Steam page goes live. In Overflow a Data Bus pulses across some boards, and Runners wait at the crossing until it passes. Wishlist from 19 Nov.\n\n#indiegame #madewithunity"
       },
       "media": {
         "vertical": "https://github.com/tbensaria/overflow-social/releases/download/countdown/cd05_databus_vertical.mp4",
@@ -177,7 +177,7 @@
       },
       "youtube": {
         "title": "Every Hub has a mode. Which would you pick? #Shorts",
-        "text": "4 days until our Steam page goes live. In Overflow, pink Signals are urgent, and each Hub can run Balanced, Priority or Throughput. Wishlist from 19 Nov."
+        "text": "4 days until our Steam page goes live. In Overflow, pink Signals are urgent, and each Hub can run Balanced, Priority or Throughput. Wishlist from 19 Nov.\n\n#indiegame #madewithunity"
       },
       "media": {
         "vertical": "https://github.com/tbensaria/overflow-social/releases/download/countdown/cd04_priority_vertical.mp4",
@@ -204,7 +204,7 @@
       },
       "youtube": {
         "title": "Every Node was about to overflow. Then we did this #Shorts",
-        "text": "3 days until our Steam page goes live. In Overflow, three emergency abilities can pull a collapsing network back from the edge. Wishlist from 19 Nov."
+        "text": "3 days until our Steam page goes live. In Overflow, three emergency abilities can pull a collapsing network back from the edge. Wishlist from 19 Nov.\n\n#indiegame #madewithunity"
       },
       "media": {
         "vertical": "https://github.com/tbensaria/overflow-social/releases/download/countdown/cd03_abilities_vertical.mp4",
@@ -301,6 +301,7 @@
   ],
   "rules": {
     "xHashtags": "At most 2 hashtags per X post: #madewithunity on every post, plus #screenshotsaturday on Saturdays, #wishlistwednesday on Wednesdays once the page is live or the day before, otherwise #WeLoveIndies.",
-    "xStyle": "X captions: one short hook line (a satisfying, curious or funny moment, never an ad), then the countdown as a small second line, then 2 hashtags. From the examples Chris Zukowski shares (Paralives: Resize, flip and stack!)."
+    "xStyle": "X captions: one short hook line (a satisfying, curious or funny moment, never an ad), then the countdown as a small second line, then 2 hashtags. From the examples Chris Zukowski shares (Paralives: Resize, flip and stack!).",
+    "youtubeHashtags": "YouTube descriptions end with #indiegame #madewithunity; the title keeps #Shorts. TikTok keeps #indiedev #strategygame #indiegame #gamedev."
   }
 }
