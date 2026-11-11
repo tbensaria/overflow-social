@@ -400,26 +400,26 @@
       "time": "17:00",
       "title": "Daily Challenge: the same board for everyone",
       "x": {
-        "text": ""
+        "text": "Every day the Daily Challenge gives everyone the same board and seed. The one we played doubled the disruptions.\n\nSteam Demo in 10 days\n\n#madewithunity #WeLoveIndies"
       },
       "xHashtags": "#madewithunity #WeLoveIndies",
       "tiktok": {
-        "text": ""
+        "text": "Every day the Daily Challenge gives everyone the same board, the same seed and one rule. The one we played doubled the disruptions. Your best score goes on that day's board. Steam Demo out 3 Dec.\n\n#indiedev #strategygame #indiegame #gamedev"
       },
       "youtube": {
-        "title": "",
-        "text": ""
+        "title": "Same board, same seed, for everyone, every day #Shorts",
+        "text": "Every day the Daily Challenge gives everyone the same board, the same seed and one rule. Your best score goes on that day's board. Overflow, Steam Demo out 3 Dec.\n\n#indiegame #madewithunity"
       },
       "media": {
-        "vertical": null,
-        "x": null
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/countdown/dm10_daily_vertical.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/countdown/dm10_daily_wide.mp4"
       },
       "scheduled": {
         "x": null,
         "tiktok": null,
         "youtube": null
       },
-      "hold": null
+      "hold": "Waiting for the user to OK the clip (2026-11-11)"
     },
     {
       "countdown": "demo",
