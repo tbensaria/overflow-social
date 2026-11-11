@@ -622,28 +622,28 @@
       "daysLeft": 2,
       "date": "2026-12-01",
       "time": "17:00",
-      "title": "Worst crashes compilation",
+      "title": "Three of our worst crashes",
       "x": {
-        "text": ""
+        "text": "Three of our worst crashes, at 8x speed. One crashed just after the board opened up. One made it to Cycle 6, past where the Steam Demo stops.\n\nSteam Demo in 2 days\n\n#madewithunity #WeLoveIndies"
       },
       "xHashtags": "#madewithunity #WeLoveIndies",
       "tiktok": {
-        "text": ""
+        "text": "Three of our worst crashes at 8x speed. Standard Array went in Cycle 3. High-Latency Zone crashed right after the board opened up. The last one reached Cycle 6, which is the full game: the Steam Demo stops at Cycle 5. How far will you get? Steam Demo out 3 Dec.\n\n#indiedev #strategygame #indiegame #gamedev"
       },
       "youtube": {
-        "title": "",
-        "text": ""
+        "title": "Three of our worst crashes #Shorts",
+        "text": "Three of our worst crashes at 8x speed, one on each Steam Demo board. The last one reached Cycle 6, past where the demo stops. Overflow, Steam Demo out 3 Dec.\n\n#indiegame #madewithunity"
       },
       "media": {
-        "vertical": null,
-        "x": null
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/countdown/dm02_crashes_vertical.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/countdown/dm02_crashes_wide.mp4"
       },
       "scheduled": {
         "x": null,
         "tiktok": null,
         "youtube": null
       },
-      "hold": null
+      "hold": "Waiting for the user to OK the clip (2026-11-11)"
     },
     {
       "countdown": "demo",
