@@ -484,26 +484,26 @@
       "time": "17:00",
       "title": "Dev story: Runners got weight (Haulers vs Couriers)",
       "x": {
-        "text": ""
+        "text": "Our Runners used to hit full speed on the first frame. Now they have weight: a Hauler takes nearly twice as long as a Courier to get going.\n\nSteam Demo in 7 days\n\n#madewithunity #WeLoveIndies"
       },
       "xHashtags": "#madewithunity #WeLoveIndies",
       "tiktok": {
-        "text": ""
+        "text": "We gave our Runners weight. They pull away from a stop, ease into corners and brake at the end of a trip, and a Hauler takes nearly twice as long as a Courier to get going. Steam Demo out 3 Dec.\n\n#indiedev #strategygame #indiegame #gamedev"
       },
       "youtube": {
-        "title": "",
-        "text": ""
+        "title": "We gave our little Runners weight #Shorts",
+        "text": "Our Runners used to hit full speed on the first frame. Now they pull away, ease into corners and brake, and a Hauler takes nearly twice as long as a Courier to get going. Overflow, Steam Demo out 3 Dec.\n\n#indiegame #madewithunity"
       },
       "media": {
-        "vertical": null,
-        "x": null
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/countdown/dm07_weight_vertical.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/countdown/dm07_weight_wide.mp4"
       },
       "scheduled": {
         "x": null,
         "tiktok": null,
         "youtube": null
       },
-      "hold": null
+      "hold": "Waiting for the user to OK the clip (2026-11-11)"
     },
     {
       "countdown": "demo",
