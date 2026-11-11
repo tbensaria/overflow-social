@@ -510,28 +510,28 @@
       "daysLeft": 6,
       "date": "2026-11-27",
       "time": "17:00",
-      "title": "Scenarios: twelve fixed challenges",
+      "title": "Scenarios: one goal, new rules",
       "x": {
-        "text": ""
+        "text": "Endless not your thing? Scenarios give each run one goal and a twist on the rules. Nine of the twelve are in the Steam Demo.\n\nSteam Demo in 6 days\n\n#madewithunity #WeLoveIndies"
       },
       "xHashtags": "#madewithunity #WeLoveIndies",
       "tiktok": {
-        "text": ""
+        "text": "Scenarios give every run a single goal: hit 1,500 points, deliver 20 Priority Signals on time, or survive with no abilities. Nine of the twelve are in the Steam Demo. Which would you try first? Steam Demo out 3 Dec.\n\n#indiedev #strategygame #indiegame #gamedev"
       },
       "youtube": {
-        "title": "",
-        "text": ""
+        "title": "Twelve Scenarios, one goal each #Shorts",
+        "text": "Scenarios give every run one goal and a twist on the rules. Nine of the twelve are in the Steam Demo. Overflow, Steam Demo out 3 Dec.\n\n#indiegame #madewithunity"
       },
       "media": {
-        "vertical": null,
-        "x": null
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/countdown/dm06_scenarios_vertical.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/countdown/dm06_scenarios_wide.mp4"
       },
       "scheduled": {
         "x": null,
         "tiktok": null,
         "youtube": null
       },
-      "hold": null
+      "hold": "Waiting for the user to OK the clip (2026-11-11)"
     },
     {
       "countdown": "demo",
