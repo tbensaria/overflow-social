@@ -428,26 +428,26 @@
       "time": "17:00",
       "title": "Dev story: our menu said CAN CEL",
       "x": {
-        "text": ""
+        "text": "Our pause menu said CAN CEL. Not a typo: the font pulled some letter pairs closer and not others, and our wide letter spacing turned that into a gap.\n\nSteam Demo in 9 days\n\n#madewithunity #WeLoveIndies"
       },
       "xHashtags": "#madewithunity #WeLoveIndies",
       "tiktok": {
-        "text": ""
+        "text": "Our pause menu said CAN CEL. The spelling was fine. The font pulls some letter pairs closer and leaves others alone, and under our wide letter spacing the one it skipped looked like a space. So we turned kerning off on spaced-out labels. Steam Demo out 3 Dec.\n\n#indiedev #strategygame #indiegame #gamedev"
       },
       "youtube": {
-        "title": "",
-        "text": ""
+        "title": "Our pause menu said CAN CEL #Shorts",
+        "text": "The spelling was fine. The font pulled some letter pairs closer and not others, and our wide letter spacing turned that into a gap. Overflow, Steam Demo out 3 Dec.\n\n#indiegame #madewithunity"
       },
       "media": {
-        "vertical": null,
-        "x": null
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/countdown/dm09_cancel_vertical.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/countdown/dm09_cancel_wide.mp4"
       },
       "scheduled": {
         "x": null,
         "tiktok": null,
         "youtube": null
       },
-      "hold": null
+      "hold": "Waiting for the user to OK the clip (2026-11-11)"
     },
     {
       "countdown": "demo",
