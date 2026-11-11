@@ -538,28 +538,28 @@
       "daysLeft": 5,
       "date": "2026-11-28",
       "time": "17:00",
-      "title": "Dev story: Runners queue outside a full Hub",
+      "title": "Dev story: our Runners stopped queuing at a full Hub",
       "x": {
-        "text": ""
+        "text": "Our Runners used to wait outside a full Hub, even with a free one right next door. Now they take their Signals where there's room.\n\nSteam Demo in 5 days\n\n#screenshotsaturday #madewithunity"
       },
       "xHashtags": "#screenshotsaturday #madewithunity",
       "tiktok": {
-        "text": ""
+        "text": "Our Runners used to queue outside a full Hub even when another one had room. Now they skip the line and take their Signals where there's space. Steam Demo out 3 Dec.\n\n#indiedev #strategygame #indiegame #gamedev"
       },
       "youtube": {
-        "title": "",
-        "text": ""
+        "title": "Our Runners stopped queuing at a full Hub #Shorts",
+        "text": "Our Runners used to wait outside a full Hub, even with a free one right next door. Now they take their Signals where there's room. Overflow, Steam Demo out 3 Dec.\n\n#indiegame #madewithunity"
       },
       "media": {
-        "vertical": null,
-        "x": null
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/countdown/dm05_queue_vertical.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/countdown/dm05_queue_wide.mp4"
       },
       "scheduled": {
         "x": null,
         "tiktok": null,
         "youtube": null
       },
-      "hold": null
+      "hold": "Waiting for the user to OK the clip (2026-11-11)"
     },
     {
       "countdown": "demo",
