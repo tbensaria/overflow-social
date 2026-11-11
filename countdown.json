@@ -510,17 +510,17 @@
       "daysLeft": 6,
       "date": "2026-11-27",
       "time": "17:00",
-      "title": "Scenarios: one goal, new rules",
+      "title": "Scenarios: one to try in the demo",
       "x": {
-        "text": "Endless not your thing? Scenarios give each run one goal and a twist on the rules. Nine of the twelve are in the Steam Demo.\n\nSteam Demo in 6 days\n\n#madewithunity #WeLoveIndies"
+        "text": "Scenarios give a run one goal and its own rules. The Steam Demo has First Contact to try. Eleven more come with the full game.\n\nSteam Demo in 6 days\n\n#madewithunity #WeLoveIndies"
       },
       "xHashtags": "#madewithunity #WeLoveIndies",
       "tiktok": {
-        "text": "Scenarios give every run a single goal: hit 1,500 points, deliver 20 Priority Signals on time, or survive with no abilities. Nine of the twelve are in the Steam Demo. Which would you try first? Steam Demo out 3 Dec.\n\n#indiedev #strategygame #indiegame #gamedev"
+        "text": "Scenarios give a run one goal and its own rules: hit 1,500 points, deliver Priority Signals on time, survive with no abilities. The Steam Demo has First Contact to try, and eleven more come with the full game. Steam Demo out 3 Dec.\n\n#indiedev #strategygame #indiegame #gamedev"
       },
       "youtube": {
-        "title": "Twelve Scenarios, one goal each #Shorts",
-        "text": "Scenarios give every run one goal and a twist on the rules. Nine of the twelve are in the Steam Demo. Overflow, Steam Demo out 3 Dec.\n\n#indiegame #madewithunity"
+        "title": "One goal per run: Scenarios #Shorts",
+        "text": "Scenarios give a run one goal and its own rules. The Steam Demo has First Contact to try, and eleven more come with the full game. Overflow, Steam Demo out 3 Dec.\n\n#indiegame #madewithunity"
       },
       "media": {
         "vertical": "https://github.com/tbensaria/overflow-social/releases/download/countdown/dm06_scenarios_vertical.mp4",
@@ -531,7 +531,7 @@
         "tiktok": null,
         "youtube": null
       },
-      "hold": "Waiting for the user to OK the clip (2026-11-11)"
+      "hold": "Waiting for the user to OK the re-recorded clip (2026-11-11)"
     },
     {
       "countdown": "demo",
