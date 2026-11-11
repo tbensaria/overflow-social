@@ -568,26 +568,26 @@
       "time": "17:00",
       "title": "The board grows: new Nodes keep coming",
       "x": {
-        "text": ""
+        "text": "Every run starts on a small board. New Nodes keep switching on until there's no room, then the board opens up. The Steam Demo opens it twice.\n\nSteam Demo in 4 days\n\n#madewithunity #WeLoveIndies"
       },
       "xHashtags": "#madewithunity #WeLoveIndies",
       "tiktok": {
-        "text": ""
+        "text": "Every run starts small. New Nodes keep switching on until the board is crowded, then it opens up with new ground on every side and more Traces to build with. In the Steam Demo it grows twice, at Cycle 3 and Cycle 5. Steam Demo out 3 Dec.\n\n#indiedev #strategygame #indiegame #gamedev"
       },
       "youtube": {
-        "title": "",
-        "text": ""
+        "title": "Our board keeps growing #Shorts",
+        "text": "Every run starts on a small board. New Nodes keep switching on until there's no room, then the board opens up. In the Steam Demo it grows twice. Overflow, Steam Demo out 3 Dec.\n\n#indiegame #madewithunity"
       },
       "media": {
-        "vertical": null,
-        "x": null
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/countdown/dm04_grow_vertical.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/countdown/dm04_grow_wide.mp4"
       },
       "scheduled": {
         "x": null,
         "tiktok": null,
         "youtube": null
       },
-      "hold": null
+      "hold": "Waiting for the user to OK the clip (2026-11-11)"
     },
     {
       "countdown": "demo",
