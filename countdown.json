@@ -316,15 +316,15 @@
       "time": "17:00",
       "title": "Dev story: new Nodes got a 25 s wake-up ring",
       "x": {
-        "text": "New Nodes used to fill up before you even saw them. So we gave them 25 seconds to wake up.\n\nFree demo in 13 days\n\n#madewithunity #WeLoveIndies"
+        "text": "New Nodes used to fill up before you even saw them. So we gave them 25 seconds to wake up.\n\nSteam Demo in 13 days\n\n#madewithunity #WeLoveIndies"
       },
       "xHashtags": "#madewithunity #WeLoveIndies",
       "tiktok": {
-        "text": "New Nodes used to fill up before you even saw them, so we gave them 25 seconds to wake up. Would you have reached it in time? Free demo on Steam, 3 Dec.\n\n#indiedev #strategygame #indiegame #gamedev"
+        "text": "New Nodes used to fill up before you even saw them, so we gave them 25 seconds to wake up. Would you have reached it in time? Steam Demo out 3 Dec.\n\n#indiedev #strategygame #indiegame #gamedev"
       },
       "youtube": {
         "title": "Our new Nodes kept ambushing players #Shorts",
-        "text": "New Nodes used to fill up before you even saw them, so we gave them a 25 second wake-up ring. Overflow, free demo on Steam from 3 Dec.\n\n#indiegame #madewithunity"
+        "text": "New Nodes used to fill up before you even saw them, so we gave them a 25 second wake-up ring. Overflow, Steam Demo out 3 Dec.\n\n#indiegame #madewithunity"
       },
       "media": {
         "vertical": "https://github.com/tbensaria/overflow-social/releases/download/countdown/dm13_newnode_vertical.mp4",
@@ -342,21 +342,21 @@
       "daysLeft": 12,
       "date": "2026-11-21",
       "time": "17:00",
-      "title": "Can you survive to Cycle 5? (the demo challenge)",
+      "title": "Can you survive to Cycle 5? Our test run died in Cycle 3",
       "x": {
-        "text": ""
+        "text": "Our test run died in Cycle 3. The Steam Demo goes to Cycle 5.\n\nSteam Demo in 12 days\n\n#screenshotsaturday #madewithunity"
       },
       "xHashtags": "#screenshotsaturday #madewithunity",
       "tiktok": {
-        "text": ""
+        "text": "Our test run made it to Cycle 3 before the Nodes went red, one after another. The Steam Demo goes to Cycle 5. Can you get there? Steam Demo out 3 Dec.\n\n#indiedev #strategygame #indiegame #gamedev"
       },
       "youtube": {
-        "title": "",
-        "text": ""
+        "title": "Our test run never made it past Cycle 3 #Shorts",
+        "text": "Our test run made it to Cycle 3 before the Nodes went red, one after another. The Steam Demo goes to Cycle 5. Can you get there? Overflow, Steam Demo out 3 Dec.\n\n#indiegame #madewithunity"
       },
       "media": {
-        "vertical": null,
-        "x": null
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/countdown/dm12_cycle3_vertical.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/countdown/dm12_cycle3_wide.mp4"
       },
       "scheduled": {
         "x": null,
@@ -372,15 +372,15 @@
       "time": "17:00",
       "title": "Dev story: the camera shows which Node ended your run",
       "x": {
-        "text": "Players kept asking which Node ended their run. So now the camera shows you.\n\nFree demo in 11 days\n\n#madewithunity #WeLoveIndies"
+        "text": "Players kept asking which Node ended their run. So now the camera shows you.\n\nSteam Demo in 11 days\n\n#madewithunity #WeLoveIndies"
       },
       "xHashtags": "#madewithunity #WeLoveIndies",
       "tiktok": {
-        "text": "Players kept asking which Node ended their run, so now the camera shows you. Would you have spotted it? Free demo on Steam, 3 Dec.\n\n#indiedev #strategygame #indiegame #gamedev"
+        "text": "Players kept asking which Node ended their run, so now the camera shows you. Would you have spotted it? Steam Demo out 3 Dec.\n\n#indiedev #strategygame #indiegame #gamedev"
       },
       "youtube": {
         "title": "Players kept asking what killed their run #Shorts",
-        "text": "Players kept asking which Node ended their run, so now the crash camera zooms straight to it. Overflow, free demo on Steam from 3 Dec.\n\n#indiegame #madewithunity"
+        "text": "Players kept asking which Node ended their run, so now the crash camera zooms straight to it. Overflow, Steam Demo out 3 Dec.\n\n#indiegame #madewithunity"
       },
       "media": {
         "vertical": "https://github.com/tbensaria/overflow-social/releases/download/countdown/dm11_crashcam_vertical.mp4",
