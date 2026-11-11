@@ -594,28 +594,28 @@
       "daysLeft": 3,
       "date": "2026-11-30",
       "time": "17:00",
-      "title": "Dev story: Hubs everywhere on Priority won every run, so we fixed it",
+      "title": "Dev story: does every Hub on Priority always win? We tested it",
       "x": {
-        "text": ""
+        "text": "The theory: put every Hub on Priority and you can't lose. So we tested it on the same seed. All Priority crashed in Cycle 2. Balanced reached Cycle 3 with 3,000 more points.\n\nSteam Demo in 3 days\n\n#madewithunity #WeLoveIndies"
       },
       "xHashtags": "#madewithunity #WeLoveIndies",
       "tiktok": {
-        "text": ""
+        "text": "The theory: put every Hub on Priority and you can't lose. So we tested it on the same seed. All Priority crashed in Cycle 2. Balanced made it to Cycle 3 with 3,000 more points. Which policy would you run? Steam Demo out 3 Dec.\n\n#indiedev #strategygame #indiegame #gamedev"
       },
       "youtube": {
-        "title": "",
-        "text": ""
+        "title": "Does every Hub on Priority always win? #Shorts",
+        "text": "The theory: put every Hub on Priority and you can't lose. We tested it on the same seed. All Priority crashed in Cycle 2; Balanced reached Cycle 3 with 3,000 more points. Overflow, Steam Demo out 3 Dec.\n\n#indiegame #madewithunity"
       },
       "media": {
-        "vertical": null,
-        "x": null
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/countdown/dm03_priority_vertical.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/countdown/dm03_priority_wide.mp4"
       },
       "scheduled": {
         "x": null,
         "tiktok": null,
         "youtube": null
       },
-      "hold": null
+      "hold": "Waiting for the user to OK the clip (2026-11-11)"
     },
     {
       "countdown": "demo",
