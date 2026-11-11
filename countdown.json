@@ -456,26 +456,26 @@
       "time": "17:00",
       "title": "Upgrades between Cycles",
       "x": {
-        "text": ""
+        "text": "Every Cycle ends with three upgrades and you keep one. We took faster Couriers. Which would you take?\n\nSteam Demo in 8 days\n\n#wishlistwednesday #madewithunity"
       },
       "xHashtags": "#wishlistwednesday #madewithunity",
       "tiktok": {
-        "text": ""
+        "text": "Every Cycle ends with three upgrades. You keep one and the other two are gone. We took faster Couriers. Would you have picked the new Hub? Steam Demo out 3 Dec.\n\n#indiedev #strategygame #indiegame #gamedev"
       },
       "youtube": {
-        "title": "",
-        "text": ""
+        "title": "Three upgrades, keep one. Which would you pick? #Shorts",
+        "text": "Every Cycle ends with three upgrades. You keep one and the other two are gone. Overflow, Steam Demo out 3 Dec.\n\n#indiegame #madewithunity"
       },
       "media": {
-        "vertical": null,
-        "x": null
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/countdown/dm08_upgrades_vertical.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/countdown/dm08_upgrades_wide.mp4"
       },
       "scheduled": {
         "x": null,
         "tiktok": null,
         "youtube": null
       },
-      "hold": null
+      "hold": "Waiting for the user to OK the clip (2026-11-11)"
     },
     {
       "countdown": "demo",
