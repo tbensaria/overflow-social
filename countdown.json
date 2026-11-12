@@ -678,27 +678,27 @@
       "daysLeft": 0,
       "date": "2026-12-03",
       "time": "18:00",
-      "title": "The demo is live",
+      "title": "The Steam Demo is live",
       "x": {
-        "text": ""
+        "text": "The Overflow Steam Demo is out now. Five Cycles, a new Daily Challenge every day, and a Scenario to try. How far will you get?\n\n[Steam link]\n\n#madewithunity #indiegame"
       },
       "tiktok": {
-        "text": ""
+        "text": "The Overflow Steam Demo is out now. Five Cycles to survive, a new Daily Challenge every day, and a Scenario to try. How far will you get? Link in bio.\n\n#indiedev #strategygame #indiegame #gamedev"
       },
       "youtube": {
-        "title": "",
-        "text": ""
+        "title": "The Overflow Steam Demo is out now #Shorts",
+        "text": "The Overflow Steam Demo is out now: five Cycles, a new Daily Challenge every day, and a Scenario to try. How far will you get?\n\n[Steam link]\n\n#indiegame #madewithunity"
       },
       "media": {
-        "vertical": null,
-        "x": null
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/countdown/dm00_launch_vertical.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/countdown/dm00_launch_wide.mp4"
       },
       "scheduled": {
         "x": null,
         "tiktok": null,
         "youtube": null
       },
-      "hold": "Demo launch day: posted by hand with the Steam link at 18:00 UK"
+      "hold": "Demo launch day: posted by hand with the Steam link at 18:00 UK (clip built 12 Nov, not uploaded yet)"
     }
   ],
   "rules": {
