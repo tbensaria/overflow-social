@@ -650,28 +650,28 @@
       "daysLeft": 1,
       "date": "2026-12-02",
       "time": "17:00",
-      "title": "One full Cycle on Cycle 5 pressure: tomorrow",
+      "title": "Can you survive Cycle 5? One full Cycle at 12x",
       "x": {
-        "text": ""
+        "text": "Cycle 5 is the Steam Demo's last, and our test bot can't hold it. We kept our crash safety on to film it. You won't have one.\n\nSteam Demo out tomorrow\n\n#wishlistwednesday #madewithunity"
       },
       "xHashtags": "#wishlistwednesday #madewithunity",
       "tiktok": {
-        "text": ""
+        "text": "One full Cycle 5 at 12x. It's the last Cycle in the Steam Demo, and our test bot can't hold it: those red Nodes would end the run, so we kept our crash safety on to film it. Can you survive it? Steam Demo out tomorrow, 3 Dec.\n\n#indiedev #strategygame #indiegame #gamedev"
       },
       "youtube": {
-        "title": "",
-        "text": ""
+        "title": "Can you survive Cycle 5? #Shorts",
+        "text": "One full Cycle 5 at 12x, the last Cycle in the Steam Demo. Our test bot can't hold it, so we kept our crash safety on to film it. Overflow, Steam Demo out tomorrow, 3 Dec.\n\n#indiegame #madewithunity"
       },
       "media": {
-        "vertical": null,
-        "x": null
+        "vertical": "https://github.com/tbensaria/overflow-social/releases/download/countdown/dm01_cycle5_vertical.mp4",
+        "x": "https://github.com/tbensaria/overflow-social/releases/download/countdown/dm01_cycle5_wide.mp4"
       },
       "scheduled": {
         "x": null,
         "tiktok": null,
         "youtube": null
       },
-      "hold": null
+      "hold": "Waiting for the user to OK the clip (2026-11-12)"
     },
     {
       "countdown": "demo",
